@@ -5,7 +5,7 @@ title: PACCE a Make
 subtitle: autoestima e skincare
 description: 
 category: evento
-image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-02/1.jpg
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-02/capa.png
 tags:
 - Evento
 - Entretenimento
