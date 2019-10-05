@@ -4,7 +4,7 @@ layout: post
 title: Visita ao NAVI do IFCE
 subtitle: Encontro realizado pela célula de audiovisual.
 description: 
-image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-04-11/capa.jpg
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-11/capa.jpg
 optimized_image: 
 category: Encontro|Célula
 tags:
