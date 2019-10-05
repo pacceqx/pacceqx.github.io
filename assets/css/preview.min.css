@@ -763,11 +763,11 @@ body hr.page-divider:after {
     display: block;
     content: 'Page divider';
     padding: .313rem .625rem;
-    border: 2px solid #ff0a16;
+    border: 2px solid #00afefff;
     border-radius: .313rem;
     font-size: .875rem;
     font-weight: bold;
-    color: #ff0a16;
+    color: #00afefff;
     text-align: center;
     text-transform: uppercase
 }
@@ -788,7 +788,7 @@ body pre:before {
     font-weight: 400;
     font-style: normal;
     font-size: .875rem;
-    background-color: #ff0a16;
+    background-color: #00afefff;
     color: #fff
 }
 
