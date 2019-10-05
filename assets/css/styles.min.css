@@ -1239,7 +1239,7 @@ body.main-page .bar-header {
     content: 'New post';
     text-transform: uppercase;
     display: inline-block;
-    background: #00afefff;
+    background: ;
     color: #fff;
     font-size: .813rem;
     font-weight: 700;
@@ -2562,7 +2562,7 @@ pre span {
 .contact-form input[type="text"].has-error,
 .contact-form input[type="email"].has-error,
 .contact-form textarea.has-error {
-    border-color: #f04242
+    border-color: #00afefff
 }
 
 .contact-form textarea {
@@ -2572,7 +2572,7 @@ pre span {
 .contact-form span {
     display: block;
     font-size: .875rem;
-    color: #f04242;
+    color: #00afefff;
     padding-bottom: .625rem
 }
 
@@ -2583,7 +2583,7 @@ pre span {
     background: #00afefff;
     font-size: 1.125rem;
     width: 100%;
-    border: 1px solid #ba0009;
+    border: 1px solid #00afefff;
     border-width: 1px 1px 3px;
     margin-top: 3.125rem;
     margin-bottom: .625rem;
