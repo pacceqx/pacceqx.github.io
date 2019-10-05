@@ -2594,7 +2594,7 @@ pre span {
 }
 
 .contact-form button[type="submit"]:hover {
-    background: #00afefff
+    background: rgb(43, 190, 243)
 }
 
 @media only screen and (min-width:37.5rem) {
