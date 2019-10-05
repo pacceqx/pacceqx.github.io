@@ -153,8 +153,21 @@ h4 {
 .no-flexbox .Rtable > .Rtable-cell--foot {
   margin-bottom: 1em;
 }
+.container {  
+    display: grid;  
+    grid-gap: 5px;  
+    grid-template-rows: repeat(2, 100px);  
+}
 </style>
 
+<div class="container">  
+  <div>1</div>  
+  <div>2</div>  
+  <div>3</div>  
+  <div>4</div>  
+  <div>5</div>  
+  <div>6</div>  
+</div>
 
 <div class="Rtable Rtable--2cols Rtable--collapse">
 
