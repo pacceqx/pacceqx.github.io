@@ -818,13 +818,13 @@ aside.sidebar nav li a:hover {
 
 .search-form .search-list .entry-category {
     text-transform: uppercase;
-    background-color: #ffff;
+    background-color: #00afefff;
     margin-right: .313rem;
     height: 1.25rem;
     border-radius: .625rem;
     font-size: .75rem;
     padding: .125rem .5rem;
-    color: #00afefff
+    color: #fff
 }
 
 .search-form .search-list a {
@@ -840,7 +840,7 @@ aside.sidebar nav li a:hover {
 }
 
 .search-form .search-list a:hover {
-    color: #00afefff;
+    color: rgb(57, 192, 241);
 }
 
 .search-form .search-list a:hover .entry-category {
@@ -1888,7 +1888,7 @@ body.main-page .bar-header {
     padding: .625rem;
     -webkit-transition: bottom .5s;
     transition: bottom .5s;
-    background-color: #fff;
+    background-color: rgba(0, 0, 0, 0.85);
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
