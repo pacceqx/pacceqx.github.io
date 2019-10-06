@@ -6,7 +6,7 @@
             template : '<li><article><a href="{url}"><span class="entry-category">{categories}</span> {title} <span class="entry-date"><time datetime="{date}">{date}</time></span></a></article></li>',
             searchResults   : '.search-results',
             limit           : '10',
-            noResults       : '<p>Oh no! We didn\'t find anything :(</p>'
+            noResults       : '<p>Oh não! Nós não encontramos nada :(</p>'
         }, options);
 
         var properties = settings.jsonFormat.split(',');
