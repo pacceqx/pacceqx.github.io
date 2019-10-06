@@ -1010,7 +1010,7 @@ body.main-page .bar-header {
     left: 0;
     bottom: 0;
     pointer-events: none;
-    background: #fff;
+    background:;
     z-index: 17;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
