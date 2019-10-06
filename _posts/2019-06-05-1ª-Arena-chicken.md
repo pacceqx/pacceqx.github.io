@@ -4,7 +4,7 @@ layout: post
 title: 1ª Arena chicken
 subtitle: Diversos jogos de tabuleiro para entreter.
 description: 
-image:  https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-06-05/1.png
+image:  https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-06-05/capa.png
 optimized_image:
 category: evento
 tags:
@@ -26,9 +26,9 @@ Red 7 <br>
 Checkpoint Charlie <br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-06-05/3.JPG)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-06-05/img1.JPG)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-06-05/4.JPG)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-06-05/img2.JPG)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-06-05/2.JPG)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-06-05/img3.JPG)
 
