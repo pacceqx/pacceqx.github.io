@@ -1010,7 +1010,7 @@ body.main-page .bar-header {
     left: 0;
     bottom: 0;
     pointer-events: none;
-    background: rgba(0, 0, 0, 0.6);
+    background: #fff;
     z-index: 17;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
@@ -1236,10 +1236,10 @@ body.main-page .bar-header {
 }
 
 .box-item .box-body .new-post:after {
-    content: 'New post';
+    content: 'Novo post';
     text-transform: uppercase;
     display: inline-block;
-    background: ;
+    background:#00afefff ;
     color: #fff;
     font-size: .813rem;
     font-weight: 700;
