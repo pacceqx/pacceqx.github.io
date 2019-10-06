@@ -4,7 +4,7 @@ layout: post
 title: Doação de sangue 2019.1
 subtitle: Em parceria com o HEMOCE.
 description: 
-image:  https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-06-06/6.png
+image:  https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-06-06/capa.png
 optimized_image:
 category: evento
 tags:
