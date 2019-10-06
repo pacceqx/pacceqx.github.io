@@ -1888,7 +1888,7 @@ body.main-page .bar-header {
     padding: .625rem;
     -webkit-transition: bottom .5s;
     transition: bottom .5s;
-    background-color: rgba(0, 0, 0, 0.85);
+    background-color: #fff;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
