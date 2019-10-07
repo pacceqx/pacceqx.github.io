@@ -141,7 +141,7 @@ A declaração recebeu muitos aplausos dos participantes.<br><br>
 
 E o CONHECENDO A CÉLULA fica por aqui, semana que vem tem mais. Você curtiu essa célula? É aluno da UFC, em Quixadá, e ainda não a conhecia ? Não perca mais tempo! Chegue junto e entre nesse mundo de muitas possibilidades que o RPG de Mesa pode te proporcionar. É toda Quinta-Feira, das 18:00 às 21:30, na Sala 3, Bloco 3, hein?<br><br>
 
-E não esqueça: para mais notícias e novidades como essa, é só ficar ligado no nosso site Www.pacceqx.com.br e acompanhar nosso Instagram @pacceufcqx.
+E não esqueça: para mais notícias e novidades como essa, é só ficar ligado no nosso site www.pacceqx.com.br e acompanhar nosso Instagram @pacceufcqx.
 <br><br>
 
 Até a próxima!<br><br>
