@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Diet
-slug: diet
+title: Entretenimento
+slug: entretemimento
 description: A category for diet related posts.
 ---

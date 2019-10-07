@@ -7,7 +7,7 @@ description:
 category: entretenimento
 image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/capa.png
 tags:
-- Rpg
+- Ingles
 
 
 author: lorenaamaro
