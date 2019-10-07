@@ -130,7 +130,7 @@ Tiveram outras respostas, como:<br><br>
 
 -"Dá pra ver que eles fazem com o coração", disse o aluno Juan , do curso de Engenharia da Computação. <br><br>
 
--"Suprem nossas dúvidas, dão os materiais que precisamos, dão suporte e, querendo ou não, a célula nos ajuda com a comunicação, porque tem muita gente, aqui, que é muito reclusa, e a célula ajuda. Estamos aqui pra nos divertir. É como eles falam pra gente : " A célula não é nossa (articuladores), mas de todos vocês".<br><br>
+-"Suprem nossas dúvidas, dão os materiais que precisamos, dão suporte e, querendo ou não, a célula nos ajuda com a comunicação, porque tem muita gente, aqui, que é muito reclusa, e a célula ajuda. Estamos aqui pra nos divertir. É como eles falam pra gente : " A célula não é nossa (articuladores), mas de todos vocês", declarou o estudante de , Elias.<br>
 </p>
 
 ##### Para finalizar, o articulador Caio Caminha também se expressou:<br>
@@ -141,7 +141,7 @@ A declaração recebeu muitos aplausos dos participantes.<br><br>
 
 E o CONHECENDO A CÉLULA fica por aqui, semana que vem tem mais. Você curtiu essa célula? É aluno da UFC, em Quixadá, e ainda não a conhecia ? Não perca mais tempo! Chegue junto e entre nesse mundo de muitas possibilidades que o RPG de Mesa pode te proporcionar. É toda Quinta-Feira, das 18:00 às 21:30, na Sala 3, Bloco 3, hein?<br><br>
 
-E não esqueça, para mais notícias e novidades como essa, é só ficar ligado no nosso site Www.pacceqx.com.br e acompanhar nosso Instagram @pacceufcqx.
+E não esqueça: para mais notícias e novidades como essa, é só ficar ligado no nosso site Www.pacceqx.com.br e acompanhar nosso Instagram @pacceufcqx.
 <br><br>
 
 Até a próxima!<br><br>
