@@ -18,9 +18,10 @@ O campeonato de pebolim ocorreu nos dias 17 e 18 de setembro, organizado por Gab
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-18/img1.jpg)
 
+<p style="text-align: justify">
 Os vencedores do campeonato 2x2 foram Isaque Pinheiro e Lucas "Momo" Oliveira, e o segundo lugar ficou com Icaro Caminha e Thiago Marinho. Na categoria 1x1 o campeão foi Jonas Lopes, e Gabriel Josman ficou com a segunda colocação.
 O campeonato aconteceu nos horários de 12h às 13h30, e 17h30 às 18h, dando um total de 4 horas de evento durante os dois dias. 
-O evento ocorreu na área de convivência e chamou bastante atenção de todos que passavam por lá.
+O evento ocorreu na área de convivência e chamou bastante atenção de todos que passavam por lá. </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-18/img2.jpg)
 
