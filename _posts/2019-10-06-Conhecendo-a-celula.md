@@ -115,7 +115,7 @@ A primeira pergunta foi:
 
 -"Você passava, tomava um café, vinha alguém e passava por você, e você não era ninguém e, depois da célula, a galera passa e você diz:  'Oi, paladino' (risos)", afirmou outro participante da célula.<br><br>
 
--"Antes, eu não conseguia relaxar direito, era muito conteúdo para estudar. Agora, eu espero a semana inteira para chegar nesse dia e relaxar um pouco", afirmou o aluno Gustavo, do curso de Ciência da Computação.<br><br>
+-"Antes, eu não conseguia relaxar direito, era muito conteúdo para estudar. Agora, eu espero a semana inteira para chegar nesse dia e relaxar um pouco", afirmou o aluno Gustavo, do curso de Ciência da Computação.<br>
 </p>
 
 
