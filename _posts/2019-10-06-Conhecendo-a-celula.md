@@ -26,7 +26,7 @@ Articulada pelos alunos Bernardo Romeu e Caio Caminha, ambos do curso de Engenha
 <p style="text-align: justify">
 A sigla RPG significa role-playing game, que traduzido para o português significa “jogo de interpretação de papéis”.<br><br>
 
-Para explicar de forma simples o que é o RPG de mesa, vamos voltar no passado, quando éramos crianças. Se você é menina, certamente, já brincou de casinha, e se você é menino, já deve ter brincado de polícia e ladrão. — Mas o que isso tem haver com RPG de mesa? — Você deve estar se perguntando. Bom, tem tudo haver. Essas brincadeiras têm a mesma ideia central, que é a de interpretar personagens.<br><br>
+Para explicar de forma simples o que é o RPG de mesa, vamos voltar no passado, quando éramos crianças. Você, certamente, já brincou de casinha ou de polícia e ladrão. — Mas o que isso tem haver com RPG de mesa? — Você deve estar se perguntando. Bom, tem tudo haver. Essas brincadeiras têm a mesma ideia central, que é a de interpretar personagens.<br><br>
 
 O RPG de mesa, basicamente, é um jogo onde os jogadores interpretam seus personagens como se fossem atores que interpretam um personagem em um filme, novela ou teatro, com a diferença que, no RPG de mesa, não existe um roteiro para o personagem seguir, ele é livre para tomar suas decisões e fazer suas escolhas dentro do jogo.<br><br>
 
