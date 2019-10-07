@@ -1,5 +1,5 @@
 ---
-date: 2019-09-30 19:26:40
+date: 2019-10-06 19:26:40
 layout: post
 title: Conhecendo a célula Ep.02
 subtitle: Confira o Ep.02 dessa série.
