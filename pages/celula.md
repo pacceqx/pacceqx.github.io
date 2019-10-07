@@ -246,7 +246,7 @@ h4 {
 
   <div style="order:0;" class="Rtable-cell Rtable-cell--head"><img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\pic\celulas\13.png" alt="{{ site.name }}"></div>
   <div style="order:1;" class="Rtable-cell">RPG de Mesa</div>
-  <div style="order:2;" class="Rtable-cell">QUI, 18-20</div>
+  <div style="order:2;" class="Rtable-cell">QUI, 18-21:30</div>
   <div style="order:3;" class="Rtable-cell Rtable-cell--foot"><strong>Sala 3 B3</strong></div>
 
 <div style="order:0;" class="Rtable-cell Rtable-cell--head"><img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\pic\celulas\14.png" alt="{{ site.name }}"></div>

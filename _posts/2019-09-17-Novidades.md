@@ -19,57 +19,53 @@ As células acontecem de segunda à sábado, em variados horários e com temas q
 
 <ul>
   <li> Desenvolvimento Web
-  Segunda, 10 à 12, Lab 3 / 
-  Terça, 8 às 10, Lab 5
-  Terça, 12hrs, Lab 5 (estudo de back) </li>
-
-  <li> Desenvolvimento Android
-  Terça, 13:30 às 15:30, Sala 2 Bloco 3 / 
-  Quinta, 13:30 às 15:30, Sala 3 Bloco 4 </li>
+  Segunda, 10 à 12h, Lab 3 / 
+  Terça, 8 às 10h, Lab 5 /
+  Terça, 12h, Lab 5 (estudo de back) </li>
 
   <li> Música
-  Terça, 18 à 20, Sala 5 Bloco 4 </li>
+  Terça, 18 à 20h, Sala 5 Bloco 4 </li>
 
   <li> Inglês com Jogos
-  Terça, 18 às 20, Sala 1 Bloco 1 </li>
+  Terça, 18 às 20h, Sala 1 Bloco 1 </li>
 
   <li> Inglês 
-  Terça, 20 às 22, Sala 3 Bloco 1 </li>
+  Terça, 20 às 22h, Sala 3 Bloco 1 </li>
 
   <li> Desenho e Criatividade
-  Quarta, 10 às 12, Sala 4 Bloco 4 </li>
+  Quarta, 10 às 12h, Sala 4 Bloco 4 </li>
 
   <li> Fotografia
   Quinzenal
-  Quarta, 10 às 12, Sala 4 Bloco 2 </li>
+  Quarta, 10 às 12h, Sala 4 Bloco 2 </li>
 
   <li> Lógica para Computação
-  Quarta, 13:30 às 15:30, Sala 2 Bloco 1 </li>
+  Quarta, 13:30 às 15:30h, Sala 2 Bloco 1 </li>
 
   <li> PAA
-  Quarta, 15:30 às 17:30, Sala 4 Bloco 1
-  Quinta, 13:30 às 15:30, Sala 4 Bloco 1 </li>
+  Quarta, 15:30 às 17:30h, Sala 4 Bloco 1
+  Quinta, 13:30 às 15:30h, Sala 4 Bloco 1 </li>
 
   <li> Celulol
-  Quarta, 18:30 às 21:30, Lab 4 </li>
+  Quarta, 18:30 às 21:30h, Lab 4 </li>
 
   <li> Libras com Música
-  Quarta, 20 às 22, Sala 1 Bloco 2 </li>
+  Quarta, 20 às 22h, Sala 1 Bloco 2 </li>
 
   <li> PACCE a ideia
-  Quinta, 10 às 12, Sala 4 Bloco 1 </li>
+  Quinta, 10 às 12h, Sala 4 Bloco 1 </li>
 
   <li> Pintura Digital
-  Quinta, 18:30 às ?, Sala 3 Bloco 1 </li>
+  Quarta, 8 às 10h, Lab 3 </li>
 
   <li> RPG de Mesa
-  Quinta, 18 às 21:30, Sala 3 Bloco 3 </li>
+  Quinta, 18 às 21:30h, Sala 3 Bloco 3 </li>
 
   <li> FUP
-  Quinta, 18 às 20 </li>
+  Quinta, 18 às 20h, Lab 4 </li>
 
   <li> Desenho Técnico
-  Sexta, 8 às 10, Sala de Desenho </li>
+  Sexta, 8 às 10h, Sala de Desenho </li>
 
   <li> Culinária
   Fim de semana </li>
