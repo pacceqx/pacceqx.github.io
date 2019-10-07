@@ -5,7 +5,7 @@ title: Campeonato de Pebolim
 subtitle: diversão garantida
 description: 
 category: evento
-image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/capa.png
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-18/capa.png
 tags:
 - Evento
 - Campeonato 
