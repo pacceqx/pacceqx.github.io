@@ -32,7 +32,8 @@ O RPG de mesa, basicamente, é um jogo onde os jogadores interpretam seus person
 
 Todo RPG de Mesa tem suas regras e, com base nelas, os jogadores criam seus personagens. Essas regras servem como parâmetro para dizer o que cada personagem pode ou não fazer dentro do jogo e, em todo jogo, ou na maioria, deve-se ter uma pessoa responsável por guiar os jogadores dentro de uma história, que é a aventura. <br><br>
 
-Esse jogador se chama Mestre ou Narrador. Ele será como o que o juiz é para o futebol. Toda decisão final relacionada às regras é tomada por ele. Fonte: https://rpgmaisbarato.com. <br><br>
+Esse jogador se chama Mestre ou Narrador. Ele será como o que o juiz é para o futebol. Toda decisão final relacionada às regras é tomada por ele.<br>
+Fonte: https://rpgmaisbarato.com. <br><br>
 
 Agora que você já entendeu o conceito do jogo, ficará mais fácil de entender sobre a célula e seus objetivos. E pra ficar ainda melhor, quer saber quais atividades rolaram na célula, no encontro do dia 03 de Outubro de 2019? Se liga.<br>
 </p>
