@@ -135,7 +135,7 @@ Tiveram outras respostas, como:<br><br>
 
 ##### Para finalizar, o articulador Caio Caminha também se expressou:<br>
 <p style="text-align: justify">
--" O RPG é forte, gente. Ele lida com a mente. Não tem nada mais forte nesse mundo , pra você mesmo, do que ter sua mente afiada. Pode vir alguém e dizer que sou estúpido, incompetente, que o que eu tenho como hobby é desperdício, é brincar de maquete. Tô nem aí pra ele. Na minha cabeça, eu sou level 17 (Risos).<br><br>
+-"O RPG é forte, gente. Ele lida com a mente. Não tem nada mais forte nesse mundo , pra você mesmo, do que ter sua mente afiada. Pode vir alguém e dizer que sou estúpido, incompetente, que o que eu tenho como hobby é desperdício, é brincar de maquete. Tô nem aí pra ele. Na minha cabeça, eu sou level 17" (Risos).<br><br>
 
 A declaração recebeu muitos aplausos dos participantes.<br><br>
 
