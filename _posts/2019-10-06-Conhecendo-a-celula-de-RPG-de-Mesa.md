@@ -85,7 +85,7 @@ A realização dessa atividade teve o intuito de, além de apresentar o tema sem
 
 ##### Explicação sobre a atividade que levarão na semana seguinte.<br>
 <p style="text-align: justify">
-Foi pedido para que, na semana seguinte, cada um levasse uma situação onde podem ser utilizadas as mecânicas de combate, de uma forma criativa.<br><br>
+Foi pedido para que, na semana seguinte, cada um levasse uma situação onde podem ser utilizadas as mecânicas de combate, de uma forma criativa.<br>
 </p>
 
 ##### Hora da Prática.<br>
