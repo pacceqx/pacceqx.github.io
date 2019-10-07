@@ -51,7 +51,7 @@ A brincadeira consistiu em colocar os participantes em círculo, repassando uma 
 Essa atividade tem o intuito de deixar os participantes mais relaxados e sociáveis para que o aprendizado seja mais divertido.<br><br>
 </p>
 
-###Tarefa da semana passada.<br>
+##### Tarefa da semana passada.<br>
 <p style="text-align: justify">
 Como de costume, na célula, os articuladores pedem para que os participantes tragam uma atividade, repassada por eles, concluída na semana seguinte.<br><br>
 </p>
