@@ -126,7 +126,7 @@ A grande maioria utilizou a mesma frase:<br>
 
 Tiveram outras respostas, como:<br><br>
 
--"É interessante que tem pessoas que fazem determinada atividade e, simplesmente, fora daquela atividade, eles são pessoas normais, elas têm suas obrigações. No caso deles, articuladores, sempre têm atenção quase que 100%, ainda fora daqui, mesmo na correria, eles sempre ajudam". <br><br>
+-"É interessante que tem pessoas que fazem determinada atividade e, simplesmente, fora daquela atividade, elas são pessoas normais, elas têm suas obrigações. No caso deles, articuladores, sempre têm atenção quase que 100%, ainda fora daqui, mesmo na correria, eles sempre ajudam". <br><br>
 
 -"Dá pra ver que eles fazem com o coração", disse o aluno Juan , do curso de Engenharia da Computação. <br><br>
 
