@@ -119,7 +119,7 @@ A primeira pergunta foi:
 </p>
 
 
-##### Sobre os articuladores: Como está sendo o trabalho deles?<br>
+##### Sobre os articuladores: Como está sendo o trabalho deles?
 <p style="text-align: justify">
 A grande maioria utilizou a mesma frase:<br>
 -Lindo trabalho.<br><br>
