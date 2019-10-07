@@ -6,7 +6,7 @@ subtitle: Clique para ver como foi essa visita emocionante.
 description: 
 image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-04/capa.jpg
 optimized_image:
-category: FORMAÇÃO
+category: noticia
 tags:
   - Formação
 
