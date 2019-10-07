@@ -89,7 +89,7 @@ Foi pedido para que, na semana seguinte, cada um levasse uma situação onde pod
 </p>
 
 ##### Hora da Prática.<br>
-<p style="text-align: justify">s
+<p style="text-align: justify">
 Depois de tudo isso, para finalizar com chave de ouro, os participantes foram praticar o que foi aprendido, com todos os materiais necessários no RPG de mesa ( Ficha de personagem 
  e dados).<br>
  </p>
