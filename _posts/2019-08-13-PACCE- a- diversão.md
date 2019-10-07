@@ -6,7 +6,7 @@ subtitle: Novo investimento do PACCE para a UFC.
 description: 
 category: entretenimento
 image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-08-13/capa.png
-optimized_image: 
+
 tags:
   - Noticia
 author: lorenaamaro
