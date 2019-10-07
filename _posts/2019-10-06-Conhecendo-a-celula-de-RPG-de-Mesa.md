@@ -5,7 +5,7 @@ title: Conhecendo a célula Ep.02
 subtitle: Confira o Ep.02 dessa série.
 description: 
 category: tag
-image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/capa.png
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/capa.png
 tags:
 - tag
 
@@ -16,10 +16,10 @@ paginate: true
 <p style="text-align: justify">
 No CONHECENDO A CÉLULA, desta semana, vamos te apresentar uma célula que é nova, que iniciou-se no mês de Setembro de 2019, mas que já é umas das queridinhas da galera. Sabe de qual estamos falando? Pois é, a Célula de RPG de Mesa.<br><br>
 
-Articulada pelos alunos Bernardo Romeu e Caio Caminha, ambos do curso de Engenharia de Software e bolsistas do PACCE, a célula de RPG de Mesa conta com um grande público acadêmico, chegando à uma média de 25 alunos.<br><br>
+Articulada pelos alunos Bernardo Romeu e Caio Caminha, ambos do curso de Engenharia de Software e bolsistas do PACCE, a célula de RPG de Mesa conta com um grande público acadêmico, chegando à uma média de 25 alunos.<br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img1.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img1.png)
 
 
 ##### Mas, afinal, O que é RPG de Mesa? <br>
@@ -40,68 +40,67 @@ Agora que você já entendeu o conceito do jogo, ficará mais fácil de entender
 
 ##### Quebra-gelo: Batata quente.<br>
 <p style="text-align: justify">
-A brincadeira consistiu em colocar os participantes em círculo, repassando uma batata ( pode ser qualquer objeto que simule), de um em um. Cada participante que tivesse com a "batata" em mãos, teria que falar uma palavra relacionada ao RPG. O participante que não soubesse ou demorasse para responder era desclassificado do jogo. <br><br>
+A brincadeira consistiu em colocar os participantes em círculo, repassando uma batata (pode ser qualquer objeto que simule), de um em um. Cada participante que tivesse com a "batata" em mãos, teria que falar uma palavra relacionada ao RPG. O participante que não soubesse ou demorasse para responder era desclassificado do jogo. <br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img2.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img2.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img3.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img3.png)
 
 
 <p style="text-align: justify">
-Essa atividade tem o intuito de deixar os participantes mais relaxados e sociáveis para que o aprendizado seja mais divertido.<br><br>
+Essa atividade tem o intuito de deixar os participantes mais relaxados e sociáveis para que o aprendizado seja mais divertido.<br>
 </p>
 
 ##### Tarefa da semana passada.<br>
 <p style="text-align: justify">
-Como de costume, na célula, os articuladores pedem para que os participantes tragam uma atividade, repassada por eles, concluída na semana seguinte.<br><br>
+Como de costume, na célula, os articuladores pedem para que os participantes tragam uma atividade, repassada por eles, concluída na semana seguinte.<br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img4.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img4.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img12.jpg)
-
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img5.png)
 
 <p style="text-align: justify">
-A tarefa da vez foi pedir para cada integrante da célula apresentar uma breve interpretação do seu personagem para que os articuladores pudessem analisar os traços e características individuais que foram criados para cada um. Para isso, foi narrado um cenário em que todos iriam agir, interpretando seus personagens.<br><br>
+A tarefa da vez foi pedir para cada integrante da célula apresentar uma breve interpretação do seu personagem para que os articuladores pudessem analisar os traços e características individuais que foram criados para cada um. Para isso, foi narrado um cenário em que todos iriam agir, interpretando seus personagens.<br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img5.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/22019-10-07/img6.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img6.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img7.png)
 
 ##### Explicação sobre  Combate com turnos em RPG de Mesa. <br>
 <p style="text-align: justify">
-Os participantes assistiram a  um vídeo do canal: “Formação Fireball” que explica como funciona o combate com turnos no RPG de mesa. Após isso, foi aberto um espaço para qualquer dúvida que surgisse, durante a explicação, relacionado a esse assunto, além de estimular um debate coletivo produtivo. <br><br>
+Os participantes assistiram a  um vídeo do canal: “Formação Fireball” que explica como funciona o combate com turnos no RPG de mesa. Após isso, foi aberto um espaço para qualquer dúvida que surgisse, durante a explicação, relacionado a esse assunto, além de estimular um debate coletivo produtivo. <br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img7.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img8.png)
 
 <p style="text-align: justify">
-A realização dessa atividade teve o intuito de, além de apresentar o tema semanal da célula, fazer com que aprendessem, juntos, sobre um dos pilares mais importantes do RPG de mesa, que é o combate.<br><br>
+A realização dessa atividade teve o intuito de, além de apresentar o tema semanal da célula, fazer com que aprendessem, juntos, sobre um dos pilares mais importantes do RPG de mesa, que é o combate.<br>
 
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img8.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img9.png)
 
 ##### Explicação sobre a atividade que levarão na semana seguinte.<br>
 <p style="text-align: justify">
-Foi pedido para que, na semana seguinte, cada um levasse uma situação onde podem ser utilizadas as mecânicas de combate, de uma forma criativa.<br><br>
+Foi pedido para que, na semana seguinte, cada um levasse uma situação onde podem ser utilizadas as mecânicas de combate, de uma forma criativa.<br>
 </p>
 
 ##### Hora da Prática.<br>
 <p style="text-align: justify">
-Depois de tudo isso, para finalizar com chave de outro, os participantes foram praticar o que foi aprendido, com todos os materiais necessários no RPG de mesa ( Ficha de personagem 
- e dados).<br><br>
+Depois de tudo isso, para finalizar com chave de ouro, os participantes foram praticar o que foi aprendido, com todos os materiais necessários no RPG de mesa ( Ficha de personagem 
+ e dados).<br>
  </p>
 
- ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img9.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img10.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img10.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img11.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img11.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img12.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img13.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img13.png)
 
 
 <p style="text-align: justify">
@@ -131,18 +130,18 @@ Tiveram outras respostas, como:<br><br>
 
 -"Dá pra ver que eles fazem com o coração", disse o aluno Juan , do curso de Engenharia da Computação. <br><br>
 
--"Suprem nossas dúvidas, dão os materiais que precisamos, dão suporte e, querendo ou não, a célula nos ajuda com a comunicação, porque tem muita gente, aqui, que é muito reclusa, e a célula ajuda. Estamos aqui pra nos divertir. É como eles falam pra gente : " A célula não é nossa (articuladores), mas de todos vocês", declarou o estudante de Engenharia de Software , Elias.<br>
+-"Suprem nossas dúvidas, dão os materiais que precisamos, dão suporte e, querendo ou não, a célula nos ajuda com a comunicação, porque tem muita gente, aqui, que é muito reclusa, e a célula ajuda. Estamos aqui pra nos divertir. É como eles falam pra gente : 'A célula não é nossa (articuladores), mas de todos vocês' ", declarou o estudante de Engenharia de Software , Elias.<br>
 </p>
 
 ##### Para finalizar, o articulador Caio Caminha também se expressou:<br>
 <p style="text-align: justify">
--" O RPG é forte, gente. Ele lida com a mente. Não tem nada mais forte nesse mundo , pra você mesmo, do que ter sua mente afiada. Pode vir alguém e dizer que sou estúpido, incompetente, que o que eu tenho como hobby é desperdício, é brincar de maquete. Tô nem aí pra ele. Na minha cabeça, eu sou level 17 (Risos).<br><br>
+-"O RPG é forte, gente. Ele lida com a mente. Não tem nada mais forte nesse mundo , pra você mesmo, do que ter sua mente afiada. Pode vir alguém e dizer que sou estúpido, incompetente, que o que eu tenho como hobby é desperdício, é brincar de maquete. Tô nem aí pra ele. Na minha cabeça, eu sou level 17" (Risos).<br><br>
 
 A declaração recebeu muitos aplausos dos participantes.<br><br>
 
 E o CONHECENDO A CÉLULA fica por aqui, semana que vem tem mais. Você curtiu essa célula? É aluno da UFC, em Quixadá, e ainda não a conhecia ? Não perca mais tempo! Chegue junto e entre nesse mundo de muitas possibilidades que o RPG de Mesa pode te proporcionar. É toda Quinta-Feira, das 18:00 às 21:30, na Sala 3, Bloco 3, hein?<br><br>
 
-E não esqueça: para mais notícias e novidades como essa, é só ficar ligado no nosso site Www.pacceqx.com.br e acompanhar nosso Instagram @pacceufcqx.
+E não esqueça: para mais notícias e novidades como essa, é só ficar ligado no nosso site www.pacceqx.com.br e acompanhar nosso Instagram @pacceufcqx.
 <br><br>
 
 Até a próxima!<br><br>
