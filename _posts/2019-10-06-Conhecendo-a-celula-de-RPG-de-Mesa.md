@@ -16,7 +16,7 @@ paginate: true
 <p style="text-align: justify">
 No CONHECENDO A CÉLULA, desta semana, vamos te apresentar uma célula que é nova, que iniciou-se no mês de Setembro de 2019, mas que já é umas das queridinhas da galera. Sabe de qual estamos falando? Pois é, a Célula de RPG de Mesa.<br><br>
 
-Articulada pelos alunos Bernardo Romeu e Caio Caminha, ambos do curso de Engenharia de Software e bolsistas do PACCE, a célula de RPG de Mesa conta com um grande público acadêmico, chegando à uma média de 25 alunos.<br><br>
+Articulada pelos alunos Bernardo Romeu e Caio Caminha, ambos do curso de Engenharia de Software e bolsistas do PACCE, a célula de RPG de Mesa conta com um grande público acadêmico, chegando à uma média de 25 alunos.<br>
 </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img1.png)
@@ -40,7 +40,7 @@ Agora que você já entendeu o conceito do jogo, ficará mais fácil de entender
 
 ##### Quebra-gelo: Batata quente.<br>
 <p style="text-align: justify">
-A brincadeira consistiu em colocar os participantes em círculo, repassando uma batata (pode ser qualquer objeto que simule), de um em um. Cada participante que tivesse com a "batata" em mãos, teria que falar uma palavra relacionada ao RPG. O participante que não soubesse ou demorasse para responder era desclassificado do jogo. <br><br>
+A brincadeira consistiu em colocar os participantes em círculo, repassando uma batata (pode ser qualquer objeto que simule), de um em um. Cada participante que tivesse com a "batata" em mãos, teria que falar uma palavra relacionada ao RPG. O participante que não soubesse ou demorasse para responder era desclassificado do jogo. <br>
 </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img2.png)
@@ -54,7 +54,7 @@ Essa atividade tem o intuito de deixar os participantes mais relaxados e sociáv
 
 ##### Tarefa da semana passada.<br>
 <p style="text-align: justify">
-Como de costume, na célula, os articuladores pedem para que os participantes tragam uma atividade, repassada por eles, concluída na semana seguinte.<br><br>
+Como de costume, na célula, os articuladores pedem para que os participantes tragam uma atividade, repassada por eles, concluída na semana seguinte.<br>
 </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img4.png)
@@ -71,13 +71,13 @@ A tarefa da vez foi pedir para cada integrante da célula apresentar uma breve i
 
 ##### Explicação sobre  Combate com turnos em RPG de Mesa. <br>
 <p style="text-align: justify">
-Os participantes assistiram a  um vídeo do canal: “Formação Fireball” que explica como funciona o combate com turnos no RPG de mesa. Após isso, foi aberto um espaço para qualquer dúvida que surgisse, durante a explicação, relacionado a esse assunto, além de estimular um debate coletivo produtivo. <br><br>
+Os participantes assistiram a  um vídeo do canal: “Formação Fireball” que explica como funciona o combate com turnos no RPG de mesa. Após isso, foi aberto um espaço para qualquer dúvida que surgisse, durante a explicação, relacionado a esse assunto, além de estimular um debate coletivo produtivo. <br>
 </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img8.png)
 
 <p style="text-align: justify">
-A realização dessa atividade teve o intuito de, além de apresentar o tema semanal da célula, fazer com que aprendessem, juntos, sobre um dos pilares mais importantes do RPG de mesa, que é o combate.<br><br>
+A realização dessa atividade teve o intuito de, além de apresentar o tema semanal da célula, fazer com que aprendessem, juntos, sobre um dos pilares mais importantes do RPG de mesa, que é o combate.<br>
 
 </p>
 
@@ -91,7 +91,7 @@ Foi pedido para que, na semana seguinte, cada um levasse uma situação onde pod
 ##### Hora da Prática.<br>
 <p style="text-align: justify">
 Depois de tudo isso, para finalizar com chave de outro, os participantes foram praticar o que foi aprendido, com todos os materiais necessários no RPG de mesa ( Ficha de personagem 
- e dados).<br><br>
+ e dados).<br>
  </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img10.png)
