@@ -34,7 +34,7 @@ Todo RPG de Mesa tem suas regras e, com base nelas, os jogadores criam seus pers
 
 Esse jogador se chama Mestre ou Narrador. Ele será como o que o juiz é para o futebol. Toda decisão final relacionada às regras é tomada por ele. Fonte: https://rpgmaisbarato.com. <br><br>
 
-Agora que você já entendeu o conceito do jogo, ficará mais fácil de entender sobre a célula e seus objetivos. E pra ficar ainda melhor, quer saber quais atividades rolaram na célula, no encontro do dia 03 de Outubro de 2019? Se liga.<br><br>
+Agora que você já entendeu o conceito do jogo, ficará mais fácil de entender sobre a célula e seus objetivos. E pra ficar ainda melhor, quer saber quais atividades rolaram na célula, no encontro do dia 03 de Outubro de 2019? Se liga.<br>
 </p>
 
 ##### Quebra-gelo: Batata quente.<br>
