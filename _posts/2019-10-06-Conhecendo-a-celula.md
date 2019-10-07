@@ -5,7 +5,7 @@ title: Conhecendo a célula Ep.02
 subtitle: Confira o Ep.02 dessa série.
 description: 
 category: tag
-image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/img1.png
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-06/capa.png
 tags:
 - tag
 
