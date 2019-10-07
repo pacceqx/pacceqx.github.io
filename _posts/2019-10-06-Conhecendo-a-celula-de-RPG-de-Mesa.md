@@ -49,7 +49,7 @@ A brincadeira consistiu em colocar os participantes em círculo, repassando uma 
 
 
 <p style="text-align: justify">
-Essa atividade tem o intuito de deixar os participantes mais relaxados e sociáveis para que o aprendizado seja mais divertido.<br><br>
+Essa atividade tem o intuito de deixar os participantes mais relaxados e sociáveis para que o aprendizado seja mais divertido.<br>
 </p>
 
 ##### Tarefa da semana passada.<br>
