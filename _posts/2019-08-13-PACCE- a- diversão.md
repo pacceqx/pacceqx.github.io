@@ -13,7 +13,7 @@ author: lorenaamaro
 paginate: true
 ---
 <p style = "text-align: justify">
-O Programa de Aprendizagem Cooperativa em Células Estudantis- PACCE- trouxe novidades para o semestre de 2019.2. Além da mesa de ping-pong,os alunos contam, agora, com uma mesa de totó, que se encontra na área de convivência e está  disponível para todos os alunos e servidores do campus. <br><br>
+O Programa de Aprendizagem Cooperativa em Células Estudantis- PACCE- trouxe novidades para o semestre de 2019.2. Além da mesa de ping-pong, os alunos contam, agora, com uma mesa de pebolim(totó), que se encontra na área de convivência e está  disponível para todos os alunos e servidores do campus. <br><br>
 
 O PACCE viu como uma forma de proporcionar aos alunos um pouco mais de descontração e criar uma maior interação entre os alunos, que trabalham processamento em grupo e a responsabilidade de cuidar de algo que é patrimônio de todos. E aí, curtiu? <br>
 
