@@ -49,6 +49,7 @@ Shelida Crislane Matias Monte.
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-02-14/img4.jpg)
 
+<p>
 Os alunos que se voluntariaram ao programa foram:<br>
 Alex Menezes de Carvalho<br>
 Alysson Rabelo Pereira <br>
