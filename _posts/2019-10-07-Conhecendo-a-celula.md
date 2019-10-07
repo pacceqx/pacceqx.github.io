@@ -40,7 +40,7 @@ Agora que você já entendeu o conceito do jogo, ficará mais fácil de entender
 
 ##### Quebra-gelo: Batata quente.<br>
 <p style="text-align: justify">
-A brincadeira consistiu em colocar os participantes em círculo, repassando uma batata ( pode ser qualquer objeto que simule), de um em um. Cada participante que tivesse com a "batata" em mãos, teria que falar uma palavra relacionada ao RPG. O participante que não soubesse ou demorasse para responder era desclassificado do jogo. <br><br>
+A brincadeira consistiu em colocar os participantes em círculo, repassando uma batata (pode ser qualquer objeto que simule), de um em um. Cada participante que tivesse com a "batata" em mãos, teria que falar uma palavra relacionada ao RPG. O participante que não soubesse ou demorasse para responder era desclassificado do jogo. <br><br>
 </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img2.png)
