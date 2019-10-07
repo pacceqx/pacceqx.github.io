@@ -4,10 +4,10 @@ layout: post
 title: Conhecendo a célula Ep.02
 subtitle: Confira o Ep.02 dessa série.
 description: 
-category: tag
+category: entretenimento
 image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/capa.png
 tags:
-- tag
+- Rpg
 
 
 author: lorenaamaro

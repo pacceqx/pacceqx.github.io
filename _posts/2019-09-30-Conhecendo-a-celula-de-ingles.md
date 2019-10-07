@@ -4,10 +4,10 @@ layout: post
 title: Conhecendo a célula Ep.01
 subtitle: Confira a nova série do site.
 description: 
-category: tag
+category: entretenimento
 image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/capa.png
 tags:
-- tag
+- Rpg
 
 
 author: lorenaamaro
