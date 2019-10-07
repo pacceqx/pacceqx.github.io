@@ -106,7 +106,7 @@ Depois de tudo isso, para finalizar com chave de outro, os participantes foram p
 <p style="text-align: justify">
 A célula de RPG de Mesa, do Programa de aprendizagem Cooperativa em Células Estudantis vem gerando grandes frutos e ainda promete muito mais. Para comprovar, fizemos um apanhado de repostas sobre o  que os participantes estão achando da célula, de sua metodologia e seus articuladores.<br><br>
 
-A primeira pergunta foi:<br>
+A primeira pergunta foi:
 </p>
 
 ##### Qual a importância da célula pra vocês?<br>
