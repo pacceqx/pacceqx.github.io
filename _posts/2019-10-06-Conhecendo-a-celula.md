@@ -131,7 +131,7 @@ Tiveram outras respostas, como:<br><br>
 
 -"Dá pra ver que eles fazem com o coração", disse o aluno Juan , do curso de Engenharia da Computação. <br><br>
 
--"Suprem nossas dúvidas, dão os materiais que precisamos, dão suporte e, querendo ou não, a célula nos ajuda com a comunicação, porque tem muita gente, aqui, que é muito reclusa, e a célula ajuda. Estamos aqui pra nos divertir. É como eles falam pra gente : " A célula não é nossa (articuladores), mas de todos vocês", declarou o estudante de Engenharia de Software , Elias.<br>
+-"Suprem nossas dúvidas, dão os materiais que precisamos, dão suporte e, querendo ou não, a célula nos ajuda com a comunicação, porque tem muita gente, aqui, que é muito reclusa, e a célula ajuda. Estamos aqui pra nos divertir. É como eles falam pra gente : 'A célula não é nossa (articuladores), mas de todos vocês' ", declarou o estudante de Engenharia de Software , Elias.<br>
 </p>
 
 ##### Para finalizar, o articulador Caio Caminha também se expressou:<br>
