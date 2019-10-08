@@ -1,6 +1,6 @@
 ---
 layout: category
-title: NOTICIA
-slug:  noticias
+title: Notícia
+slug:  noticia
 description: Essa é a categoria de notícias.
 ---
