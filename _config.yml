@@ -1,8 +1,10 @@
 # Site Settings
-name: pacceqx
+name: Pacce Quixadá
 title: pacceqx
 description: Pacce Quixadá - Programa de aprendizagem em Células Coopera.
 tags:
+  - pacce 
+  - quixadá 
   - educação
   - ufc
   - aprendizagem
@@ -45,6 +47,8 @@ highlighter: rouge
 permalink: /:title/
 collections:
   authors:
+    output: true
+  pacceiros:
     output: true
 paginate_path: "/page/:num/"
 
