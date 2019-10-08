@@ -50,6 +50,8 @@ collections:
     output: true
   pacceiros:
     output: true
+  pacce:
+    output: true
 paginate_path: "/page/:num/"
 
 # Content paginator
