@@ -14,55 +14,39 @@ author: isabelavieira
 paginate: true
 ---
 <p style="text-align: justify">
-O "CONHECENDO A CÉLULA" é uma nova TAG aqui do site que apresentará, de forma mais aprofundada, cada célula que temos no Campus de Quixadá.<br><br>
+No "conhecendo a célula" dessa semana, vamos apresentar uma célula que já é sucesso, há muito tempo. Isso mesmo, a Célula de Música! <br><br>
 
-E, nesse primeiro post, falaremos da célula de Inglês, vinculada ao Programa de Aprendizagem Cooperativa em Células Estudantis - PACCE-, que tem o objetivo de reunir alunos interessados na língua estrangeira, seja pra conversação, interpretação textual ou até mesmo para a prova do dia seguinte.<br><br>
+Articulada pelos alunos Daniel Araújo e Lara Beatriz, ambos do curso de Engenharia da Computação e bolsistas do PACCE, a célula de música está aqui, desde o ano de 2016 e continua, até hoje!<br><br>
 
-A célula tem como articuladora a aluna Gabriella Barroso, graduanda do 8º semestre do curso de Design digital e bolsista do PACCE. Embora se tenha alguém à frente para guiar os encontros, vale ressaltar que a metodologia adotada pelo PACCE é a aprendizagem cooperativa, o que significa que todos podem compartilhar de seus conhecimentos, uns com os outros. <br><br>
+A célula de Música usa a metodologia da Aprendizagem Cooperativa entre seus participantes de forma com que, no final de cada encontro, todos tenham aprendido alguma coisa nova sobre a música.<br><br>
 
-
-Abaixo, registros de um encontro da célula, do dia 24 de Setembro de 2019.<br><br>
+Nós visitamos a Célula de Música na última Terça-Feira, dia 8. Quer saber o que rolou nesse dia?<br><br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/img1.jpg)
+
+##### Quebra-gelo: Qual é a Música?<br>
 
 <p style="text-align: justify">
-As atividades realizadas, nesse encontro, foram:<br>
+A brincadeira é bastante simples. Foram formadas duas equipes e elas precisavam adivinhar o cantor/banda ou nome da música que seria tocada.<br><br>
+A equipe que acertasse ganhava 1 ponto. Todo mundo se divertiu e ninguém lembra qual equipe ganhou. haha!<br><br>
 </p>
 
-##### Quebra-gelo <br>
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
+
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img2.png)
+
+##### Hora de aprender<br>
 
 <p style="text-align: justify">
-Essa atividade sempre é realizada no início de cada encontro para descontrair os alunos e proporcionar interação entre eles. O quebra-gelo da vez foi "Sequência de palmas", onde se coloca os partipantes em círculo e cada um bate 1 ou 2 palmas (fica a seu critério). <br><br>
-
-1 palma significa que a ordem do círculo é no sentido horário e 2 palmas, no sentido anti-horário. Para essa dinâmica, o participante tem que ter muita concentração, coordenação e agilidade para não bater palma fora da sua vez.<br><br>
+A célula de música é dividida em duas . Uma parte aprende as técnicas de canto e a outra parte aprende a tocar algum instrumento.<br><br>
+Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Menor (Am).<br><br>
 </p>
 
-##### Pegue seu banquinho e saia de mansinho<br>
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img3.png)
 
-<p style="text-align: justify">
-A segunda atividade consiste em sortear o nome de um lugar e um letra, e os participantes têm que responder, em inglês, com palavras que atendam a esses critérios. <br><br>
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img4.png)
 
-Exemplo:<br>
-Local: Casa / Letra T  | Resposta: Table (mesa).<br><br>
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img5.png)
 
-A brincadeira foi bem dinâmica e instigante.<br><br>
-
-Depois disso, a articuladora pediu que os participantes falassem o significado, em português, de cada palavra que eles haviam dito.<br><br>
-
-Em um determinado momento do encontro, um  aluno participante da célula conduziu a tarefa com os demais colegas, praticando sua interdepência positiva e responsabilidade individual, uns dos 5 pilares do PACCE. <br><br>
-
-Confira os registros.<br><br>
-</p>
-
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/img2.jpg)
-
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/img3.jpg)
-
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/img4.jpg)
-
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/img5.jpg)
-
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/img6.jpg)
-
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img6.png)
 
