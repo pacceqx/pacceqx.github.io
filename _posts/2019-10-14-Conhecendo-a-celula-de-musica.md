@@ -10,22 +10,22 @@ tags:
 - Música
 
 
-author: lorenaamaro
+author: isabelavieira
 paginate: true
 ---
 <p style="text-align: justify">
 No "conhecendo a célula" dessa semana, vamos apresentar uma célula que já é sucesso, há muito tempo. Isso mesmo, a Célula de Música!<br><br>
 
-Articulada pelos alunos Daniel Araújo e Lara Beatriz, ambos do cuso de Engenharia da Computação e bolsistas do PACCE, a célula de música está aqui, desde o ano de 2016 e continua, até hoje!<br>
+Articulada pelos alunos Daniel Araújo e Lara Beatriz, ambos do curso de Engenharia da Computação e bolsistas do PACCE, a célula de música está aqui, desde o ano de 2016 e continua, até hoje!<br>
 
-A célula de Música usa a metodologia da Aprendizagem Cooperativa entre seus participantes de forma com que, no final de cada encontro, todos tenham aprendido alguma coisa nova sobre a música.<br>
+A Célula de Música usa a metodologia da Aprendizagem Cooperativa entre seus participantes de forma com que, no final de cada encontro, todos tenham aprendido alguma coisa nova sobre a música.<br>
 
 Nós visitamos a Célula de Música na última Terça-Feira, dia 8. Quer saber o que rolou nesse dia?<br>
 </p>
 
 ##### Quebra-gelo: Qual é a músia?
 <p style="text-align: justify">
-A brincadeira é bastante simples. Foram formadas duas equipes e elas precisavam adivinhar o cantor/banda ou nome da música que seria tocada.<br>>
+A brincadeira é bastante simples. Foram formadas duas equipes e elas precisavam adivinhar o cantor/banda ou nome da música que seria tocada.<br>
 A equipe que acertasse ganhava 1 ponto. Todo mundo se divertiu e ninguém lembra qual equipe ganhou. haha!<br>
 </p>
 
@@ -40,7 +40,7 @@ Essa atividade tem o intuito de deixar os participantes mais relaxados para que 
 
 ##### Hora da Prática.<br>
 <p style="text-align: justify">
-A célula de música é dividida em duas. Uma parte aprende as técnicas de canto e a outra parte aprende a tocar algum instrumento.<br><br>
+A célula de música é dividida em duas. Uma parte aprende as técnicas de canto e a outra parte aprende a tocar algum instrumento.<br>
 Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Menor (Am).
 <p>
 
