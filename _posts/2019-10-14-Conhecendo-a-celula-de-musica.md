@@ -1,5 +1,5 @@
 ---
-date: 2019-10-06 19:26:40
+date: 2019-10-14 22:30:40
 layout: post
 title: Conhecendo a célula Ep.03
 subtitle: Confira o Ep.03 dessa série.
@@ -14,69 +14,55 @@ author: isabelavieira
 paginate: true
 ---
 <p style="text-align: justify">
-No "conhecendo a célula" dessa semana, vamos apresentar uma célula que já é sucesso, há muito tempo. Isso mesmo, a Célula de Música!<br><br>
+O "CONHECENDO A CÉLULA" é uma nova TAG aqui do site que apresentará, de forma mais aprofundada, cada célula que temos no Campus de Quixadá.<br><br>
 
-Articulada pelos alunos Daniel Araújo e Lara Beatriz, ambos do curso de Engenharia da Computação e bolsistas do PACCE, a célula de música está aqui, desde o ano de 2016 e continua, até hoje!<br>
+E, nesse primeiro post, falaremos da célula de Inglês, vinculada ao Programa de Aprendizagem Cooperativa em Células Estudantis - PACCE-, que tem o objetivo de reunir alunos interessados na língua estrangeira, seja pra conversação, interpretação textual ou até mesmo para a prova do dia seguinte.<br><br>
 
-A Célula de Música usa a metodologia da Aprendizagem Cooperativa entre seus participantes de forma com que, no final de cada encontro, todos tenham aprendido alguma coisa nova sobre a música.<br>
+A célula tem como articuladora a aluna Gabriella Barroso, graduanda do 8º semestre do curso de Design digital e bolsista do PACCE. Embora se tenha alguém à frente para guiar os encontros, vale ressaltar que a metodologia adotada pelo PACCE é a aprendizagem cooperativa, o que significa que todos podem compartilhar de seus conhecimentos, uns com os outros. <br><br>
 
-Nós visitamos a Célula de Música na última Terça-Feira, dia 8. Quer saber o que rolou nesse dia?<br>
+
+Abaixo, registros de um encontro da célula, do dia 24 de Setembro de 2019.<br><br>
 </p>
 
-##### Quebra-gelo: Qual é a músia?
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/img1.jpg)
+
 <p style="text-align: justify">
-A brincadeira é bastante simples. Foram formadas duas equipes e elas precisavam adivinhar o cantor/banda ou nome da música que seria tocada.<br>
-A equipe que acertasse ganhava 1 ponto. Todo mundo se divertiu e ninguém lembra qual equipe ganhou. haha!<br>
+As atividades realizadas, nesse encontro, foram:<br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img2.png)
-
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img2.png)
-
+##### Quebra-gelo <br>
 
 <p style="text-align: justify">
-Essa atividade tem o intuito de deixar os participantes mais relaxados para que o aprendizado no encontro seja mais produtivo e divertido.<br>
+Essa atividade sempre é realizada no início de cada encontro para descontrair os alunos e proporcionar interação entre eles. O quebra-gelo da vez foi "Sequência de palmas", onde se coloca os partipantes em círculo e cada um bate 1 ou 2 palmas (fica a seu critério). <br><br>
+
+1 palma significa que a ordem do círculo é no sentido horário e 2 palmas, no sentido anti-horário. Para essa dinâmica, o participante tem que ter muita concentração, coordenação e agilidade para não bater palma fora da sua vez.<br><br>
 </p>
 
-##### Hora da Prática.<br>
-<p style="text-align: justify">
-A célula de música é dividida em duas. Uma parte aprende as técnicas de canto e a outra parte aprende a tocar algum instrumento.<br> Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Menor (Am).<br>
-<p>
-
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
-
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
-
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
-
+##### Pegue seu banquinho e saia de mansinho<br>
 
 <p style="text-align: justify">
-E depois de ter treinado bastante a nota aprendida e relembrado as notas vistas, nos encontros anteriores, foi hora de tocar. Eles aprenderam a sequência de notas da música "Te Esperando", do cantor Luan Santana.<br>
-<p>
+A segunda atividade consiste em sortear o nome de um lugar e um letra, e os participantes têm que responder, em inglês, com palavras que atendam a esses critérios. <br><br>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
+Exemplo:<br>
+Local: Casa / Letra T  | Resposta: Table (mesa).<br><br>
 
-<p style="text-align: justify">
-Já os alunos que ficaram na parte vocal aprenderam sobre tons: Qual o seu tom, escala de tons e mudança de tons. Depois, cada um abriu o gogó para  analisarem qual o tom de cada um.<br>
+A brincadeira foi bem dinâmica e instigante.<br><br>
+
+Depois disso, a articuladora pediu que os participantes falassem o significado, em português, de cada palavra que eles haviam dito.<br><br>
+
+Em um determinado momento do encontro, um  aluno participante da célula conduziu a tarefa com os demais colegas, praticando sua interdepência positiva e responsabilidade individual, uns dos 5 pilares do PACCE. <br><br>
+
+Confira os registros.<br><br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/img2.jpg)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/img3.jpg)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/img4.jpg)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/img5.jpg)
+
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-09-30/img6.jpg)
 
 
-<p style="text-align: justify">
-A Célula de Música promove muita interação entre seus participantes, que é um público fiel. Alguns deles gostam de ir pelo prazer de ensinar música, outros vão pra absorver tudo que a Célula pode proporcionar. Em um dos depoimentos dos participantes da Célula, ele fala:<br>
-"Bom, além de fazer o que gosto desde criança, a célula possibilita uma melhor comunicação entre as pessoas, além de trazer descanso pra gente que passa o dia estudando, mais do que comunicação, a célula coloca em prova sua timidez, onde todos, aos poucos, por cantarem ou tocarem, ficam cada vez mais extrovertidos, e a felicidade ao conseguir alcançar uma nota ao cantar ou executar um acorde ao tocar, ajuda muito, então, para mim, a célula de música é maravilhosa."<br><br><br>
-
-E o Conhecendo a Célula de hoje fica por aqui, semana que vem tem mais. Se você curtiu o que rola na Célula de Música, os encotros acontecem toda semana, às Terças, de 18hrs às 20hrs, na Sala 5 do Bloco 4. Estaremos te esperando!<br><br>
-
-E não esqueça: para mais notícias e novidades como essa, é só ficar ligado no nosso site www.pacceqx.com.br e acompanhar nosso Instagram @pacceufcqx.
-<br><br>
-
-Até a próxima!<br><br>
-</p>
