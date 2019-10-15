@@ -39,7 +39,7 @@ A equipe que acertasse ganhava 1 ponto. Todo mundo se divertiu e ninguém lembra
 
 <p style="text-align: justify">
 A célula de música é dividida em duas . Uma parte aprende as técnicas de canto e a outra parte aprende a tocar algum instrumento.<br>
-Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Menor (Am).<br><br>
+Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Maior (A).<br><br>
 </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img3.png)
