@@ -44,7 +44,7 @@ A célula de música é dividida em duas. Uma parte aprende as técnicas de cant
 Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Menor (Am).<br>
 <p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img3.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
@@ -54,19 +54,19 @@ Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Menor (Am).<b
 E depois de ter treinado bastante a nota aprendida e relembrado as notas vistas, nos encontros anteriores, foi hora de tocar. Eles aprenderam a sequência de notas da música "Te Esperando", do cantor Luan Santana.<br>
 <p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img6.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
 <p style="text-align: justify">
 Já os alunos que ficaram na parte vocal aprenderam sobre tons: Qual o seu tom, escala de tons e mudança de tons. Depois, cada um abriu o gogó para  analisarem qual o tom de cada um.<br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img7.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img8.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img9.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img10.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
 
 <p style="text-align: justify">
