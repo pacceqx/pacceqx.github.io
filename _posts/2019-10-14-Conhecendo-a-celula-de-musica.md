@@ -46,9 +46,9 @@ Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Menor (Am).<b
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img3.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img4.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img5.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
 <p style="text-align: justify">
 E depois de ter treinado bastante a nota aprendida e relembrado as notas vistas, nos encontros anteriores, foi hora de tocar. Eles aprenderam a sequência de notas da música "Te Esperando", do cantor Luan Santana.<br>
