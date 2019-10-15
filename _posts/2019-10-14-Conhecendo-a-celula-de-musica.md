@@ -10,7 +10,7 @@ tags:
 - Música
 
 
-author: lorenaamaro
+author: isabelavieira
 paginate: true
 ---
 <p style="text-align: justify">
@@ -41,7 +41,8 @@ Essa atividade tem o intuito de deixar os participantes mais relaxados para que 
 ##### Hora da Prática.<br>
 <p style="text-align: justify">
 A célula de música é dividida em duas. Uma parte aprende as técnicas de canto e a outra parte aprende a tocar algum instrumento.<br>
-Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Menor (Am). <p>
+Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Menor (Am).<br>
+<p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img3.png)
 
@@ -50,7 +51,7 @@ Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Menor (Am). <
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img5.png)
 
 <p style="text-align: justify">
-E depois de ter treinado bastante a nota aprendida e relembrado as notas vistas, nos encontros anteriores, foi hora de tocar. Eles aprenderam a sequência de notas da música "Te Esperando", do cantor Luan Santana.
+E depois de ter treinado bastante a nota aprendida e relembrado as notas vistas, nos encontros anteriores, foi hora de tocar. Eles aprenderam a sequência de notas da música "Te Esperando", do cantor Luan Santana.<br>
 <p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img6.png)
