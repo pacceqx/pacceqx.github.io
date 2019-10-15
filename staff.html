@@ -22,12 +22,9 @@ menu: true
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  
-}
-#celula  table{
 
-  border: none;
 }
+
   </style>
 
 
@@ -35,13 +32,13 @@ menu: true
 
     
     <div class="container">  
-        {% for author in site.pacceiros %}
+        {% for pacceiros in site.pacceiros %}
       <div id="celula">
-          <table>
-              <tr><td><img  src="{{ author.photo }}" ></td></tr>
-              <tr><td>{{ author.display_name  }}</td></tr>
-              <tr><td>{{ author.position }}</td></tr>
-              <tr><td>{{ author.bio }}</td></tr>
+          <table style="border:none;">
+              <tr><td><img  src="{{ pacceiros.photo }}" ></td></tr>
+              <tr><td>{{ pacceiros.display_name  }}</td></tr>
+              <tr><td>{{ pacceiros.position }}</td></tr>
+              <tr><td>{{ pacceiros.bio }}</td></tr>
             </table>
       </div>  
       {% endfor %}
