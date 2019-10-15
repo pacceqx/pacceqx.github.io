@@ -68,11 +68,7 @@ Já os alunos que ficaram na parte vocal aprenderam sobre tons: Qual o seu tom, 
 
 <p style="text-align: justify">
 A Célula de Música promove muita interação entre seus participantes, que é um público fiel. Alguns deles gostam de ir pelo prazer de ensinar música, outros vão pra absorver tudo que a Célula pode proporcionar. Em um dos depoimentos dos participantes da Célula, ele fala:<br>
-"Bom, além de fazer o que gosto desde criança, a célula possibilita uma melhor comunicação entre as pessoas, além de trazer descanso pra gente que passa o dia estudando, mais do que comunicação, a célula coloca em prova sua timidez, onde todos, aos poucos, por cantarem ou tocarem, ficam cada vez mais extrovertidos, e a felicidade ao conseguir alcançar uma nota ao cantar ou executar um acorde ao tocar, ajuda muito, então, para mim, a célula de música é maravilhosa."
-<br><br>
-</p>
-
-<p style="text-align: justify">
+"Bom, além de fazer o que gosto desde criança, a célula possibilita uma melhor comunicação entre as pessoas, além de trazer descanso pra gente que passa o dia estudando, mais do que comunicação, a célula coloca em prova sua timidez, onde todos, aos poucos, por cantarem ou tocarem, ficam cada vez mais extrovertidos, e a felicidade ao conseguir alcançar uma nota ao cantar ou executar um acorde ao tocar, ajuda muito, então, para mim, a célula de música é maravilhosa."<br>
 E o Conhecendo a Célula de hoje fica por aqui, semana que vem tem mais. Se você curtiu o que rola na Célula de Música, os encotros acontecem toda semana, às Terças, de 18hrs às 20hrs, na Sala 5 do Bloco 4. Estaremos te esperando!<br>
 E não esqueça: para mais notícias e novidades como essa, é só ficar ligado no nosso site www.pacceqx.com.br e acompanhar nosso Instagram @pacceufcqx.<br><br>
 
