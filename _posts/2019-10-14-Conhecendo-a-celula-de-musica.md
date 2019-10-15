@@ -29,7 +29,7 @@ A brincadeira é bastante simples. Foram formadas duas equipes e elas precisavam
 A equipe que acertasse ganhava 1 ponto. Todo mundo se divertiu e ninguém lembra qual equipe ganhou. haha!<br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img2.png)
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img2.png)
 
@@ -40,8 +40,7 @@ Essa atividade tem o intuito de deixar os participantes mais relaxados para que 
 
 ##### Hora da Prática.<br>
 <p style="text-align: justify">
-A célula de música é dividida em duas. Uma parte aprende as técnicas de canto e a outra parte aprende a tocar algum instrumento.<br>
-Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Menor (Am).<br>
+A célula de música é dividida em duas. Uma parte aprende as técnicas de canto e a outra parte aprende a tocar algum instrumento.<br> Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Menor (Am).<br>
 <p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
@@ -49,6 +48,7 @@ Os alunos que ficaram na parte instrumental aprenderam sobre o Lá Menor (Am).<b
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
+
 
 <p style="text-align: justify">
 E depois de ter treinado bastante a nota aprendida e relembrado as notas vistas, nos encontros anteriores, foi hora de tocar. Eles aprenderam a sequência de notas da música "Te Esperando", do cantor Luan Santana.<br>
