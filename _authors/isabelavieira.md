@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (12).png
-name: gabriellabarroso
+name: isabelavieira
 display_name: Isabela Vieira
 position: Editora
 bio: Estudante de Bacharelado em Sistemas de Informação e bolsista do PACCE
