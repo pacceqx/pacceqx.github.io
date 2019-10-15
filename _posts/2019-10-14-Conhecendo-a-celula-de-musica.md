@@ -58,7 +58,7 @@ E depois de ter treinado bastante a nota aprendida e relembrado as notas vistas,
 
 <p style="text-align: justify">
 Já os alunos que ficaram na parte vocal aprenderam sobre tons: Qual o seu tom, escala de tons e mudança de tons. Depois, cada um abriu o gogó para  analisarem qual o tom de cada um.<br>
- </p>
+</p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img7.png)
 
