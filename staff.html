@@ -32,15 +32,15 @@ menu: true
 
     
     <div class="container">  
-        {% for pacceiros in site.pacceiros %}
+        {% for pacceiro in site.pacceiros %}
       <div id="celula">
-          <table style="border:none;">
-              <tr><td><img  src="{{ pacceiros.photo }}" ></td></tr>
-              <tr><td>{{ pacceiros.display_name  }}</td></tr>
-              <tr><td>{{ pacceiros.position }}</td></tr>
-              <tr><td>{{ pacceiros.bio }}</td></tr>
+          <table style="border:0px;">
+              <tr><td><img  src="{{ pacceiro.photo }}" ></td></tr>
+              <tr><td>{{ pacceiro.display_name  }}</td></tr>
+              <tr><td>{{ pacceiro.funcion }}</td></tr>
+              <tr><td>{{ pacceiro.curso }}</td></tr>
             </table>
-      </div>  
+      </div>  s
       {% endfor %}
     </div>
    
