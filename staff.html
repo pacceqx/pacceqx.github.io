@@ -23,6 +23,8 @@ menu: true
   margin-right: auto;
   text-align: center;
 
+  border:0px;
+
 }
 
   </style>
@@ -34,13 +36,12 @@ menu: true
     <div class="container">  
         {% for pacceiro in site.pacceiros %}
       <div id="celula">
-          <table style="border:0px;">
+          <table>
               <tr><td><img  src="{{ pacceiro.photo }}" ></td></tr>
               <tr><td>{{ pacceiro.display_name  }}</td></tr>
               <tr><td>{{ pacceiro.funcion }}</td></tr>
               <tr><td>{{ pacceiro.curso }}</td></tr>
-            </table>
-      </div>  s
+      </div>  
       {% endfor %}
     </div>
    

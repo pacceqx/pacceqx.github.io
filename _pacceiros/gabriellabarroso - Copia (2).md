@@ -2,7 +2,7 @@
 layout: pacceiro
 ano: 2019
 situacion: ativo
-fucion: staff
+funcion: staff
 curso: DD
 photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/img/uploads/gabi.png
 name: gabriellabarroso
