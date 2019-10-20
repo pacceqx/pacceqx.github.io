@@ -16,7 +16,7 @@ menu: true
   justify-content:space-between; 
 }
 #celula{
-  height: 500px; 
+  height: 400px; 
   width: 250px;
   margin-left: auto;
   margin-right: auto;
