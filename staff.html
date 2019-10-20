@@ -25,9 +25,7 @@ menu: true
 
 
 }
-table tr td{
-  border: 0;
-}
+
 
   </style>
 
@@ -38,12 +36,12 @@ table tr td{
     <div class="container">  
         {% for pacceiro in site.pacceiros %}
       <div id="celula">
-          <table>
-              <tr><td><img  src="{{ pacceiro.photo }}" ></td></tr>
-              <tr><td>{{ pacceiro.display_name  }}</td></tr>
-              <tr><td>{{ pacceiro.funcion }}</td></tr>
-              <tr><td>{{ pacceiro.curso }}</td></tr>
-             </table>
+          <ul>
+              <li><img  src="{{ pacceiro.photo }}" ></li>
+              <li>{{ pacceiro.display_name  }}</li>
+              <li>{{ pacceiro.funcion }}</li>
+              <li>{{ pacceiro.curso }}</li>
+          </ul>
       </div>  
       {% endfor %}
     </div>
