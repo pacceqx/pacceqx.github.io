@@ -4,7 +4,7 @@ ano: 2019
 situacion: ativo
 funcion: ARTICULADOR
 curso: CIÊNCIA DA COMPUTAÇÃO
-photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/pacce (2).png
+photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (2).png
 name: alyson
 display_name: ALYSON
 github_username: gabriellabarroso

@@ -4,7 +4,7 @@ ano: 2019
 situacion: ativo
 funcion: ARTICULADORA
 curso: DESIGN DIGITAL
-photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/pacce (4).png
+photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (4).png
 name: arusha
 display_name: ARUSHA
 github_username: gabriellabarroso
