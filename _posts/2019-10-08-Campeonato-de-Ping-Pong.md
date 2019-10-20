@@ -17,11 +17,11 @@ paginate: true
 O campeonato de ping pong ocorreu entre os dias 10 de setembro e 08 de outubro, organizado por Kassiane Lopes, aluna de Ciência da Computação e Daniel Araújo, aluno de Engenharia da Computação, ambos bolsistas do PACCE. Teve o intuito de arrecadar dinheiro para a manutenção da mesa de ping pong e proporcionar interação entre os estudantes da UFC. Contou com o total de 40 participantes e dois tipos de categorias, iniciante e a avançado.
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img5.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img5.JPG)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img1.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img1.JPG)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img2.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img2.JPG)
 
 
  <p style="text-align: justify">
@@ -30,22 +30,22 @@ O campeonato de ping pong ocorreu entre os dias 10 de setembro e 08 de outubro, 
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img3.JPG)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img4.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img4.JPG)
 
 <p style="text-align: justify">
 O vencedor da categoria iniciante foi Pedro Átila, aluno de Redes de Computadores. A final foi disputada contra o aluno de Engenharia da Computação, José Auri. <br>
 A premiação para o 1º lugar iniciante foi uma raquete profissional doada, e para o 2º lugar uma raquete simples.
  </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img8.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img8.JPG)
 
 <p style="text-align: justify">
 Já na categoria avançado o vencedor foi Jefferson, aluno de Redes de Computadores, ganhando 30% dos lucros das inscrições. O segundo lugar ficou com Bruno, também aluno de RC, levando pra casa 10% dos lucros arrecadados.
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img6.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img6.JPG)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img7.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img7.JPG)
 
 <p style="text-align: justify">
 Mais campeonatos estão vindo por aí, então fica ligado pra não ficar de fora! 
