@@ -17,7 +17,7 @@ menu: true
 }
 #celula{
   height: 500px; 
-  width: 250px;
+  width: 255px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
