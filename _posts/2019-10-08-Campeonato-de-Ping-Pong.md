@@ -28,7 +28,7 @@ O campeonato de ping pong ocorreu entre os dias 10 de setembro e 08 de outubro, 
  Os participantes foram divididos entres as categorias de acordo com as suas escolhas no momento da inscrição, sendo cobrado um valor de R$2 para iniciantes e R$3 para avançados. O campeonato se deu por modo de chaveamento, e os organizadores sempre buscavam o melhor horário para que os participantes pudessem jogar.
  </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img3.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img3.JPG)
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img4.jpg)
 
