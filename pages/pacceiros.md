@@ -27,7 +27,7 @@ menu: true
   flex-flow: row wrap;
   justify-content:space-between; 
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 1.2em;
+  font-size: 1em;
   margin-left: auto;
   margin-right: auto;
 }
