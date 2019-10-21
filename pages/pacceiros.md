@@ -27,8 +27,8 @@ menu: true
   flex-flow: row wrap;
   justify-content:space-between; 
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 10px;
-  margin-left: 20px;
+  font-size: 1px;
+  margin-left: 40px;
 }
 #celula{
   height: 500px; 
