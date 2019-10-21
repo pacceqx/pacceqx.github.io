@@ -16,13 +16,13 @@ menu: true
   justify-content:space-between; 
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1px;
-  margin-left: 40px;
+  margin-left: 400px;
 }
 #celula{
   height: 500px; 
   width: 250px;
   text-align: center;
-  margin-right: auto;
+  
 }
 ul {
 list-style-type: none;
