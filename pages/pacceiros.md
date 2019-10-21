@@ -35,6 +35,8 @@ menu: true
   height: 500px; 
   width: 250px;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 ul {
 list-style-type: none;
