@@ -34,7 +34,7 @@ O campeonato de ping pong ocorreu entre os dias 10 de setembro e 08 de outubro, 
 
 <p style="text-align: justify">
 O vencedor da categoria iniciante foi Pedro Átila, aluno de Redes de Computadores. A final foi disputada contra o aluno de Engenharia da Computação, José Auri. <br>
-A premiação para o 1º lugar iniciante foi uma raquete profissional doada, e para o 2º lugar uma raquete simples.
+A premiação para o 1º lugar iniciante foi uma raquete profissional doada por Isaque Pinheiro, também aluno da UFC. O 2º lugar ganhou uma raquete simples.
  </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img6.png)
