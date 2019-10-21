@@ -34,7 +34,7 @@ menu: true
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Josefin Sans';
 }
 ul {
 list-style-type: none;
