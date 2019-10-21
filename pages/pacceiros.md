@@ -15,12 +15,12 @@ menu: true
   flex-flow: row wrap;
   justify-content:space-between; 
   font-family: 'Josefin Sans', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
 }
 #celula{
   height: 500px; 
   width: 250px;
-  margin-left: auto;
-  margin-right: auto;
   text-align: center;
 }
 ul {
