@@ -28,12 +28,12 @@ menu: true
   justify-content:space-between; 
   font-family: 'Josefin Sans', sans-serif;
   font-size: 10px;
+  margin-left: 20px;
 }
 #celula{
   height: 500px; 
   width: 250px;
   text-align: center;
-  margin-left: 20px;
   margin-right: auto;
 }
 ul {
