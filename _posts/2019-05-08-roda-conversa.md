@@ -20,7 +20,7 @@ paginate: true
 No dia 8 de Maio, Quarta, de 13:30 às 15:30, O PACCE, juntamente com a célula de Desenvolvimento web,realizou a roda de conversa com o tema: Desenvolvimento WEB e sua importância na universidade.<br><br>
 
  O evento contou com a participação do docente Aníbal Cavalcante de Oliveira, graduado em Ciência da Computação pela Universidade de Fortaleza (2009) e mestre em Ciência da Computação pela Universidade Estadual do Ceará (2015).
- Atualmente, é professor assistente e vice coordenador do curso de Sistemas de informação, na Universidade Federal do Ceará (UFC), no campus de Quixadá. <br><br>
+ Atualmente, é professor assistente e vice coordenador do curso de Sistemas de Informação, na Universidade Federal do Ceará (UFC), no campus de Quixadá. <br><br>
  </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-08/img1.jpeg)

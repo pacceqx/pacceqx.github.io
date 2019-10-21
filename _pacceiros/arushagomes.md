@@ -2,11 +2,11 @@
 layout: pacceiro
 ano: 2019
 situacion: ativo
-funcion: ARTICULADORA
-curso: DESIGN DIGITAL
+funcion: Articuladora
+curso: Design Digital
 photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (3).png
 name: arushagomes
-display_name: ARUSHA GOMES
+display_name: Arusha Gomes
 github_username: gabriellabarroso
 facebook_username: gabriella.barroso.75
 twitter_username: gabsbarroso

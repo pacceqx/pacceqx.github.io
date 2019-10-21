@@ -18,7 +18,7 @@ O "CONHECENDO A CÉLULA" é uma nova TAG aqui do site que apresentará, de forma
 
 E, nesse primeiro post, falaremos da célula de Inglês, vinculada ao Programa de Aprendizagem Cooperativa em Células Estudantis - PACCE-, que tem o objetivo de reunir alunos interessados na língua estrangeira, seja pra conversação, interpretação textual ou até mesmo para a prova do dia seguinte.<br><br>
 
-A célula tem como articuladora a aluna Gabriella Barroso, graduanda do 8º semestre do curso de Design digital e bolsista do PACCE. Embora se tenha alguém à frente para guiar os encontros, vale ressaltar que a metodologia adotada pelo PACCE é a aprendizagem cooperativa, o que significa que todos podem compartilhar de seus conhecimentos, uns com os outros. <br><br>
+A célula tem como articuladora a aluna Gabriella Barroso, graduanda do 8º semestre do curso de Design Digital e bolsista do PACCE. Embora se tenha alguém à frente para guiar os encontros, vale ressaltar que a metodologia adotada pelo PACCE é a aprendizagem cooperativa, o que significa que todos podem compartilhar de seus conhecimentos, uns com os outros. <br><br>
 
 
 Abaixo, registros de um encontro da célula, do dia 24 de Setembro de 2019.<br><br>
