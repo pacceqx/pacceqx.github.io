@@ -16,7 +16,7 @@ menu: true
   justify-content:space-between; 
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1px;
-  margin-left: -60px;
+  margin-left: -50px;
 }
 #celula{
   height: 500px; 
