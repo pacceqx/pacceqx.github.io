@@ -14,6 +14,7 @@ menu: true
   display:flex;
   flex-flow: row wrap;
   justify-content:space-between; 
+  font-family: 'Josefin Sans', sans-serif;
 }
 #celula{
   height: 500px; 
