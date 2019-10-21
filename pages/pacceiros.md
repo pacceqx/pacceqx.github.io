@@ -27,16 +27,14 @@ menu: true
   flex-flow: row wrap;
   justify-content:space-between; 
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 1em;
+  font-size: 10px;
   margin-left: auto;
-  margin-right: auto;
 }
 #celula{
   height: 500px; 
   width: 250px;
   text-align: center;
   margin-left: auto;
-  margin-right: auto;
 }
 ul {
 list-style-type: none;
