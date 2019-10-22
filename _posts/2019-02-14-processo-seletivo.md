@@ -14,6 +14,7 @@ author: isabelavieira
 paginate: true
 ---
 <p style="text-align: justify">
+teste
 No "conhecendo a célula" dessa semana, vamos apresentar uma célula que já é sucesso, há muito tempo. Isso mesmo, a Célula de Música! <br>
 
 Articulada pelos alunos Daniel Araújo e Lara Beatriz, ambos do curso de Engenharia da Computação e bolsistas do PACCE, a célula de música está aqui, desde o ano de 2016 e continua, até hoje!<br>
