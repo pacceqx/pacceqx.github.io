@@ -18,7 +18,7 @@ paginate: true
 Nesta segunda-feira , 27 de Maio, às 15:30, o PACCE, juntamente com a célula de arquitetura reciclável, realizou um workshop pra lá de especial sobre produção de fanzines, que são publicações feitas em pequenas tiragens, sem fins lucrativos, que priorizam a criatividade, o (re)uso de materiais disponíveis e a troca de exemplares. Também chamadas de zines, essas publicações iniciam-se como espaço para discutir, trocar informações e divulgar trabalhos amadores acerca de um tema.<br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-27/img1.jpg)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-27/img1.png)
 Imagem tirada da internet.<br>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-27/img2.png)
