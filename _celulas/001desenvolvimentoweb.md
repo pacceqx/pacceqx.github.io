@@ -1,5 +1,5 @@
 ---
-layout: conteudo
+layout: celula
 ano: 2019
 cod: 001
 situacion: ativo
