@@ -25,16 +25,16 @@ Carimbo;<br>
 Bandeirinha.<br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-09/img1.JPG)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-09/img1.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-09/img2.JPG)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-09/img2.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-09/img3.JPG)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-09/img3.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-09/img4.JPG)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-09/img4.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-09/img5.JPG)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-09/img5.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-09/img6.JPG)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-05-09/img6.png)
 
 

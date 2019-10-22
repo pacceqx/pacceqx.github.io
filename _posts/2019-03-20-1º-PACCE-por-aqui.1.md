@@ -4,7 +4,7 @@ layout: post
 title: 1º PACCE por aqui
 subtitle: Diversos jogos e atividades para descontrair.
 description: 
-image:  https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-03-20/capa.jpg
+image:  https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-03-20/capa.png
 optimized_image: 
 category: evento
 tags:
