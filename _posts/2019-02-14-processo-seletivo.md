@@ -12,21 +12,21 @@ tags:
 author: lorenaamaro
 paginate: true
 ---
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-02-14/img1.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
 
 <p style = "text-align: justify">
 O processo seletivo para bolsistas do PACCE de 2019 ocorreu nos dias 14 e 15 de Fevereiro. Do total de 15 bolsas, foram selecionados 8 veteranos e 7 calouros, que passaram por oficinas e uma entrevista avaliadora. O programa recebe, todo ano, um alto número de inscrições para seleção e ainda conta com alunos que se voluntariam à bolsa, mesmo sem direito à remuneração.
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-02-14/img2.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
 
 <p style = "text-align: justify">
 Neste ano de 2019, o número de voluntários foi de 9 alunos, entre veteranos e calouros de cursos variados.
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-02-14/img3.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
 
 <p style = "text-align: justify">
@@ -47,7 +47,7 @@ Paula Luana Oliveira da Silva <br>
 Shelida Crislane Matias Monte.
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-02-14/img4.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-14/img1.png)
 
 <p>
 Os alunos que se voluntariaram ao programa foram:<br>
