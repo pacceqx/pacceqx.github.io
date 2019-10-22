@@ -39,6 +39,8 @@ list-style-type: none;
 
     
     <div class="container">  
+      {% assign funcion = site.pacceiros| where: "staff",  pacceiro.funcion | first %}
+      {% if funcion %}
         {% for pacceiro in site.pacceiros %}
       <div id="celula">
           <ul>
@@ -49,6 +51,7 @@ list-style-type: none;
           </ul>
       </div>  
       {% endfor %}
+      {% endif %}
     </div>
    
 
