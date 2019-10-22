@@ -2,8 +2,8 @@
 date: 2019-02-14 22:30:40
 layout: post
 title: Processo Seletivo 2019
-subtitle: Confira o Ep.03 dessa série.
-description: Confira quem foram os alunos selecionados de 2019.
+subtitle: Confira quem foram os alunos selecionados de 2019.
+description: 
 category: Notícia
 image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-02-14/capa.png
 tags:
