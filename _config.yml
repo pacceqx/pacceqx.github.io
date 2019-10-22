@@ -50,7 +50,7 @@ collections:
     output: true
   pacceiros:
     output: true
-  pacce:
+  celulas:
     output: true
 paginate_path: "/page/:num/"
 
