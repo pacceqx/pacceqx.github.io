@@ -55,3 +55,7 @@ Aqui estão os resultados finais da oficina. Cada participante com sua inspiraç
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-15/img12.heic)
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-15/img13.jpg)
+
+<p style="text-align: justify">
+Para melhor visualização das fotos, acesse o perfil @pacceamake no Instagram ;)
+</p>
