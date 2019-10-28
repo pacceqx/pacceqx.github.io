@@ -40,7 +40,7 @@ list-style-type: none;
     
     <div class="container">  
       
-      
+      {% if pacceiro.funcion=staff %}
         {% for pacceiro in site.pacceiros %}
       <div id="celula">
           <ul>
@@ -50,7 +50,9 @@ list-style-type: none;
               <li>{{ pacceiro.curso }}</li>
           </ul>
       </div>  
+      
       {% endfor %}
+      {% endif %}
      
     </div>
    
