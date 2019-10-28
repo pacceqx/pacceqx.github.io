@@ -34,9 +34,9 @@ O PACCE a Make veio trazendo mais um de seus eventos: oficina de maquiagem eufor
 Logo após essa apresentação, Maryanna fez o passo-a-passo, de maneira explicativa e didática, da construção da make em uma das participantes, e os demais acompanhavam reproduzindo em si.
  </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img5.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-15/img5.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-08/img6.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-15/img6.png)
 
 <p style="text-align: justify">
 Aqui estão os resultados finais da oficina. Cada participante com sua inspiração e técnica específica. Esperamos que tenham gostado. Até a próxima!
