@@ -15,7 +15,7 @@ author: gabriellabarroso
 paginate: true
 ---
 <p style="text-align: justify">
-O PACCE a Make veio trazendo mais de seus eventos: oficina de maquiagem euforia. E foi o máximo! O evento ocorreu no dia 15 de outubro na UFC Quixadá, ministrado pela aluna Maryanna Araújo, estudante de Design Digital. 
+O PACCE a Make veio trazendo mais um de seus eventos: oficina de maquiagem euforia. E foi o máximo! O evento ocorreu no dia 15 de outubro na UFC Quixadá, ministrado pela aluna Maryanna Araújo, estudante de Design Digital. 
 </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-15/img1.jpg)
