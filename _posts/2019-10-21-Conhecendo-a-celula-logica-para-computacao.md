@@ -50,8 +50,7 @@ No final, os alunos deram o feedback do encontro, pontos positivos, expectativas
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/4.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/img6.png)
-
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/6.png)
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/7.png)
 
