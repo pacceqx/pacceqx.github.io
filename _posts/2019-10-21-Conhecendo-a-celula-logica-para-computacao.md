@@ -8,9 +8,7 @@ category: entretenimento
 image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/lógica.png
 tags:
 -Lógica
-
 -Computação
-
 
 author: lorenaamaro
 paginate: true
