@@ -36,8 +36,7 @@ A dinâmica consiste em os participantes fazerem perguntas uns aos outros e este
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/1.png)
 
-![]
-(https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/2.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/2.png)
 
 ##### Resolução de exercícios e tira-dúvidas<br>
 
