@@ -27,7 +27,7 @@ O Conhecendo a Célula visitou a célula de LPC, na última Quarta-Feira, dia 16
 </p>
 
 
-#### Quebra-gelo: Só perguntas 
+### Quebra-gelo: Só perguntas 
 
 <p style="text-align: justify">
 A dinâmica consiste em os participantes fazerem perguntas uns aos outros e estes só podem responder com outra pergunta. O intuito foi sempre gerar mais comunicação entre os alunos, fazendo com que o diálogo nunca terminasse. Essa atividade traz resultados muito positivos, uma vez que os participantes exercem o processo comunicativo e interativo com outros membros do grupo.
@@ -38,7 +38,7 @@ A dinâmica consiste em os participantes fazerem perguntas uns aos outros e este
 ![]
 (https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/2.png)
 
-#### Resolução de exercícios e tira-dúvidas
+### Resolução de exercícios e tira-dúvidas
 
 <p style="text-align: justify">
 Esse foi o momento de colocar os conceitos da lógica para computação em prática e, de quebra, tirar dúvidas que surgissem. 
