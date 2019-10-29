@@ -57,9 +57,8 @@ No final, os alunos deram o feedback do encontro, pontos positivos, expectativas
 <p style="text-align: justify">
 E o Conhecendo a Célula de hoje fica por aqui, semana que vem tem mais. Se você gostou do episódio de hoje e da célula que foi apresentada,te convidamos a visitá-la, é toda semana, às Quartas, de 13:30hrs às 15:30hrs, na Sala 2 do Bloco 1. Contamos com sua presença!<br>
 E não esqueça: para mais notícias e novidades como essa, é só ficar ligado no nosso site www.pacceqx.com.br e acompanhar nosso Instagram @pacceufcqx.<br><br>
-
+</p>
 
 Até a próxima!
 <br><br>
 Fotos por: Lucas Rodrigues | Bolsista PACCE.
-</p>
