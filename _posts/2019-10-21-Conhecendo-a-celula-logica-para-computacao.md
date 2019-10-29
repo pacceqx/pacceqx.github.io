@@ -7,12 +7,13 @@ description:
 category: entretenimento
 image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/lo.png
 tags:
--Lógica
--Computação
+-Logica
+-Computacao
 
 author: lorenaamaro
 paginate: true
 ---
+
 <p style="text-align: justify">
 No "Conhecendo a célula" de hoje,você vai conhecer a célula de Lógica para Computação (LPC). Então, prepare-se porque tem muita coisa legal por aqui! 
 A célula de Lógica para Computação é articulada pela aluna Paula Luana,do curso de Ciência da Computação e bolsista do PACCE.
