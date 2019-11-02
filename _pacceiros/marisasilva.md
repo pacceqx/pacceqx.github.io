@@ -2,6 +2,7 @@
 layout: pacceiro
 ano: 2019
 staff: ok
+division: Gestão
 situacion: ativo
 funcion: Staff
 curso: Engenharia de Computação

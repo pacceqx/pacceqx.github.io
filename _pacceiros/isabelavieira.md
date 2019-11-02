@@ -2,6 +2,7 @@
 layout: pacceiro
 ano: 2019
 staff: ok
+division: Comunicação
 situacion: ativo
 funcion: Staff 
 curso: Sistemas de Informação
