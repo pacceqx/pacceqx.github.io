@@ -45,13 +45,16 @@ list-style-type: none;
 
 <div class="container">  
         {% for celula in site.celulas %}
+        <form action="conteudo.md{{conteudo.cod}}">
       <div id="celula">
           <ul>
               <li><img  src="{{ celula.photo }}" ></li>
               <li>{{ celula.name  }}</li>
                <li>{{ celula.hora }}</li>
               <li>{{ celula.local }}</li>
+              <li><input type="submit" value="VEJA OS CONTEÚDOS"> </li>
           </ul>
+          <form action="/action_page.php">
       </div>  
       {% endfor %}
     </div>
