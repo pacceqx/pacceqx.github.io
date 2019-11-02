@@ -2,7 +2,7 @@
 layout: pacceiro
 ano: 2019
 staff: ok
-division: Comnunicação
+division: Comunicação
 situacion: ativo
 funcion: Staff
 curso: Design Digital
