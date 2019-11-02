@@ -1,6 +1,7 @@
 ---
 layout: pacceiro
 ano: 2019
+staff: ok
 situacion: ativo
 funcion: Staff
 curso: Engenharia de Computação
