@@ -2,7 +2,7 @@
 layout: pacceiro
 ano: 2019
 staff: ok
-division: Interações
+division: Interação
 situacion: ativo
 funcion: Staff
 curso: Engenharia de Computação
