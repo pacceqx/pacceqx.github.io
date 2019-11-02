@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Células
+title: Conteúdos
 description: Some description.
-permalink: /celula/
+permalink: /conteudo/
 menu: true
 ---
 
+<?php
+ $cod = $_POST['{{ celula.cod }}'];
+ echo {{ celula.cod }};
+?>
 <img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px;">
-<h2 style="text-align: center; ">CÉLULAS</h2>
+<h2 style="text-align: center; ">CONTEÚDO</h2>
 <style type="text/css" media="screen">
 @font-face {
   font-family: 'Josefin Sans';
@@ -44,18 +48,13 @@ list-style-type: none;
 
 
 <div class="container">  
-        {% for celula in site.celulas %}
-        <form accept-charset="UTF-8" method="POST" action="../conteudo.md">
+{% assign conteudo = site.conteudo | where: "cod", page.conteudo | first %}
+        {% for conteudo in site.conteudo %}
       <div id="celula">
           <ul>
-              <li><img  src="{{ celula.photo }}" ></li>
-              <li>{{ celula.name  }}</li>
-               <li>{{ celula.hora }}</li>
-              <li>{{ celula.local }}</li>
-              <li><input name="{{ celula.cod }}" type="submit" value="CONTEÚDOS"></li>
+              <li><img  src="{{ conteudo.photo }}" ></li>
           </ul>
-           </div>
-          </form>  
+      </div>  
       {% endfor %}
     </div>
    
