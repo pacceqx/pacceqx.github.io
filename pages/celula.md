@@ -52,9 +52,9 @@ list-style-type: none;
               <li>{{ celula.name  }}</li>
                <li>{{ celula.hora }}</li>
               <li>{{ celula.local }}</li>
-              <li><input type="submit" value="VEJA OS CONTEÚDOS"> </li>
+              <li><input type="submit" value="CONTEÚDOS"></li>
           </ul>
-          <form action="/action_page.php">
+          </form>
       </div>  
       {% endfor %}
     </div>
