@@ -9,7 +9,7 @@ menu: true
 <?php
  $cod = $_POST['{{ celula.cod }}'];
  echo $cod;
-?>
+
 <img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px;">
 <h2 style="text-align: center; ">CONTEÚDO</h2>
 <style type="text/css" media="screen">
@@ -48,7 +48,7 @@ list-style-type: none;
 
 
 <div class="container">  
-{% assign conteudo = site.conteudo | where: "cod", page.conteudo | first %}
+{% assign conteudo = site.conteudo | where: "$cod", page.conteudo | first %}
         {% for conteudo in site.conteudo %}
       <div id="celula">
           <ul>
@@ -58,3 +58,4 @@ list-style-type: none;
       {% endfor %}
     </div>
    
+?>

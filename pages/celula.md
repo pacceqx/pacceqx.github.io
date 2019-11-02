@@ -45,7 +45,7 @@ list-style-type: none;
 
 <div class="container">  
         {% for celula in site.celulas %}
-        <form accept-charset="UTF-8" method="POST" action="{{ site.url }}{{site.baseurl}}/conteudo.md">
+        <form accept-charset="UTF-8" method="POST" action="{{ site.url }}{{site.baseurl}}/conteudo.php">
       <div id="celula">
           <ul>
               <li><img  src="{{ celula.photo }}" ></li>
