@@ -6,6 +6,10 @@ permalink: /conteudo/
 menu: true
 ---
 
+<?php
+ $cod = $_POST['{{ celula.cod }}'];
+ echo {{ celula.cod }};
+?>
 <img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px;">
 <h2 style="text-align: center; ">CONTEÚDO</h2>
 <style type="text/css" media="screen">
