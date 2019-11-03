@@ -47,7 +47,7 @@ list-style-type: none;
         {% for conteudo in site.conteudo %}
       <div id="celula">
           <ul>
-              <li><img  src="{{ site.url }}{{site.baseurl}}{{ site.conteudo }}" ></li>
+              <li><img  src="{{ conteudo.photo }}" ></li>
           </ul>
       </div>  
       {% endfor %}
