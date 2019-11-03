@@ -51,10 +51,9 @@ list-style-type: none;
               <li>{{ celula.name  }}</li>
                <li>{{ celula.hora }}</li>
               <li>{{ celula.local }}</li>
-              <li><a href="{{ site.url }}{{site.baseurl}}/conteudo/">Conteúdo</a></li>
+              <li><a href="{{ site.url }}{{site.baseurl}}/conteudo.md/">Conteúdo</a></li>
           </ul>
            </div>
-          </form>  
       {% endfor %}
     </div>
    
