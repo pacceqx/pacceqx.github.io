@@ -45,14 +45,13 @@ list-style-type: none;
 
 <div class="container">  
         {% for celula in site.celulas %}
-        <form accept-charset="UTF-8" method="POST" action="{{ site.url }}{{site.baseurl}}/conteudo.php">
       <div id="celula">
           <ul>
               <li><img  src="{{ celula.photo }}" ></li>
               <li>{{ celula.name  }}</li>
                <li>{{ celula.hora }}</li>
               <li>{{ celula.local }}</li>
-              <li><input name="{{ celula.cod }}" type="submit" value="CONTEÚDOS"></li>
+              <li><a href="{{ site.url }}{{site.baseurl}}/conteudo/">Conteúdo</a></li>
           </ul>
            </div>
           </form>  
