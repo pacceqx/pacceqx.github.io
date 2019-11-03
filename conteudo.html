@@ -43,11 +43,11 @@ list-style-type: none;
 
 
 <div class="container">  
-{% assign conteudo = site.conteudo | where: "$cod", page.conteudo | first %}
+
         {% for conteudo in site.conteudo %}
       <div id="celula">
           <ul>
-              <li><img  src="{{ conteudo.photo }}" ></li>
+              <li><img  src="{{ site.url }}{{site.baseurl}}{{ site.conteudo }}" ></li>
           </ul>
       </div>  
       {% endfor %}
