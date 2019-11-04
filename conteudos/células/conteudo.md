@@ -43,13 +43,14 @@ list-style-type: none;
 
 
 <div class="container">  
-
-        {% for conteudo in site.conteudo %}
+{% for conteudo in site.conteudo %}
+{% if conteudo.web %}
       <div id="celula">
           <ul>
               <li><img  src="{{ conteudo.photo }}" ></li>
           </ul>
       </div>  
+      {% endif %} 
       {% endfor %}
     </div>
    
