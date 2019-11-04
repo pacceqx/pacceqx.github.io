@@ -52,6 +52,8 @@ collections:
     output: true
   celulas:
     output: true
+  conteudo:
+    output: true
 paginate_path: "/page/:num/"
 
 # Content paginator

@@ -1,6 +1,8 @@
 ---
 layout: pacceiro
 ano: 2019
+staff: ok
+division: Formação
 situacion: ativo
 funcion: Staff
 curso: Engenharia de Software
