@@ -1,5 +1,6 @@
 ---
 layout: conteudo
+web: ok
 cod: 001
 situacion: ativo
 name: Desenvol. Web
