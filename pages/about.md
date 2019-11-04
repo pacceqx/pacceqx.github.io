@@ -28,8 +28,9 @@ O STAFF: Temos quatro subdivisões.<br><br>
 -A Comunicação/Site: É responsável por ser a "voz" do PACCE, nas redes sociais e no site online. Faz divulgações dos eventos que serão realizados, bem como os temas que cada célula irá abordar.<br><br>
 
 -A Interação: Responsáveis pelas dinâmicas semanais do PACCE, com o objetivo de promover interação entre os bolsistas para que os trabalho fluam de forma positiva, entre todos.<br><br>
+</p>
 
--A Formação: Planeja e repassa os conteúdos a serem estudados pelos bolsistas, como parte de sua formação na bolsa, como: Proatividade, empatia, gestão do tempo, controle emocional, etc.<br><br>
+<strong> -A Formação:</strong> Planeja e repassa os conteúdos a serem estudados pelos bolsistas, como parte de sua formação na bolsa, como: Proatividade, empatia, gestão do tempo, controle emocional, etc.<br><br>
 
 Somando a isso, temos outra categoria, que são os articuladores: São os bolsistas responsáveis por guiar as células, estudando os conteúdos ue devem ser abordados e repassando para os demais participantes.<br><br>
 
