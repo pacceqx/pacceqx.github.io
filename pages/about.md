@@ -23,13 +23,13 @@ O PACCE, em Quixadá, trabalha de forma com que cada bolsista tenha suas atribui
 
 O STAFF: Temos quatro subdivisões.<br><br>
 
--Gestão: Cuida das realizações de reuniões semanais, tem o controle das atividades de cada bolsista, frequências, envios de planejamentos, atividades individuais, etc.
+-Gestão: Cuida das realizações de reuniões semanais, tem o controle das atividades de cada bolsista, frequências, envios de planejamentos, atividades individuais, etc.<br><br>
 
 A Comunicação/Site: É responsável por ser a "voz" do PACCE, nas redes sociais e no site online. Faz divulgações dos eventos que serão realizados, bem como os temas que cada célula irá abordar.<br><br>
 
-Interação: Responsáveis pelas dinâmicas semanais do PACCE, com o objetivo de promover interação entre os bolsistas para que os trabalho fluam de forma positiva, entre todos.
+Interação: Responsáveis pelas dinâmicas semanais do PACCE, com o objetivo de promover interação entre os bolsistas para que os trabalho fluam de forma positiva, entre todos.<br><br>
 
-Formação: Planeja e repassa os conteúdos a serem estudados pelos bolsistas, como parte de sua formação na bolsa, como: Proatividade, empatia, gestão do tempo, controle emocional, etc.
+Formação: Planeja e repassa os conteúdos a serem estudados pelos bolsistas, como parte de sua formação na bolsa, como: Proatividade, empatia, gestão do tempo, controle emocional, etc.<br><br>
 
 Somando a isso, temos outra categoria, que são os articuladores: São os bolsistas responsáveis por guiar as células, estudando os conteúdos ue devem ser abordados e repassando para os demais participantes.<br><br>
 
