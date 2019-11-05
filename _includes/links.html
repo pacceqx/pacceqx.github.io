@@ -4,9 +4,11 @@
   </li>
   {% for page in site.pages %}
     {% if page.menu %}
+    {% if page.ok %}
       <li>
         <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
       </li>
+      {% endif %}
     {% endif %}
   {% endfor %}
   {% if site.email %}

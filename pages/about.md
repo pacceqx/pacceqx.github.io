@@ -3,6 +3,7 @@ layout: page
 title: Sobre
 description: Some description.
 permalink: /about/
+ok: ok
 menu: true
 ---
 
