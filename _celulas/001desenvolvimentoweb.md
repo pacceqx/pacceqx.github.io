@@ -7,5 +7,5 @@ name: Desenvol. Web
 hora: Seg 10-12/Ter 8-10
 local: Lab 3 B1/Lab 5 B4 
 photo: http://pacceqx.github.io\assets\pic\celulas\01.png
-link: {{ site.url }}{{ site.baseurl }}/web/
+link: https://www.pacceqx.com.br/web/
 ---
