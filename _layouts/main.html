@@ -4,6 +4,16 @@ layout: compress
 
 <!DOCTYPE html>
 <html lang="{{ site.language }}">
+    <head>
+            <script>
+                    now = new Date
+                    if (now.getDay () === 1 )
+                    {alert("Hoje célula de web");}
+                    else
+                    {alert("Hoje também é dia de trabalho, mas pelo menos é final de semana"); }
+                    </script>
+            
+    </head>
     {% include head.html %}
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
