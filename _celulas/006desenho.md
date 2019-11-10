@@ -7,5 +7,6 @@ name: Desenho e Criatividade
 hora: Qua 10-12 
 local: Sala 4 Bloco 4 
 photo: http://pacceqx.github.io\assets\pic\celulas\06.png
+link: https://www.pacceqx.com.br/desenho/
 ---
 

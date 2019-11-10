@@ -7,5 +7,6 @@ name: Culinária
 hora: Fim de semana
 local: 
 photo: http://pacceqx.github.io\assets\pic\celulas\15.png
+link: https://www.pacceqx.com.br/culinaria/
 ---
 

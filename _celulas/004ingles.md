@@ -7,5 +7,6 @@ name: Inglês
 hora: Ter 20-22
 local: Sala 3 Bloco 1 
 photo: http://pacceqx.github.io\assets\pic\celulas\04.png
+link: https://www.pacceqx.com.br/ingles/
 ---
 
