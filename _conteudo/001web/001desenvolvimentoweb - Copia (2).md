@@ -2,9 +2,10 @@
 layout: conteudo
 web: ok
 cod: 001
+arte: Késsia
 situacion: ativo
 name: Desenvol. Web
-photo: http://pacceqx.github.io\assets\pic\conteudo\01 (1).jpg
+photo: http://pacceqx.github.io\assets\pic\conteudo\001web\01 (1).jpg
 descri: conteudo tal
 ---
 
