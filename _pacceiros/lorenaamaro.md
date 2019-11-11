@@ -1,6 +1,8 @@
 ---
 layout: pacceiro
 ano: 2019
+staff: ok
+division: Comunicação/Site
 situacion: ativo
 funcion: Articuladora
 curso: Design Digital
