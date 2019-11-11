@@ -24,12 +24,12 @@ Articulada pelo Gabriel Josman, do curso de Engenharia da Computação e bolsist
 A Célula de Culinária começa o encontro separando todos os ingrediente que irão usar para a receita. Logo após, todos partem para o mercado para fazer as compras. Mais um diferencial dessa Célula é que ela visa a economia, então tudo é bem avaliado, desde a quantidade certa de cada ingrediente até a compra com mais custo benefício.<br><br>
 
 No dia em que visitamos a Célula de Culinária, o prato era uma refeição para almoço. Os ingredientes utilizados foram: <br>
-<strong>Para o Arroz com Brócolis:</strong><br>
+<b>Para o Arroz com Brócolis:</b><br>
 1kg de Arroz<br>Brócolis<br>1/2 cebola<br>
-<strong>Para o Macarrão com Espinafre:</strong><br>
+<b>Para o Macarrão com Espinafre:</b><br>
 2pct de macarrão<br>Espinafre<br>1pct de creme de leite<br>Alho e azeite<br>
-<strong>Para o Strogonoff:</strong><br>
-1kg de peito de frango<br>1 xíc de farinha de trigo<br>1pct de creme de leite<br>Catchup<br>1/2 cebola<br>Pimenta e sal<br>Batata palha
+<b>Para o Strogonoff:</b><br>
+1kg de peito de frango<br>1 xíc de farinha de trigo<br>1pct de creme de leite<br>Catchup<br>1/2 cebola<br>Pimenta e sal<br>Batata palha<br>
 </p>
 
 ##### Preparando a receita<br>
