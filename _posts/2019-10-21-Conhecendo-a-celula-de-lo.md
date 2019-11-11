@@ -14,15 +14,15 @@ author: lorenaamaro
 paginate: true
 ---
 <p style="text-align: justify">
-No "Conhecendo a célula" de hoje,você vai conhecer a célula de Lógica para Computação (LPC). Então, prepare-se porque tem muita coisa legal por aqui! <br>
+No "Conhecendo a célula" de hoje, você vai conhecer a célula de Lógica para Computação (LPC). Então, prepare-se porque tem muita coisa legal por aqui! <br>
 
-A célula de Lógica para Computação é articulada pela aluna Paula Luana,do curso de Ciência da Computação e bolsista do PACCE.<br>
+A célula de Lógica para Computação é articulada pela aluna Paula Luana, aluna do curso de Ciência da Computação e bolsista do PACCE.<br>
 </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/5.png)
 
 <p style="text-align: justify">
-Ela surgiu a partir da necessidade dos alunos com o tema, pois é uma disciplina obrigatória para muitos dos cursos do Campus de Quixadá. Usando a metodologia da Aprendizagem Cooperativa, a célula busca auxiliar os estudantes na matéria, fazendo com que seus índices acadêmicos sejam satisfatórios e tragam muitas aprovações.<br>
+A célula surgiu a partir da necessidade dos alunos com o tema, pois é uma disciplina obrigatória para muitos dos cursos do Campus de Quixadá. Usando a metodologia da Aprendizagem Cooperativa, a célula busca auxiliar os estudantes na matéria, fazendo com que seus índices acadêmicos sejam satisfatórios e tragam muitas aprovações.<br>
 
 O Conhecendo a Célula visitou a célula de LPC, na última Quarta-Feira, dia 16. Quer saber como foi? Bora lá!<br><br>
 </p>
@@ -56,7 +56,7 @@ No final, os alunos deram o feedback do encontro, pontos positivos, expectativas
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/7.png)
 
 <p style="text-align: justify">
-E o Conhecendo a Célula de hoje fica por aqui, semana que vem tem mais. Se você gostou do episódio de hoje e da célula que foi apresentada,te convidamos a visitá-la, é toda semana, às Quartas, de 13:30hrs às 15:30hrs, na Sala 2 do Bloco 1. Contamos com sua presença!<br>
+E o Conhecendo a Célula de hoje fica por aqui, semana que vem tem mais. Se você gostou do episódio de hoje e da célula que foi apresentada, te convidamos a visitá-la, é toda semana, às Quartas, de 13:30hrs às 15:30hrs, na Sala 2 do Bloco 1. Contamos com sua presença!<br>
 E não esqueça: para mais notícias e novidades como essa, é só ficar ligado no nosso site www.pacceqx.com.br e acompanhar nosso Instagram @pacceufcqx.<br><br>
 
 
