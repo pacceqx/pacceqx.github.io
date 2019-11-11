@@ -55,9 +55,9 @@ Os pratos feitos nos encontros são escolhidos pelos próprios participantes, em
 No final do encontro, o que resta a fazr é saborear o prato feito. Os participantes dizem que além de muito gostoso, todos os pratos feitos por eles são bem baratos e todo mundo adora!<br><br>
 </p> 
 
-<p style="text-align: justify">
-
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-25/img5.png)
+
+<p style="text-align: justify">
 
 O Conhecendo a Célula fica por aqui. Mas não se esqueça, toda semana tem! E se você ficou curioso em saber melhor como funciona a Célula de Culinária, é só ficar atento!
 
