@@ -52,5 +52,6 @@ Confira as fotos com o resultado final das maquiagens feitas pelas participantes
 
 <p style="text-align: justify">
 Para mais informações sobre eventos do PACCE, acesse o perfil @pacceufcqx no Instagram ;) <br><br>
-Fotos por: Patricia Queiroz
+Fotos por: Isabela Vieira <br>
+Edição das fotos: Patricia Queiroz
 </p>
