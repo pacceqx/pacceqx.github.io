@@ -14,7 +14,7 @@ author: gabriellabarroso
 paginate: true
 ---
 <p style="text-align: justify">
-Mais um PACCE a Make, ebaaa! Esse organizado pela aluna de Design Digital e bolsista do PACCE, Patricia Queiroz. A oficina ocorreu no dia 16 de outubro, na UFC Quixadá, com duração de duas horas.
+Mais um PACCE a Make, ebaaa! Esse organizado pela aluna de Design Digital e bolsista do PACCE, Patricia Queiroz e palestrado pela aluna Ananda Luz, também do curso de Design Digital. A oficina ocorreu no dia 16 de outubro, na UFC Quixadá, com duração de duas horas.
 </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-16/8.png)
@@ -24,7 +24,7 @@ Mais um PACCE a Make, ebaaa! Esse organizado pela aluna de Design Digital e bols
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-16/9.png)
 
 <p style="text-align: justify">
-A oficina de maquiagem teve como objetivo proporcionar às participantes um melhor conhecimento ao se maquiar e elevar sua autoestima. Ao todo foram 8 participantes, divididas entre alunas, funcionárias e público externo. 
+A oficina de maquiagem teve como objetivo proporcionar às participantes um melhor conhecimento ao se maquiar e elevar sua autoestima. Ao todo, foram 8 participantes, divididas entre alunas, funcionárias e público externo. 
  </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-16/11.png)
