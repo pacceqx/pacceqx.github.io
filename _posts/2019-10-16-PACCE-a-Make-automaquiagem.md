@@ -2,7 +2,7 @@
 date: 2019-10-16 12:00:00
 layout: post
 title: PACCE a Make
-subtitle: maquiagem para festa
+subtitle: Maquiagem para festa
 description: 
 category: evento
 image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-16/capa.png
