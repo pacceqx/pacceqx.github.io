@@ -43,7 +43,7 @@ Com todos os ingredientes em mãos, cada participante faz sua parte para prepara
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-25/img3.png)
 
-##### O patro do dia<br>
+##### O prato do dia<br>
 <p style="text-align: justify">
 Arros com brócolis, macarrão com espinafre e strogonoff de frango. Já dá pra imaginar o tanto que tava delicioso né? <br>
 Os pratos feitos nos encontros são escolhidos pelos próprios participantes, em um encontro presente durante a semana.
@@ -52,7 +52,7 @@ Os pratos feitos nos encontros são escolhidos pelos próprios participantes, em
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-25/img4.png)
 
 <p style="text-align: justify">
-No final do encontro, o que resta a fazr é saborear o prato feito. Os participantes dizem que além de muito gostoso, todos os pratos feitos por eles são bem baratos e todo mundo adora!<br><br>
+No final do encontro, o que resta a fazer é saborear o prato feito. Os participantes dizem que além de muito gostoso, todos os pratos feitos por eles são bem baratos e todo mundo adora!<br><br>
 </p> 
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-25/img5.png)
