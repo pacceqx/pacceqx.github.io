@@ -14,7 +14,7 @@ author: isabelavieira
 paginate: true
 ---
 <p style="text-align: justify">
-No "Conhecendo a Célula" de hoje vamos apresentar uma Célula que é de dar água na boca. A Célula de Culinária tras o diferencial de cozinhar, aprendendo cooperativamente. <br><br>
+No "Conhecendo a Célula" de hoje vamos apresentar uma Célula que é de dar água na boca. A Célula de Culinária traz o diferencial de cozinhar, aprendendo cooperativamente. <br><br>
 
 Articulada pelo Gabriel Josman, do curso de Engenharia da Computação e bolsista do PACCE, a Célula de Culinária conta com um público fiel, todos dignos de irem para o Masterchefe, haha. Nós visitamos a Célula de Culinária no último sábado, dia 19. Quer saber o que rolou por lá? Se liga! <br>
 </p>
