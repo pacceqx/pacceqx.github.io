@@ -49,6 +49,8 @@ Confira as fotos com o resultado final das maquiagens feitas pelas participantes
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-16/5.png)
 
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-16/13.png)
+
 
 <p style="text-align: justify">
 Para mais informações sobre eventos do PACCE, acesse o perfil @pacceufcqx no Instagram ;) <br><br>
