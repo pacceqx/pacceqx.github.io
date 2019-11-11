@@ -37,11 +37,11 @@ No dia em que visitamos a Célula de Culinária, o prato era uma refeição para
 Com todos os ingredientes em mãos, cada participante faz sua parte para preparar o prato do dia. Com o conhecimento de cada um sobre cada coisa, todo mundo cozinha aprendendo muitas coisas sobre a comida que está sendo feita.<br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/5.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-25/img1.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/5.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-25/img2.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/5.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-25/img3.png)
 
 ##### O patro do dia<br>
 <p style="text-align: justify">
@@ -49,12 +49,15 @@ Arros com brócolis, macarrão com espinafre e strogonoff de frango. Já dá pra
 Os pratos feitos nos encontros são escolhidos pelos próprios participantes, em um encontro presente durante a semana.
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/5.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-25/img4.png)
 
 <p style="text-align: justify">
 No final do encontro, o que resta a fazr é saborear o prato feito. Os participantes dizem que além de muito gostoso, todos os pratos feitos por eles são bem baratos e todo mundo adora!<br><br>
+</p> 
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-21/5.png)
+<p style="text-align: justify">
+
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-25/img5.png)
 
 O Conhecendo a Célula fica por aqui. Mas não se esqueça, toda semana tem! E se você ficou curioso em saber melhor como funciona a Célula de Culinária, é só ficar atento!
 
