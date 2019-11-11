@@ -14,7 +14,7 @@ author: gabriellabarroso
 paginate: true
 ---
 <p style="text-align: justify">
-Mais um PACCE a Make, ebaaa! Esse organizado pela aluna de Design Digital e bolsista do PACCE, Patricia Queiroz e palestrado pela aluna Ananda Luz, também do curso de Design Digital. A oficina ocorreu no dia 16 de outubro, na UFC Quixadá, com duração de duas horas.
+Mais um PACCE a Make, ebaaa! Esse organizado pela aluna de Design Digital e bolsista do PACCE, Patricia Queiroz e palestrado pela aluna Ananda Luz, do mesmo curso. A oficina ocorreu no dia 16 de outubro, na UFC Quixadá, com duração de duas horas.
 </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-16/8.png)
