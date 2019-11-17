@@ -88,10 +88,12 @@ A primeira pergunta foi:<br>
 
 <b>O que você achou do último encontro, sobre desenho de modelo vivo?</b><br>
 "Eu adorei, foi um dos melhores pra mim, porque eu tenho costume de treinar desenhar modelos apenas por foto que vejo na internet e fazer isso ao vivo foi muito enriquecedor, principalmente porque eu pude pôr em prática tudo que eu aprendi até então nos meus estudos e nos encontros passados." afirmou Eduarda.<br><br>
+
+Dá pra ver o quanto essa galera gosta da Célula né?
 </p>
 
 <p style="text-align: justify">
-O conhecendo a célula termina aqui, mas esse ainda não é o último. Fiquem atentos às novidades!. E pra quem gostou da Célula de Desenho, acontece toda Quarta-Feira, das 10:00 às 12:00, na sala 4 do bloco 4.<br><br>
+E o Conhecendo a Célula termina aqui, mas esse ainda não é o último. Fiquem atentos às novidades! E pra quem gostou da Célula de Desenho, acontece toda Quarta-Feira, das 10:00 às 12:00, na sala 4 do bloco 4.<br><br>
 
 E não esqueça: para mais notícias e novidades como essa, é só ficar ligado no nosso site www.pacceqx.com.br e acompanhar nosso Instagram @pacceufcqx.
 <br><br>
