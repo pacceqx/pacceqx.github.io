@@ -15,20 +15,20 @@ author: isabelaveira
 paginate: true
 ---
 <p style="text-align: justify">
-A Célula de Desenho fo uma das novidades do ano de 2019, que teve como criador e ainda atual articulador o bolsista Alex Menezes, estudante de Design Digital. A Célula de Desenho contou sempre com um público bastante fiel, chegando a criar um laço bastante forte dentro de um grupo.<br><br>
+A Célula de Desenho foi uma das novidades do ano de 2019, que teve como criador e ainda atual articulador, o bolsista Alex Menezes, estudante de Design Digital. A Célula de Desenho contou sempre com um público bastante fiel, chegando a criar um laço bastante forte dentro de um grupo.<br><br>
 </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-28/img1.png)
 
 <p style="text-align: justify">
-Nós visitamos a Célula de Desenho no dia 23 de Outubro, e o tema do dia foi <b>Desenho de modelo vivo</b>. Antes de tudo, vamos saber um pouco mais sobre o assunto:<br><br>
+Nós visitamos a Célula de Desenho no dia 23 de Outubro e o tema do dia foi <b>Desenho de modelo vivo</b>. Antes de tudo, vamos saber um pouco mais sobre o assunto:<br>
 </p>
 
 ##### Desenho de modelo vivo <br>
 <p style="text-align: justify">
-Desenho de modelo vivo é o exercício do desenho de uma figura humana na presença de um modelo nas suas várias formas e posições. A prática da representação do corpo humano através da observação dreta de um modelo humano permanece como um dos componentes básicos da formação arstística contemporânea.<br><br>
+Desenho de modelo vivo é o exercício do desenho de uma figura humana na presença de um modelo nas suas várias formas e posições. A prática da representação do corpo humano através da observação direta de um modelo humano permanece como um dos componentes básicos da formação arstística contemporânea.<br><br>
 
-O desenho de modelo pode ser realizado de uma forma rápida, simples ou lenta, detalhada. Quando se fala sobre técnica, têm sido utilizado diversos materiais e instrumentos de desenho, como lápis, carvão, aquarela, etc, quase sempre sobre papel.<br>
+O desenho de modelo pode ser realizado de uma forma rápida e simples ou lenta e detalhada. Quando se fala sobre técnica, têm sido utilizado diversos materiais e instrumentos de desenho, como lápis, carvão, aquarela e etc, quase sempre sobre papel.<br>
 
 Fonte: http://www.stroudlifedrawing.com/history.html <br><br>
 
@@ -36,7 +36,7 @@ Fonte: http://www.stroudlifedrawing.com/history.html <br><br>
 
 ##### Quebra-gelo: Gartic no quadro.<br>
 <p style="text-align: justify">
-Gartic já é bastate conhecido, mas muita gente cria suas adptações. Na célula de desenho todo mundo adorou o quebra-gelo. Os participantes foram divididos em duas equipes, eles escolheram como tema "Filme/Séries". Cada participantes ia no quadro e desenhava para sua equipe o filme ou série escolhido pela equipe oposta. Foi muito divertido.<br>
+Gartic já é bastate conhecido, mas muita gente cria suas adaptações. Na célula de desenho todo mundo adorou o quebra-gelo. Os participantes foram divididos em duas equipes e eles escolheram como tema "Filme/Séries". Cada participante ia no quadro e desenhava para sua equipe o filme ou série escolhido pela equipe oposta. Foi muito divertido!<br>
 </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-28/img2.png)
@@ -50,32 +50,32 @@ Essa atividade tem o intuito de deixar os participantes mais relaxados e sociáv
 
 ##### Hora de praticar <br>
 <p style="text-align: justify">
-O articulador da Célula convidou a aluna Isabela para ser modelo. A ideia era que, inicialmente, a modelo fizesse posições básicas, de 5 minutos, para que os articuladores pudessem fazer desenhos rápidos e simples.<br> <br>
+O articulador da Célula convidou a aluna Isabela, de Sistemas de Informação, para ser modelo. A ideia era que, inicialmente, a modelo fizesse posições básicas, de 5 minutos, para que os articuladores pudessem fazer desenhos rápidos e simples.<br> <br>
 </p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-28/img4.png)
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-28/img5.png)
 
-<p style="text-align: justify">
-Depois de vários desenhos rápidos, a modelo ficou durante 20 minutos em uma única posição, para um desenho mais detalhado.<br>
-</p>
-
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-28/img6.png)
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-28/img7.png)
+
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-28/img8.png)
+
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-28/img9.png)
+
+<p style="text-align: justify">
+Depois de vários desenhos rápidos, a modelo ficou durante 20 minutos em uma única posição, para um desenho mais detalhado.<br>
+</p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-28/img10.png)
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-28/img11.png)
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-28/img12.png)
-
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-28/img13.png)
-
 
 <p style="text-align: justify">
-A célula de Desenho tem como participantes grandes artistas e ainda promete muito mais. Para comprovar, fizemos várias perguntas aos participantes, para saber o que eles estão achando da célula, de sua metodologia e seu articulador.<br><br>
+A célula de Desenho tem como participantes grandes artistas e ainda promete muito mais. O integrantes também gostam muito de ir pra Célula, e pra comprovar, fizemos várias perguntas aos participantes, para saber o que eles estão achando da célula, de sua metodologia e seu articulador.<br>
 
 A primeira pergunta foi:<br>
 <b>Qual a importância da Célula para você?</b><br>
