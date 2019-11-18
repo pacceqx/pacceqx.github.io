@@ -65,7 +65,7 @@ Como de costume, na célula, os articuladores pedem para que os participantes tr
 A tarefa da vez foi pedir para cada integrante da célula apresentar uma breve interpretação do seu personagem para que os articuladores pudessem analisar os traços e características individuais que foram criados para cada um. Para isso, foi narrado um cenário em que todos iriam agir, interpretando seus personagens.<br>
 </p>
 
-![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/22019-10-07/img6.png)
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img6.png)
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-10-07/img7.png)
 
