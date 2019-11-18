@@ -5,7 +5,7 @@ title: Conhecendo a célula Ep.07
 subtitle: Confira o Ep.07 dessa série.
 description: 
 category: entretenimento
-image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-11-01/capa.png
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-11-01/img5.png
 tags:
 - Desenvolvimento Web
 
