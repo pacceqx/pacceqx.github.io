@@ -13,9 +13,9 @@ author: lorenaamaro
 paginate: true
 ---
 <p style="text-align: justify">
-O Conhecendo a célula, de hoje, te apresenta uma célula muito bacana e querida da galera, se liga.<br><br>
+O Conhecendo a célula, de hoje, te apresenta uma célula muito bacana e querida da galera. Se liga!<br><br>
 
-A célula de Desenvolvimento Web teve início no mês de Março, de 2019, articulada pela bolsista Kassiane façanha, do curso de Ciência da Computação e bolsista o PACCE.<br><br>
+A célula de Desenvolvimento Web teve início no mês de Março, de 2019, articulada pela aluna Kassiane façanha, do curso de Ciência da Computação e bolsista o PACCE.<br><br>
 
 Teve origem a partir da necessidade dos alunos, que possuem várias disciplinas de programação, porém, o público não se limita apenas a esses. Estudantes que não estão mais cursando essas disciplinas ou que até mesmo não têm tanta dificuldade com o tema frequentam os encontros para aprimorar seus conhecimentos prévios na área da programação e da própria linguagem, JavaScript, que é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multi-paradigma.<br><br>
 </p>
