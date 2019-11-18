@@ -51,14 +51,13 @@ Nesse encontro, os participantes puderam pôr em prática as tags, funções e a
 ##### Processamento de grupo: Feedback do encontro.<br>
 <p style="text-align: justify">
 Nesse momento, a articuladora pergunta aos participantes o que acharam do encontro e quais melhorias podem ser implementadas nos encontros seguintes. A metodologia do PACCE é muito voltada para o feedback de tudo que fazemos, visando sempre melhorar e aprimorar nossa forma de interação e comunicação com a comunidade acadêmica. <br><br>
+</p>
 
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-11-01/img5.png)
 
-E o “Conhecendo a célula”, de hoje, fica por aqui. Não esqueçam que a célula de Desenvolvimento Web acontece às Segundas e Terças, de 10:00 às 12:00H e 08:00 às 10:00H, respectivamente.<br><br>
-</p>
-
-
 <p style="text-align: justify">
+E o “Conhecendo a célula”, de hoje, fica por aqui. Não esqueçam que a célula de Desenvolvimento Web acontece às Segundas e Terças, de 10:00 às 12:00H e 08:00 às 10:00H, respectivamente.<br><br>
+
 E aí, gostou? Para mais notícias como essa, acesse Www.pacceqx.com.br ou fique ligado na nossa página do Instagram @pacceufcqx. <br><br>
 
 Até mais! <br><br>
