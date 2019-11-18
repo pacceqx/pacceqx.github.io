@@ -1,5 +1,5 @@
 ---
-date: 2019-10-25 19:26:40
+date: 2019-11-01 19:26:40
 layout: post
 title: Conhecendo a célula Ep.07
 subtitle: Confira o Ep.07 dessa série.
@@ -13,14 +13,9 @@ author: lorenaamaro
 paginate: true
 ---
 <p style="text-align: justify">
-No "Conhecendo a Célula" de hoje vamos apresentar uma Célula que é de dar água na boca. A Célula de Culinária traz o diferencial de cozinhar, aprendendo cooperativamente. <br><br>
+O Conhecendo a célula, de hoje, te apresenta uma célula muito bacana e querida da galera, se liga.<br><br>
 
-Articulada pelo Gabriel Josman, do curso de Engenharia da Computação e bolsista do PACCE, a Célula de Culinária conta com um público fiel, todos dignos de irem para o MasterChef, haha. Nós visitamos a Célula de Culinária no último sábado, dia 19. Quer saber o que rolou por lá? Se liga! <br><br>
-</p>
-
-##### Ingredientes <br>
-<p style="text-align: justify">
-A célula de Desenvolvimento Web teve início no mês de Março, de 2019, articulada pela bolsista Kassiane façanha, do curso de Ciência da Computação e bolsista o PACCE. <br><br>
+A célula de Desenvolvimento Web teve início no mês de Março, de 2019, articulada pela bolsista Kassiane façanha, do curso de Ciência da Computação e bolsista o PACCE.<br><br>
 
 Teve origem a partir da necessidade dos alunos, que possuem várias disciplinas de programação, porém, o público não se limita apenas a esses. Estudantes que não estão mais cursando essas disciplinas ou que até mesmo não têm tanta dificuldade com o tema frequentam os encontros para aprimorar seus conhecimentos prévios na área da programação e da própria linguagem, JavaScript, que é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multi-paradigma.<br><br>
 </p>
