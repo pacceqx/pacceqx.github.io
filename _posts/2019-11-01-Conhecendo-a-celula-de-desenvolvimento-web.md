@@ -29,7 +29,7 @@ Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias 
 <br><br>
 </p>
 
-#####Quebra-gelo: Gartic na lousa.<br>
+##### Quebra-gelo: Gartic na lousa.<br>
 
 <p style="text-align: justify">
 Esse jogo é uma adaptação do aplicativo “Gartic”, que é um jogo de desenho, onde, a cada rodada, um jogador recebe uma palavra aleatória e tem que desenhar o mais semelhante possível, para que os demais jogadores acertem. Nesta adaptação, a lógica é a mesma, o que muda é que, em vez de usar o aparelho celular, os participantes utilizam a lousa e um pincel, e os demais tentam acertar, “chutando” o que acham que seria o desenho.<br><br>
@@ -51,6 +51,7 @@ Nesse encontro, os participantes puderam pôr em prática as tags, funções e a
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-11-01/img4.png)
 
 ##### Processamento de grupo: Feedback do encontro.<br>
+
 <p style="text-align: justify">
 Nesse momento, a articuladora pergunta aos participantes o que acharam do encontro e quais melhorias podem ser implementadas nos encontros seguintes. A metodologia do PACCE é muito voltada para o feedback de tudo que fazemos, visando sempre melhorar e aprimorar nossa forma de interação e comunicação com a comunidade acadêmica. <br><br>
 </p>
