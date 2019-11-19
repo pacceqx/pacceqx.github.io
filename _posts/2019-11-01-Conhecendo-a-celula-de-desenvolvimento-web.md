@@ -30,6 +30,7 @@ Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias 
 </p>
 
 #####Quebra-gelo: Gartic na lousa.<br>
+
 <p style="text-align: justify">
 Esse jogo é uma adaptação do aplicativo “Gartic”, que é um jogo de desenho, onde, a cada rodada, um jogador recebe uma palavra aleatória e tem que desenhar o mais semelhante possível, para que os demais jogadores acertem. Nesta adaptação, a lógica é a mesma, o que muda é que, em vez de usar o aparelho celular, os participantes utilizam a lousa e um pincel, e os demais tentam acertar, “chutando” o que acham que seria o desenho.<br><br>
 </p>
@@ -41,6 +42,7 @@ Esse jogo é uma adaptação do aplicativo “Gartic”, que é um jogo de desen
 ![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-11-01/img3.png)
 
 ##### Conteúdo do dia: Práticas em Js (Java Script); Aprendendo a manipular DOM.<br>
+
 <p style="text-align: justify">
 Nesse encontro, os participantes puderam pôr em prática as tags, funções e a estruturação de seus sites, os deixando mais organizados e simples. Caso houvessem dúvidas, a articuladora ou até mesmo outro participante que se sentisse seguro poderia responder e compartilhar seus conhecimentos com os demais colegas, praticando, assim, a aprendizagem cooperativa, o objetivo principal do PACCE.<br>
 </p>
