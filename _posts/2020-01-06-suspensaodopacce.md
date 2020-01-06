@@ -1,5 +1,5 @@
 ---
-date: 2019-11-01 19:26:40
+date: 2020-01-06 14:26:40
 layout: post
 title: NOTA DE ESCLARECIMENTO
 subtitle: SUSPENSÃO DAS ATIVIDADES DO PACCE 
