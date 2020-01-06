@@ -20,7 +20,7 @@ Recentemente, operaram-se mudanças na política de distribuição de bolsas na 
 <p style="text-align: justify; ">
 Aparentemente, a submissão do PACCE à BIA se respalda por seus recursos, desde 2015, advirem do PNAES. Todavia, ao longo dos anos em que esteve submetido ao decreto <i> 7.234 de 19 de julho de 2010</i>, o PACCE tem respeitado suas diretrizes, dentre as quais destacamos:
 </p>
-<p style="text-align: justify; width:500px; margin-lef:300px;">
+<p style="text-align: justify; width:500px; margin-lef:400px;">
 Art. 5o  Serão atendidos no âmbito do PNAES <i>prioritariamente</i> estudantes oriundos da rede pública de educação básica ou com renda familiar <b>per capita</b> de até um salário mínimo e meio, sem prejuízo de demais requisitos fixados pelas instituições federais de ensino superior. (Itálico nosso)
 </p>
 <p style="text-align: justify">
