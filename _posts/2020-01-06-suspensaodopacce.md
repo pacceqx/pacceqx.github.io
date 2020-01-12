@@ -6,8 +6,7 @@ subtitle: SUSPENSÃO DAS ATIVIDADES DO PACCE
 description: 
 category: noticia
 image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020/paccesite.png
-tags:
-author: 
+tags: 
 paginate: true
 ---
 
