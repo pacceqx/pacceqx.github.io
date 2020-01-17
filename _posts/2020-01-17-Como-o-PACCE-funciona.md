@@ -1,5 +1,5 @@
 ---
-date: 2020-01-17 17:53:40
+date: 2020-01-17 17:00:40
 layout: post
 title: Como funciona o trabalho dos veteranos no Pacce
 subtitle: uma história, alguns esclarecimentos
