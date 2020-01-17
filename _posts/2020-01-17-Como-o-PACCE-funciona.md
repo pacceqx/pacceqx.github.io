@@ -1,10 +1,10 @@
 ---
 date: 2019-10-02 17:53:40
 layout: post
-title: Como funciona o trabalho dos Veteranos no Pacce
-subtitle: uma história 
+title: Como funciona o trabalho dos veteranos no Pacce
+subtitle: uma história, alguns esclarecimentos
 description: 
-category: evento
+category: noticia
 image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-17/capa.jpg
 tags:
 - Notícia
@@ -33,7 +33,7 @@ Resumindo muito a história, ela se identifica muito com  o programa, a célula 
 
 Acho que vocês entenderam o caso aqui. O esqueleto de sustentação que mantém o programa PACCE funcionando são os veteranos que são selecionados por sua identificação com o programa, que são capacitados e que desenvolvem as habilidades técnicas específicas para o trabalho a ser realizado.
 
-PS: A divisão de horas e atividades desenvolvidas pelo PACCE varia de acordo com à realidade de cada Campus. <br><br>
+PS: A divisão de horas e atividades desenvolvidas pelo PACCE varia de acordo com a realidade de cada campus. <br><br>
 
 David Sena Oliveira <br>
 Coordenador do Pacce Quixadá
