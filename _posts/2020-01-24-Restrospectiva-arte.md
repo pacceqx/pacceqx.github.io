@@ -61,7 +61,7 @@ div.desc {
   display: table;
   clear: both;
 }
-img{
+.reponsive img{
     width:100px;
     height: 150px;
 }
