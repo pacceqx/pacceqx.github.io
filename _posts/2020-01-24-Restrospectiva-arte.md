@@ -61,10 +61,7 @@ div.desc {
   display: table;
   clear: both;
 }
-.reponsive img{
-    width:100px;
-    height: 150px;
-}
+
 </style>
 
 
@@ -74,7 +71,7 @@ Em 2019, o Pacce tem se utilizado da arte para criar laços e gerar vida. Vamos 
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (6).jpg">
-      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (6).jpg" alt="Cinque Terre" width="600" height="400">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (6).jpg" alt="Cinque Terre" width="150" height="200">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
