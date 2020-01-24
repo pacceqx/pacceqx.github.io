@@ -1,5 +1,5 @@
 ---
-date: 2020-01-17 17:00:40
+date: 2020-01-24 14:00:40
 layout: post
 title: Retrospectiva Arte 2019
 subtitle: criação artística proporcionada pelo PACCE
@@ -62,8 +62,7 @@ div.desc {
   clear: both;
 }
 </style>
-</head>
-<body>
+
 
 <p style="text-align: justify">
 Em 2019, o Pacce tem se utilizado da arte para criar laços e gerar vida. Vamos relembrar um pouquinho do que fizemos em 2019.
