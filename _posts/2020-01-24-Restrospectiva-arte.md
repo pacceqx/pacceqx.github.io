@@ -69,8 +69,8 @@ Em 2019, o Pacce tem se utilizado da arte para criar laços e gerar vida. Vamos 
 </p>
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg">
-      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg" alt="Cinque Terre" width="600" height="400">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (6).jpg">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (6).jpg" alt="Cinque Terre" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -79,8 +79,8 @@ Em 2019, o Pacce tem se utilizado da arte para criar laços e gerar vida. Vamos 
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg">
-      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg" alt="Forest" width="600" height="400">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (7).jpg">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (7).jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -88,8 +88,8 @@ Em 2019, o Pacce tem se utilizado da arte para criar laços e gerar vida. Vamos 
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg">
-      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg" alt="Northern Lights" width="600" height="400">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (14).jpg">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (14).jpg" alt="Northern Lights" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -97,8 +97,71 @@ Em 2019, o Pacce tem se utilizado da arte para criar laços e gerar vida. Vamos 
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg">
-      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg" alt="Mountains" width="600" height="400">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (15).jpg">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (15).jpg" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (3).jpg">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (3).jpg" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (14).jpg">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (14).jpg" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (13).jpg">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (13).jpg" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (12).jpg">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (12).jpg" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (10).jpg">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (10).jpg" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (16).jpg">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (16).jpg" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (2).jpg">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (2).jpg" alt="Mountains" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
