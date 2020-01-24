@@ -65,13 +65,13 @@ div.desc {
 </head>
 <body>
 
-<h2>Responsive Image Gallery</h2>
-<h4>Resize the browser window to see the effect.</h4>
-
+<p style="text-align: justify">
+Em 2019, o Pacce tem se utilizado da arte para criar laços e gerar vida. Vamos relembrar um pouquinho do que fizemos em 2019.
+</p>
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_5terre.jpg">
-      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg"" alt="Cinque Terre" width="600" height="400">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg" alt="Cinque Terre" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -80,8 +80,8 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_forest.jpg">
-      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg"" alt="Forest" width="600" height="400">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg">
+      <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -89,7 +89,7 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_lights.jpg">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg">
       <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg" alt="Northern Lights" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
@@ -98,7 +98,7 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_mountains.jpg">
+    <a target="_blank" href="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg">
       <img src="https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-01-24/11 (1).jpg" alt="Mountains" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
