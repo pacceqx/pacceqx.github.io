@@ -61,6 +61,10 @@ div.desc {
   display: table;
   clear: both;
 }
+img{
+    width:100px;
+    height: 150px;
+}
 </style>
 
 
