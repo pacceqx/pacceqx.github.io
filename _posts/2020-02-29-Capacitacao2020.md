@@ -1,0 +1,36 @@
+---
+date: 2020-02-29 14:00:40
+layout: post
+title: Capacitação
+subtitle: 
+description: 
+category: noticia
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-02-29/capa.png
+tags:
+- Notícia
+- Informação
+
+author: isabelavieira
+paginate: true
+---
+
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-02-29/capa.png)
+
+<p style="text-align: justify">
+O PACCE irá realizar uma capacitação com oficinas voltadas para a aprendizagem cooperativa. O intuito é que os participantes estejam aptos a participar do projeto, seja como voluntário ou bolsista da BIA (Bolsa de Iniciação Acadêmica).
+<br><br>
+A capacitação em aprendizagem cooperativa ocorrerá nos dias 04 e 05 de Março, divididos em duas turmas, uma pela tarde e outra pela noite.
+<br>
+Turma da Tarde: (AB-CD)
+Turma da Noite: (AB-CD)
+<br><br>
+Se você deseja participar do PACCE 2020, se inscreva, o link :<br>
+forms.gle/JbTKGREw93ZGGhV6A
+<br><br>
+Lembrando que será pré-requisito para participar do PACCE, em 2020, pela BIA.
+
+</p>
+
+
+
+Curtiu? Fique atento para mais novidades como essa e siga nossas redes sociais.
