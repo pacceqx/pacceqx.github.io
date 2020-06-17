@@ -13,6 +13,7 @@ tags:
 author: lorenaamaro
 paginate: true
 ---
+
 <p style = "text-align: justify">
 No dia 20 de Março, quarta, de 12:00h às 13:30h, rolou o primeiro PACCE por aqui do ano de 2019. O evento consiste em um momento de lazer com diversas atividades para os alunos interagirem. São elas :  <br>
 
@@ -27,5 +28,14 @@ Caça ao tesouro. <br>
 
 </p>
 
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-03-20/pacce1.png)
+
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-03-20/pacce2.png)
+
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-03-20/pacce3.png)
+
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-03-20/pacce4.png)
+
+![](https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2019-03-20/pacce5.png)
 
 
