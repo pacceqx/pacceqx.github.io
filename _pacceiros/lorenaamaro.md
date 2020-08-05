@@ -1,17 +1,12 @@
 ---
 layout: pacceiro
-ano: 2019
+ano: 2020
 staff: ok
-division: Comunicação/Site
 situacion: ativo
-funcion: Articuladora
+funcion: Comunicação
 curso: Design Digital
 photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (18).png
 name: lorenaamaro
 display_name: Lorena Amaro
-github_username: gabriellabarroso
-facebook_username: gabriella.barroso.75
-twitter_username: gabsbarroso
-instagram_username: gabriellabarrosoo
 ---
 

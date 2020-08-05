@@ -2,16 +2,11 @@
 layout: pacceiro
 ano: 2019
 staff: ok
-division: Comunicação
 situacion: ativo
-funcion: Staff
+funcion: Comunicação
 curso: Design Digital
 photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (22).png
 name: patriciaqueiroz
 display_name: Patrícia Queiroz
-github_username: gabriellabarroso
-facebook_username: gabriella.barroso.75
-twitter_username: gabsbarroso
-instagram_username: gabriellabarrosoo
 ---
 

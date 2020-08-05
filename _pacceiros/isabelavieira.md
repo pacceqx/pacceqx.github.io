@@ -1,17 +1,12 @@
 ---
 layout: pacceiro
-ano: 2019
+ano: 2020
 staff: ok
-division: Comunicação
 situacion: ativo
 funcion: Staff 
 curso: Sistemas de Informação
 photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (12).png
 name: isabelavieira
 display_name: Isabela Vieira
-github_username: gabriellabarroso
-facebook_username: gabriella.barroso.75
-twitter_username: gabsbarroso
-instagram_username: gabriellabarrosoo
 ---
 
