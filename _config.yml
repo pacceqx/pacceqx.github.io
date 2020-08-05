@@ -50,6 +50,8 @@ collections:
     output: true
   pacceiros:
     output: true
+  mensagens:
+    output: true
   celulas:
     output: true
   conteudo:

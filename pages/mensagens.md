@@ -48,7 +48,6 @@ list-style-type: none;
         {% for mensagens in site.mensagens %}
       <div id="celula">
           <ul>
-              <li><img  src="{{ pacceiro.photo }}" ></li>
               <li>{{ mensagens.de  }}</li>
                <li>{{ mensagens.para }}</li>
               <li>{{ mensagens.msg }}</li>
