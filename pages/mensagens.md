@@ -54,12 +54,8 @@ text-align: justify;
         {% for mensagens in site.mensagens %}
       <div id="msg">
           <ul>
-              <li id="titulo">De:</li><li>{{ mensagens.de  }}</li>
-              </ul>
-              <ul>
-              <li id="titulo">Para:</li><li>{{ mensagens.para }}</li>
-              </ul>
-              <ul>
+              <li><p id="titulo"> De:</p>{{ mensagens.de  }}</li>
+              <li><p id="titulo"> Para:</p>{{ mensagens.para }}</li>
               <li id="titulo">Mensagem:</li><li>{{ mensagens.msg }}</li>
           </ul>
       </div>  
