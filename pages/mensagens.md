@@ -29,7 +29,7 @@ menu: true
   justify-content:space-between; 
   margin-left: -50px;
 }
-#celula{
+#msg{
   height: 500px; 
   width: 250px;
   text-align: center;
@@ -37,8 +37,14 @@ menu: true
   margin-right: auto;
   font-family: 'Josefin Sans';
 }
+#titulo{
+  font-weight:bold;
+}
 ul {
 list-style-type: none;
+}
+li{
+text-align: justify;  
 }
 </style>
 
@@ -46,11 +52,11 @@ list-style-type: none;
 
 <div class="container">  
         {% for mensagens in site.mensagens %}
-      <div id="celula">
+      <div id="msg">
           <ul>
-              <li>{{ mensagens.de  }}</li>
-               <li>{{ mensagens.para }}</li>
-              <li>{{ mensagens.msg }}</li>
+              <li id="titulo">De:</li><li>{{ mensagens.de  }}</li>
+              <li id="titulo">Para:</li><li>{{ mensagens.para }}</li>
+              <li id="titulo">Mensagem:</li><li>{{ mensagens.msg }}</li>
           </ul>
       </div>  
       {% endfor %}
