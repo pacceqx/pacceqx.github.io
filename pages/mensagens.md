@@ -31,7 +31,7 @@ menu: true
 }
 #msg{
   height: 500px; 
-  width: 250px;
+  width: 300px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
