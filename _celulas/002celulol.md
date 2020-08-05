@@ -1,12 +1,12 @@
 ---
 layout: celula
-ano: 2019
-cod: 009
+ano: 2020
+cod: 002
 situacion: ativo
 name: Celulol
-hora: Qua 18:30-21:30
-local: Lab 4 B1
+hora: Sábado 19h
+local: link do meeat
 photo: http://pacceqx.github.io\assets\pic\celulas\09.png
-link: https://www.pacceqx.com.br/celulol/
+link: 
 ---
 
