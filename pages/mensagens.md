@@ -55,7 +55,11 @@ text-align: justify;
       <div id="msg">
           <ul>
               <li id="titulo">De:</li><li>{{ mensagens.de  }}</li>
+              </ul>
+              <ul>
               <li id="titulo">Para:</li><li>{{ mensagens.para }}</li>
+              </ul>
+              <ul>
               <li id="titulo">Mensagem:</li><li>{{ mensagens.msg }}</li>
           </ul>
       </div>  
