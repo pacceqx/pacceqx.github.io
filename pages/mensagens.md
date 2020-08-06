@@ -26,7 +26,6 @@ menu: true
   overflow-Y: hidden;
   display:flex;
   flex-flow: row wrap;
-  justify-content:space-between; 
   margin-left: -50px;
 }
 #msg{
@@ -40,7 +39,9 @@ menu: true
 #titulo{
   font-weight:bold;
 }
-
+ul {
+list-style-type: none;
+}
 
 </style>
 
