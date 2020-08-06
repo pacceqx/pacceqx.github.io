@@ -48,8 +48,8 @@ list-style-type: none;
         {% for mensagens in site.mensagens %}
       <div id="msg">
           <ul>
-              <li>De: {{ mensagens.de  }}</li>
-              <li>Para: {{ mensagens.para }}</li>
+              <li><b>De:</b> {{ mensagens.de  }}</li>
+              <li><b>Para:</b> {{ mensagens.para }}</li>
               <li id="titulo">Mensagem:</li><li>{{ mensagens.msg }}</li>
           </ul>
       </div>  
