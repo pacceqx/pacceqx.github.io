@@ -54,8 +54,8 @@ li{
         {% for mensagens in site.mensagens %}
       <div id="msg">
           <ul>
-              <li id="titulo"> De:</li><li>{{ mensagens.de  }}</li>
-              <li id="titulo"> Para:</li><li>{{ mensagens.para }}</li>
+              <li id="titulo"> De:{{ mensagens.de  }}</li>
+              <li id="titulo"> Para:{{ mensagens.para }}</li>
               <li id="titulo">Mensagem:</li><li>{{ mensagens.msg }}</li>
           </ul>
       </div>  
