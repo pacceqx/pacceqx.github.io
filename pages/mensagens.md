@@ -32,7 +32,7 @@ menu: true
 #msg{
   height: 500px; 
   width: 300px;
-  text-align: center;
+  text-align: justify;  
   margin-left: auto;
   margin-right: auto;
   font-family: 'Josefin Sans';
@@ -43,9 +43,7 @@ menu: true
 ul {
 list-style-type: none;
 }
-li{
-text-align: justify;  
-}
+
 </style>
 
 
@@ -54,9 +52,9 @@ text-align: justify;
         {% for mensagens in site.mensagens %}
       <div id="msg">
           <ul>
-              <li><p id="titulo"> De:</p>{{ mensagens.de  }}</li>
-              <li><p id="titulo"> Para:</p>{{ mensagens.para }}</li>
-              <li><p id="titulo">Mensagem:</p>{{ mensagens.msg }}</li>
+              <li id="titulo"> De:</li><li>{{ mensagens.de  }}</li>
+              <li id="titulo"> Para:</li><li>{{ mensagens.para }}</li>
+              <li id="titulo">Mensagem:</li><li>{{ mensagens.msg }}</li>
           </ul>
       </div>  
       {% endfor %}
