@@ -33,14 +33,14 @@ menu: true
   height: 500px; 
   width: 300px;
   text-align: justify;  
+  margin-left: auto;
+  margin-right: auto;
   font-family: 'Josefin Sans';
 }
 #titulo{
   font-weight:bold;
 }
-ul {
-list-style-type: none;
-}
+
 
 </style>
 
