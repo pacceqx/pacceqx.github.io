@@ -1,7 +1,6 @@
 ---
 layout: pacceiro
 ano: 2020
-staff: ok
 situacion: ativo
 funcion: Extensão
 curso: Engenharia de Software

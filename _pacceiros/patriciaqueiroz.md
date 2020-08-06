@@ -1,7 +1,6 @@
 ---
 layout: pacceiro
-ano: 2019
-staff: ok
+ano: 2020
 situacion: ativo
 funcion: Comunicação
 curso: Design Digital

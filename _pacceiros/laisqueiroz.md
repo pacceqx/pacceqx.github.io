@@ -3,6 +3,7 @@ layout: pacceiro
 ano: 2020
 situacion: ativo
 funcion: Staff
+division: Extensão
 curso: Design Digital
 photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (23).png
 name: laisqueiroz
