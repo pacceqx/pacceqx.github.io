@@ -27,14 +27,11 @@ menu: true
   display:flex;
   flex-flow: row wrap;
   justify-content:space-between; 
-  margin-left: -50px;
 }
 #msg{
-  height: 300px; 
+  height: 500px; 
   width: 300px;
   text-align: justify;  
-  margin-left: auto;
-  margin-right: auto;
   font-family: 'Josefin Sans';
 }
 #titulo{
@@ -42,9 +39,6 @@ menu: true
 }
 ul {
 list-style-type: none;
-}
-li{
-  margin:none;
 }
 </style>
 
