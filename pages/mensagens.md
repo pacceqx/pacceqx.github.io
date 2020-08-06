@@ -23,11 +23,14 @@ menu: true
   src: local('Josefin Sans Bold'), local('JosefinSans-Bold'), url(https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ectllte10k.ttf) format('truetype');
 }
 .container { 
+  overflow-Y: hidden;
+  display:flex;
+  flex-flow: row wrap;
   justify-content:space-between; 
   margin-left: -50px;
 }
 #msg{
-  height: 500px; 
+  height: 300px; 
   width: 300px;
   text-align: justify;  
   margin-left: auto;
