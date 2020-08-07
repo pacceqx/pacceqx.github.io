@@ -114,7 +114,7 @@ list-style-type: none;
 {% if site.email %}
 <style type="text/css" media="screen">
   .container2 {
-    margin-top: -200px;
+    margin-top: -400px;
   }
 </style>
 
