@@ -44,7 +44,7 @@ list-style-type: none;
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
     font-weight: 700;
     font-style: normal;
-    width: 250px;
+    width: 300px;
 }
 .contact-form2 fieldset {
     border: none;
