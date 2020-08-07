@@ -112,9 +112,9 @@ list-style-type: none;
   <div id="form2" class="contact-form2">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}"  ref="contact">
       <fieldset>
-      <h3> Mensagem</h3>
         <input type="hidden" name="_subject" value="New contact!" />
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
+        <h3> Mensagem</h3>
         <input type="hidden" name="_language" value="{{ site.language }}" />
         <input type="text" name="de" placeholder="Seu nome ou pseudônimo">
         <span v-cloak>${ errors.first('de') }</span>
