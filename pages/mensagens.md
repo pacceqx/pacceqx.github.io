@@ -122,7 +122,7 @@ list-style-type: none;
 
   <h2>Mande sua mensagem</h2>
 
-  <div id="form" class="contact-form2">
+  <div id="form2" class="contact-form2">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}"  ref="contact">
       <fieldset>
         <input type="hidden" name="_subject" value="New contact!" />
@@ -153,7 +153,7 @@ function adjust_textarea(h) {
 <script type="text/javascript">
 Vue.use(VeeValidate);
 new Vue({
-  el: '#form',
+  el: '#form2',
   delimiters: ['${', '}'],
   methods: {
     validateBeforeSubmit: function () {
