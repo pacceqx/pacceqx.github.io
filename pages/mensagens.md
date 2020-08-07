@@ -63,7 +63,6 @@ list-style-type: none;
     padding: 7px;
     border: none;
     border-bottom: 1px solid #ddd;
-    margin-bottom: 10px;
     font-family: inherit;
     font-size: 1.125rem;
     height: 50px;
