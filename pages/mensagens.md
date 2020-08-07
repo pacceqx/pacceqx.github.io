@@ -66,7 +66,7 @@ list-style-type: none;
     margin-bottom: 10px;
     font-family: inherit;
     font-size: 1.125rem;
-    height: 100px;
+    height: 50px;
 }
 .contact-form2 input[type="text"].has-error,
 .contact-form2 input[type="para"].has-error,
