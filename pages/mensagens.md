@@ -111,7 +111,7 @@ list-style-type: none;
 }
 </style>
 
-{% if site.para %}
+{% if site.email %}
 <style type="text/css" media="screen">
   .container2 {
     margin-top: -200px;
@@ -128,12 +128,12 @@ list-style-type: none;
         <input type="hidden" name="_subject" value="New contact!" />
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
         <input type="hidden" name="_language" value="{{ site.language }}" />
-        <input type="text" name="de" placeholder="Seu nome ou pseudônimo" v-validate="'required'":class="{ 'has-error': errors.has('de') }">
-        <span v-if="errors.has('de')" v-cloak>${ errors.first('de') }</span>
-        <input type="text" name="para" placeholder="Para quem vai sua mensagem" v-validate="'required|para'":class="{ 'has-error': errors.has('para') }">
-        <span v-if="errors.has('para')" v-cloak>${ errors.first('para') }</span>
-        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="Sua menssagem" v-validate="'required'" :class="{ 'has-error': errors.has('message') }"></textarea>
-        <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
+        <input type="text" name="de" placeholder="Seu nome ou pseudônimo">
+        <span v-cloak>${ errors.first('de') }</span>
+        <input type="text" name="para" placeholder="Para quem vai sua mensagem">
+        <span  v-cloak>${ errors.first('para') }</span>
+        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="Sua menssagem" ></textarea>
+        <span  v-cloak>${ errors.first('message') }</span>
         <button type="submit">Enviar</button>
       </fieldset>
     </form>
