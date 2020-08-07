@@ -85,8 +85,6 @@ list-style-type: none;
     width: 100%;
     border: 1px solid #00afefff;
     border-width: 1px 1px 3px;
-    margin-top: 3.125rem;
-    margin-bottom: .625rem;
     cursor: pointer;
     -webkit-transition: all .3s;
     transition: all .3s;
