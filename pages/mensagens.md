@@ -7,8 +7,8 @@ ok: ok
 menu: true
 ---
 
-<img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px; margin-right: 500px;">
-<h2 style="text-align: left;">PACCE A MENSAGEM</h2>
+<img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px;">
+<h2 style="text-align: center;">PACCE a Mensagem</h2>
 <style type="text/css" media="screen">
 @font-face {
   font-family: 'Josefin Sans';
