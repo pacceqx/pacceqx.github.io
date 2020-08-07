@@ -105,6 +105,7 @@ list-style-type: none;
 <style type="text/css" media="screen">
   .container2 {
     margin-top: -380px;
+    margin-left: 300px;
   }
 </style>
 
