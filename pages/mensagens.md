@@ -7,8 +7,8 @@ ok: ok
 menu: true
 ---
 
-<img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px; margin-left: 600px;">
-<h2 style="text-align: right;">PACCE A MENSAGEM</h2>
+<img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px; margin-right: 600px;">
+<h2 style="text-align: left;">PACCE A MENSAGEM</h2>
 <style type="text/css" media="screen">
 @font-face {
   font-family: 'Josefin Sans';
@@ -110,9 +110,9 @@ list-style-type: none;
 
 <div class="container2">
   <div id="form2" class="contact-form2">
-    <h3> Mensagem</h3>
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}"  ref="contact">
       <fieldset>
+      <h3> Mensagem</h3>
         <input type="hidden" name="_subject" value="New contact!" />
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
         <input type="hidden" name="_language" value="{{ site.language }}" />
