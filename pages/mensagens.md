@@ -45,7 +45,7 @@ list-style-type: none;
     font-weight: 700;
     font-style: normal;
     padding: .625rem;
-    width: 400px;
+    width: 500px;
 }
 .contact-form2 fieldset {
     border: none;
@@ -66,15 +66,12 @@ list-style-type: none;
     margin-bottom: 10px;
     font-family: inherit;
     font-size: 1.125rem;
-    height: 2.813rem;
+    height: 100px;
 }
 .contact-form2 input[type="text"].has-error,
 .contact-form2 input[type="para"].has-error,
 .contact-form2 textarea.has-error {
     border-color: #00afefff
-}
-.contact-form2 textarea {
-    height: 12.5rem
 }
 .contact-form2 span {
     display: block;
