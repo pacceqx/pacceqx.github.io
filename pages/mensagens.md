@@ -70,9 +70,6 @@ list-style-type: none;
 }
 .contact-form2 input[type="text"].has-error,
 .contact-form2 input[type="para"].has-error,
-.contact-form2 textarea.has-error {
-    border-color: #00afefff
-}
 .contact-form2 span {
     display: block;
     font-size: .875rem;
@@ -111,13 +108,13 @@ list-style-type: none;
 {% if site.email %}
 <style type="text/css" media="screen">
   .container2 {
-    margin-top: -400px;
+    margin-top: -380px;
   }
 </style>
 
 <div class="container2">
 
-  <h2>Mande sua mensagem</h2>
+  <h2 style="text-align: right;">Mande sua mensagem</h2>
 
   <div id="form2" class="contact-form2">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}"  ref="contact">
@@ -140,7 +137,7 @@ list-style-type: none;
 
 <script type="text/javascript">
 function adjust_textarea(h) {
-    h.style.height = "200px";
+    h.style.height = "100px";
     h.style.height = (h.scrollHeight)+"px";
 }
 </script>
