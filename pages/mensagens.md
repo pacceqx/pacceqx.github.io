@@ -114,7 +114,7 @@ list-style-type: none;
 
 <div class="container2">
 
-  <h2 style=" margin-left: -40px;"> Mande sua mensagem</h2>
+  <h2 style=" margin-left: -10px;"> Mande sua mensagem</h2>
 
   <div id="form2" class="contact-form2">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}"  ref="contact">
