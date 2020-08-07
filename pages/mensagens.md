@@ -109,12 +109,16 @@ list-style-type: none;
 <style type="text/css" media="screen">
   .container2 {
     margin-top: -380px;
+     overflow-Y: hidden;
+     display:flex;
+     flex-flow: row wrap;
+     justify-content:space-between; 
   }
 </style>
 
 <div class="container2">
 
-  <h2 style=" margin-left: -10px;"> Mande sua mensagem</h2>
+  <h2 style="margin-left: 0px;"> Mande sua mensagem</h2>
 
   <div id="form2" class="contact-form2">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}"  ref="contact">
