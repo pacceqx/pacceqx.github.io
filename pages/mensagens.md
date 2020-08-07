@@ -123,19 +123,16 @@ list-style-type: none;
   <h2>Mande sua mensagem</h2>
 
   <div id="form" class="contact-form2">
-    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
+    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}"  ref="contact">
       <fieldset>
         <input type="hidden" name="_subject" value="New contact!" />
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
         <input type="hidden" name="_language" value="{{ site.language }}" />
-        <input type="text" name="de" placeholder="Seu nome ou pseudônimo" v-validate="'required'"
-               :class="{ 'has-error': errors.has('de') }">
+        <input type="text" name="de" placeholder="Seu nome ou pseudônimo" v-validate="'required'":class="{ 'has-error': errors.has('de') }">
         <span v-if="errors.has('de')" v-cloak>${ errors.first('de') }</span>
-        <input type="text" name="para" placeholder="Para quem vai sua mensagem" v-validate="'required|para'"
-               :class="{ 'has-error': errors.has('para') }">
+        <input type="text" name="para" placeholder="Para quem vai sua mensagem" v-validate="'required|para'":class="{ 'has-error': errors.has('para') }">
         <span v-if="errors.has('para')" v-cloak>${ errors.first('para') }</span>
-        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="Sua menssagem" v-validate="'required'"
-                  :class="{ 'has-error': errors.has('message') }"></textarea>
+        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="Sua menssagem" v-validate="'required'" :class="{ 'has-error': errors.has('message') }"></textarea>
         <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
         <button type="submit">Enviar</button>
       </fieldset>
