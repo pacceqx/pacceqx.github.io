@@ -7,7 +7,7 @@ ok: ok
 menu: true
 ---
 
-<img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px; margin-right: 600px;">
+<img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px; margin-right: 500px;">
 <h2 style="text-align: left;">PACCE A MENSAGEM</h2>
 <style type="text/css" media="screen">
 @font-face {
@@ -105,7 +105,7 @@ list-style-type: none;
 <style type="text/css" media="screen">
   .container2 {
     margin-top: -380px;
-    margin-left: 500px;
+    margin-left: 600px;
   }
 </style>
 
