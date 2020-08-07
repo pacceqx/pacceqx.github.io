@@ -109,7 +109,6 @@ list-style-type: none;
 </style>
 
 <div class="container2">
-
   <div id="form2" class="contact-form2">
     <h3> Mensagem</h3>
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}"  ref="contact">
