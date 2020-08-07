@@ -59,7 +59,6 @@ list-style-type: none;
     display: block;
     color: #333;
     width: 100%;
-    padding: 7px;
     border: none;
     border-bottom: 1px solid #ddd;
     font-family: inherit;
