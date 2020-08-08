@@ -44,6 +44,7 @@ list-style-type: none;
 }
 li{
   margin-left: -50px;
+  margin-top: -50px;
 }
 .contact-form2 {
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
