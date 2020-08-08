@@ -29,7 +29,7 @@ menu: true
   justify-content:space-between; 
 }
 #msg{
-  height: 340px; 
+  height: 380px; 
   width: 280px;
   text-align: justify;  
   font-family: 'Josefin Sans';;
