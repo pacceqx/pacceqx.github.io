@@ -30,7 +30,7 @@ menu: true
 }
 #msg{
   height: 340px; 
-  width: 300px;
+  width: 250px;
   text-align: justify;  
   font-family: 'Josefin Sans';;
   background-color: grey;
@@ -161,8 +161,8 @@ new Vue({
 
 {% endif %}
         {% for mensagens in site.mensagens %}
-      <div >
-          <ul id="msg">
+      <div id="msg">
+          <ul>
               <li><b>De:</b> {{ mensagens.de  }}</li>
               <li><b>Para:</b> {{ mensagens.para }}</li>
               <li id="titulo">Mensagem:</li><li>{{ mensagens.msg }}</li>
