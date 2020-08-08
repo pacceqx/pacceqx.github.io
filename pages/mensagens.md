@@ -167,7 +167,7 @@ new Vue({
           <li><b>De:</b> {{ mensagens.de  }}</li>
           <li><b>Para:</b> {{ mensagens.para }}</li>
           <li> <b> Mensagem: </b></li>
-          <li> {{ mensagens.msg }}</li><br>
+          <li> {{ mensagens.msg }}</li>
         </ul>    
       </div>  
       {% endfor %}
