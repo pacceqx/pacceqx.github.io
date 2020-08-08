@@ -32,7 +32,9 @@ menu: true
   height: 330px; 
   width: 300px;
   text-align: justify;  
-  font-family: 'Josefin Sans';
+  font-family: 'Josefin Sans';;
+  background-color: grey;
+	border-radius: 10px;
 }
 #titulo{
   font-weight:bold;
