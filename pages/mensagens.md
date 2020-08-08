@@ -36,7 +36,6 @@ menu: true
   background: #00afefff;
 	border-radius: 10px;
   margin-bottom: 5px;
-  color: white;
 }
 #titulo{
   font-weight:bold;
@@ -47,6 +46,7 @@ list-style-type: none;
 li{
   margin-left: -50px;
   margin-top: -20px;
+  color: white;
 }
 .contact-form2 {
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
