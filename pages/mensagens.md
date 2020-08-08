@@ -33,7 +33,7 @@ menu: true
   width: 290px;
   text-align: justify;  
   font-family: 'Josefin Sans';;
-  background: rgb(43, 190, 243);
+  background: #00afefff;
 	border-radius: 10px;
   margin-bottom: 5px;
 }
