@@ -29,12 +29,13 @@ menu: true
   justify-content:space-between; 
 }
 #msg{
-  height: 330px; 
+  height: 340px; 
   width: 300px;
   text-align: justify;  
   font-family: 'Josefin Sans';;
   background-color: grey;
 	border-radius: 10px;
+  margin: 2px;
 }
 #titulo{
   font-weight:bold;
