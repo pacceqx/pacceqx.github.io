@@ -1,6 +1,7 @@
 ---
 layout: pacceiro
 ano: 2020
+staff: ok
 situacion: ativo
 funcion: Staff
 division: Extensão
