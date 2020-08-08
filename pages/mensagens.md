@@ -32,15 +32,16 @@ menu: true
   height: 340px; 
   width: 280px;
   text-align: justify;  
+  font-family: 'Josefin Sans';;
   background-color: grey;
 	border-radius: 10px;
-  font-size: 30px;
 }
 #titulo{
   font-weight:bold;
 }
-dt {
-margin-left: 5px;
+ul {
+list-style-type: none;
+margin-left: -5px;
 }
 .contact-form2 {
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
@@ -162,12 +163,12 @@ new Vue({
 {% endif %}
         {% for mensagens in site.mensagens %}
       <div id="msg">
-        <dl>
-          <dt><b>De:</b> {{ mensagens.de  }}</dt><br>
-          <dt><b>Para:</b> {{ mensagens.para }}</dt><br>
-          <dt> <b> Mensagem: </b></dt><br>
-          <dt> {{ mensagens.msg }}</dt><br>
-        </dl>    
+        <ul>
+          <li><b>De:</b> {{ mensagens.de  }}</li>
+          <li><b>Para:</b> {{ mensagens.para }}</li>
+          <li> <b> Mensagem: </b></li>
+          <li> {{ mensagens.msg }}</li><br>
+        </ul>    
       </div>  
       {% endfor %}
     </div>
