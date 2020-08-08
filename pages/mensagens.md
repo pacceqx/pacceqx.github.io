@@ -35,6 +35,7 @@ menu: true
   font-family: 'Josefin Sans';;
   background-color: grey;
 	border-radius: 10px;
+  margin-bottom: 5px;
 }
 #titulo{
   font-weight:bold;
