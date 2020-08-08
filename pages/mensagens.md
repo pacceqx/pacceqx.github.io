@@ -52,6 +52,7 @@ li{
     font-weight: 700;
     font-style: normal;
     width: 320px;
+    margin-left: -50px
 }
 .contact-form2 fieldset {
     border: none;
