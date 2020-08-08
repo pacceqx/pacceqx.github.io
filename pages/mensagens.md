@@ -34,7 +34,6 @@ menu: true
   text-align: justify;  
   font-family: 'Josefin Sans';;
   background: #00afefff;
-	border-radius: 10px;
   margin-bottom: 5px;
 }
 #titulo{
@@ -73,6 +72,9 @@ li{
     font-size: 1.125rem;
     height: 50px;
 }
+.contact-form2 textarea {
+	border-radius: 10px;
+  }
 .contact-form2 input[type="text"].has-error,
 .contact-form2 input[type="para"].has-error,
 .contact-form2 span {
