@@ -163,12 +163,12 @@ new Vue({
         {% for mensagens in site.mensagens %}
       <div id="msg">
         <table>
-          <tr>
-              <td><b>De:</b> {{ mensagens.de  }}</td>
-              <td><b>Para:</b> {{ mensagens.para }}</td>
-              <td><b>Mensagem:</b></td>
-              <td>{{ mensagens.msg }}</td>
-          </tr>
+          <td>
+              <tr><b>De:</b> {{ mensagens.de  }}</tr>
+              <tr><b>Para:</b> {{ mensagens.para }}</tr>
+              <tr><b>Mensagem:</b></tr>
+              <tr>{{ mensagens.msg }}</tr>
+          </td>
           </table>
       </div>  
       {% endfor %}
