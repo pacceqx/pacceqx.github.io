@@ -165,8 +165,14 @@ new Vue({
         <table>
           <td>
               <tr><b>De:</b> {{ mensagens.de  }}</tr>
+               </td>
+                <td>
               <tr><b>Para:</b> {{ mensagens.para }}</tr>
+                </td>
+                 <td>
               <tr><b>Mensagem:</b></tr>
+               </td>
+                <td>
               <tr>{{ mensagens.msg }}</tr>
           </td>
           </table>
