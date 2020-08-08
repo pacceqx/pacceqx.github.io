@@ -162,11 +162,14 @@ new Vue({
 {% endif %}
         {% for mensagens in site.mensagens %}
       <div id="msg">
-          <ul>
-              <li><b>De:</b> {{ mensagens.de  }}</li>
-              <li><b>Para:</b> {{ mensagens.para }}</li>
-              <li id="titulo">Mensagem:</li><li>{{ mensagens.msg }}</li>
-          </ul>
+        <table>
+          <tr>
+              <td><b>De:</b> {{ mensagens.de  }}</td>
+              <td><b>Para:</b> {{ mensagens.para }}</td>
+              <td><b>Mensagem:</b></td>
+              <td>{{ mensagens.msg }}</td>
+          </tr>
+          </table>
       </div>  
       {% endfor %}
     </div>
