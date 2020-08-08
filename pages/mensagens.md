@@ -36,6 +36,7 @@ menu: true
   background: #00afefff;
 	border-radius: 10px;
   margin-bottom: 5px;
+  color: white;
 }
 #titulo{
   font-weight:bold;
@@ -168,8 +169,8 @@ new Vue({
         {% for mensagens in site.mensagens %}
       <div id="msg">
         <ul>
-          <li><b style=" color: white;">De:</b> {{ mensagens.de  }}</li>
-          <li><b  style=" color: white;">Para:</b> {{ mensagens.para }}</li>
+          <li><b>De:</b> {{ mensagens.de  }}</li>
+          <li><b>Para:</b> {{ mensagens.para }}</li>
           <li> <b> Mensagem: </b></li>
           <li> {{ mensagens.msg }}</li>
         </ul>    
