@@ -30,7 +30,7 @@ menu: true
 }
 #msg{
   height: 340px; 
-  width: 250px;
+  width: 280px;
   text-align: justify;  
   font-family: 'Josefin Sans';;
   background-color: grey;
