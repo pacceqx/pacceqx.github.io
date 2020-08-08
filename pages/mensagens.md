@@ -35,7 +35,6 @@ menu: true
   font-family: 'Josefin Sans';;
   background-color: grey;
 	border-radius: 10px;
-  margin: 2px;
 }
 #titulo{
   font-weight:bold;
@@ -162,8 +161,8 @@ new Vue({
 
 {% endif %}
         {% for mensagens in site.mensagens %}
-      <div id="msg">
-          <ul>
+      <div >
+          <ul id="msg">
               <li><b>De:</b> {{ mensagens.de  }}</li>
               <li><b>Para:</b> {{ mensagens.para }}</li>
               <li id="titulo">Mensagem:</li><li>{{ mensagens.msg }}</li>
