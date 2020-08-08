@@ -46,7 +46,6 @@ list-style-type: none;
 li{
   margin-left: -50px;
   margin-top: -20px;
-  color: white;
 }
 .contact-form2 {
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
@@ -169,10 +168,10 @@ new Vue({
         {% for mensagens in site.mensagens %}
       <div id="msg">
         <ul>
-          <li><b>De:</b> {{ mensagens.de  }}</li>
-          <li><b>Para:</b> {{ mensagens.para }}</li>
-          <li> <b> Mensagem: </b></li>
-          <li> {{ mensagens.msg }}</li>
+          <li style=" color: white;"><b style=" color: white;">De:</b> {{ mensagens.de  }}</li>
+          <li style=" color: white;"><b>Para:</b> {{ mensagens.para }}</li>
+          <li style=" color: white;"> <b> Mensagem: </b></li>
+          <li style=" color: white;"> {{ mensagens.msg }}</li>
         </ul>    
       </div>  
       {% endfor %}
