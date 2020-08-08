@@ -121,7 +121,7 @@ list-style-type: none;
         <span v-cloak>${ errors.first('de') }</span>
         <input type="text" name="para" placeholder="Para quem vai sua mensagem">
         <span  v-cloak>${ errors.first('para') }</span>
-        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="Sua menssagem" ></textarea>
+        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="Sua mensagem" ></textarea>
         <span  v-cloak>${ errors.first('message') }</span>
         <button type="submit">Enviar</button>
       </fieldset>
