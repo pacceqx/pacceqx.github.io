@@ -41,7 +41,9 @@ menu: true
 }
 ul {
 list-style-type: none;
-margin-left: -20px;
+}
+li{
+  margin-left: -50px;
 }
 .contact-form2 {
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
