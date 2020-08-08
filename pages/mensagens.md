@@ -51,7 +51,7 @@ li{
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
     font-weight: 700;
     font-style: normal;
-    width: 300px;
+    width: 310px;
     margin-left: -10px
 }
 .contact-form2 fieldset {
