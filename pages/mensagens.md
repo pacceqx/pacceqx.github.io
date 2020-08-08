@@ -72,9 +72,6 @@ li{
     font-size: 1.125rem;
     height: 50px;
 }
-.contact-form2 textarea {
-	border-radius: 10px;
-  }
 .contact-form2 input[type="text"].has-error,
 .contact-form2 input[type="para"].has-error,
 .contact-form2 span {
@@ -96,6 +93,7 @@ li{
     -webkit-transition: all .3s;
     transition: all .3s;
     outline: none;
+    border-radius: 10px;
 }
 .contact-form2 button[type="submit"]:hover {
     background: rgb(43, 190, 243)
