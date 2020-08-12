@@ -1,6 +1,6 @@
 ---
 layout: mensagens
-date: 2020-08-12
+data: 12-08-2020
 de: KK
 para: lins CC
 msg: tu é jobado

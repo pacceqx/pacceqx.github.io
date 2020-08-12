@@ -170,7 +170,7 @@ new Vue({
         {% for mensagens in site.mensagens %}
       <div id="msg">
         <ul>
-        <li style=" color: white;"><b>Data:</b> {{ mensagens.date  }}</li>
+        <li style=" color: white;"><b>Data:</b> {{ mensagens.data  }}</li>
           <li style=" color: white;"><b>De:</b> {{ mensagens.de  }}</li>
           <li style=" color: white;"><b>Para:</b> {{ mensagens.para }}</li>
           <li style=" color: white;"> <b> Mensagem: </b></li>

@@ -1,6 +1,6 @@
 ---
 layout: mensagens
-date: 2020-08-10
+data: 10-08-2020
 de: May
 para: Lins
 msg: te amo mais que coxinha <3

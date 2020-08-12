@@ -1,6 +1,6 @@
 ---
 layout: mensagens
-date: 2020-08-08
+data: 08-08-2020
 de: Alunos da UFC
 para: EAD
 msg: Espero que você acabe logo!!
