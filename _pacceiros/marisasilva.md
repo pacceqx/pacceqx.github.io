@@ -6,7 +6,7 @@ division: Gestão
 situacion: ativo
 funcion: Toda de tudo
 curso: Engenharia de Computação
-photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (21).png
+photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (25).png
 name: marisasilva
 display_name: Marisa Silva
 ---

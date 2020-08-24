@@ -6,7 +6,7 @@ situacion: ativo
 division: Formação
 funcion: Staff
 curso: Design Digital
-photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (14).png
+photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (18).png
 name: kessialima
 display_name: Késsia Lima
 ---

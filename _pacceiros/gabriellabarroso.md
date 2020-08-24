@@ -6,7 +6,7 @@ situacion: ativo
 division: Interação/Arte
 funcion: Staff
 curso: Design Digital
-photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/img/uploads/gabi.png
+photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (12).png
 name: gabriellabarroso
 display_name: Gabriella Barroso
 ---
