@@ -6,7 +6,7 @@ situacion: ativo
 name: PACCE o Filme
 hora: Sexta 19h
 local: Link do meeat
-photo: http://pacceqx.github.io\assets\pic\celulas\05.png
+photo: http://pacceqx.github.io\assets\pic\celulas\pacce_o_filme.png
 link: https://www.pacceqx.com.br/pintura/
 ---
 
