@@ -4,7 +4,7 @@ ano: 2019
 situacion: ativo
 funcion: 
 curso: 
-photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce.png
+photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/branco.png
 name: paulaluana
 display_name: 
 github_username: gabriellabarroso

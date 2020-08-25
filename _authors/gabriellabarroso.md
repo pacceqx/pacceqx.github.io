@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/img/uploads/gabi.png
+photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/gabi.png
 name: gabriellabarroso
 display_name: Gabriella Barroso
 position: Editora

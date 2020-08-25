@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/img/uploads/lorena.png
+photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/lorena.png
 name: lorenaamaro
 display_name: Lorena Amaro
 position: Editora

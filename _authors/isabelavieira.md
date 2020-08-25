@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (12).png
+photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/isa.png
 name: isabelavieira
 display_name: Isabela Vieira
 position: Editora

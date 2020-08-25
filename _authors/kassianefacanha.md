@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/pacce (13).png
+photo: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/bolsistas/kassi.png
 name: kassianefacanha
 display_name: Kassiane Façanha
 position: Editora e Desenvolvedora
