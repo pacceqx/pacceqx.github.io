@@ -7,6 +7,6 @@ name: Celulol
 hora: Sábado 19h
 local: Link do meet
 photo: http://pacceqx.github.io\assets\pic\celulas\lol20.png
-link: 
+link: http://meet.google.com/tip-xnee-jsh
 ---
 
