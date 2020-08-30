@@ -52,7 +52,7 @@ list-style-type: none;
               <li>{{ celula.name  }}</li>
                <li>{{ celula.hora }}</li>
               <li>{{ celula.local }}</li>
-              <li><a href="{{ celula.link }}">Conteúdo</a></li>
+              <li><a href="{{ celula.link }}">Link aqui</a></li>
           </ul>
            </div>
       {% endfor %}
