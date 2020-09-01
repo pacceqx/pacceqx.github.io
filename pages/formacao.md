@@ -23,6 +23,7 @@ menu: true
   src: local('Josefin Sans Bold'), local('JosefinSans-Bold'), url(https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ectllte10k.ttf) format('truetype');
 }
 .container { 
+  border:none;
   overflow-Y: hidden;
   display:flex;
   flex-flow: row wrap;
