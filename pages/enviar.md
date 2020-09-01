@@ -46,20 +46,20 @@ li{
   margin-left: -50px;
   margin-top: -20px;
 }
-.contact-form2 {
+.ccontact-form3 {
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
     font-weight: 700;
     font-style: normal;
     width: 310px;
     margin-left: -10px
 }
-.contact-form2 fieldset {
+.ccontact-form3 fieldset {
     border: none;
     font-weight: normal
 }
-.contact-form2 input[type="text"],
-.contact-form2 input[type="para"],
-.contact-form2 textarea {
+.ccontact-form3 input[type="text"],
+.ccontact-form3 input[type="para"],
+.ccontact-form3 textarea {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     outline: none;
@@ -72,15 +72,15 @@ li{
     font-size: 1.125rem;
     height: 50px;
 }
-.contact-form2 input[type="text"].has-error,
-.contact-form2 input[type="para"].has-error,
-.contact-form2 span {
+.ccontact-form3 input[type="text"].has-error,
+.ccontact-form3 input[type="para"].has-error,
+.ccontact-form3 span {
     display: block;
     font-size: .875rem;
     color: #00afefff;
     padding-bottom: .625rem
 }
-.contact-form2 button[type="submit"] {
+.ccontact-form3 button[type="submit"] {
     display: block;
     padding: .875rem 2.438rem .875rem 2.438rem;
     color: #fff;
@@ -95,15 +95,15 @@ li{
     outline: none;
     border-radius: 10px;
 }
-.contact-form2 button[type="submit"]:hover {
+.ccontact-form3 button[type="submit"]:hover {
     background: rgb(43, 190, 243)
 }
 @media only screen and (min-width:37.5rem) {
-    .contact-form2 button[type="submit"] {
+    .ccontact-form3 button[type="submit"] {
         padding: 1.188rem 2.438rem 1.125rem 2.438rem
     }
 }
-.contact-form2 [v-cloak] {
+.ccontact-form3 [v-cloak] {
     display: none
 }
 </style>
@@ -116,20 +116,20 @@ li{
 </style>
 
 <div class="container">  
-<div class="container2">
-  <div id="form3" class="contact-form3">
-    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}"  ref="contact">
-      <fieldset>
-        <input type="hidden" name="_subject" value="New contact!" />
-        <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
-        <h3> Nome:</h3>
-        <input type="hidden" name="_language" value="{{ site.language }}" />
-        <input type="text" name="nome" placeholder="Seu nome ">
-        <button type="submit">Enviar</button>
-      </fieldset>
-    </form>
-  </div>
-</div>
+        <div class="container2">
+        <div id="form3" class="contact-form3">
+            <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}"  ref="contact">
+            <fieldset>
+                <input type="hidden" name="_subject" value="New contact!" />
+                <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
+                <h3> Nome:</h3>
+                <input type="hidden" name="_language" value="{{ site.language }}" />
+                <input type="text" name="nome" placeholder="Seu nome ">
+                <button type="submit">Enviar</button>
+            </fieldset>
+            </form>
+        </div>
+        </div>
 
 <script type="text/javascript">
 function adjust_textarea(h) {
