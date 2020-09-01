@@ -77,15 +77,15 @@ menu: true
           + parseInt (pg20); 
 
       if((soma => 20) && (soma <= 40)){
-        	alert ("SEU RESULTADO FOI: " + soma + "PONTOS \n  Sua PROATIVIDADE é um pouco baixa e, possivelmente, isso esteja se refletindo em alguns aspectos do seu cotidiano. Tomar consciência desta necessidade é o primeiro passo; o segundo é desenvolver um plano de ação. Converse um pouco mais consigo mesmo, e esteja aberto a receber mais feedback das pessoas.Seja mais observador do comportamento dos outros, especialmente daqueles que você considera muito bons nesta competência. Se precisar de ajuda, conta com a gente, pacceiro! \n Acesse o link para receber presença pela formação-->");
+        	alert ("SEU RESULTADO FOI: " + soma + " PONTOS \n  Sua PROATIVIDADE é um pouco baixa e, possivelmente, isso esteja se refletindo em alguns aspectos do seu cotidiano. Tomar consciência desta necessidade é o primeiro passo; o segundo é desenvolver um plano de ação. Converse um pouco mais consigo mesmo, e esteja aberto a receber mais feedback das pessoas.Seja mais observador do comportamento dos outros, especialmente daqueles que você considera muito bons nesta competência. Se precisar de ajuda, conta com a gente, pacceiro! \n Acesse o link para receber presença pela formação-->");
       }else if((soma > 40) && (soma <= 60)){
-          alert ("SEU RESULTADO FOI: " + soma + "PONTOS \n Sua PROATIVIDADE é mediana. Você precisa desenvolvê-la um pouco mais, procurando melhorar naqueles aspectos em que sente mais dificuldade. Converse um pouco mais consigo mesmo, e esteja aberto a receber mais feedback das pessoas. Se precisar de ajuda, conta com a gente, pacceiro! \n Acesse o link para receber presença pela formação-->");
+          alert ("SEU RESULTADO FOI: " + soma + " PONTOS \n Sua PROATIVIDADE é mediana. Você precisa desenvolvê-la um pouco mais, procurando melhorar naqueles aspectos em que sente mais dificuldade. Converse um pouco mais consigo mesmo, e esteja aberto a receber mais feedback das pessoas. Se precisar de ajuda, conta com a gente, pacceiro! \n Acesse o link para receber presença pela formação-->");
       }
       else if((soma > 60) && (soma <= 80)){
-          alert ("SEU RESULTADO FOI:" + soma + "PONTOS \n Sua PROATIVIDADE é desenvolvida , mas você precisa estimular este comportamento nas pessoas, através de exemplos pessoais e da criação de um ambiente de abertura e confiança para sua equipe. Se precisar de ajuda, conta com a gente, pacceiro! \n Acesse o link para receber presença pela formação-->" );
+          alert ("SEU RESULTADO FOI:" + soma + " PONTOS \n Sua PROATIVIDADE é desenvolvida , mas você precisa estimular este comportamento nas pessoas, através de exemplos pessoais e da criação de um ambiente de abertura e confiança para sua equipe. Se precisar de ajuda, conta com a gente, pacceiro! \n Acesse o link para receber presença pela formação-->" );
       }
       else if(soma > 80){
-          alert ("SEU RESULTADO FOI: " + soma + "PONTOS \n Sua PROATIVIDADE é bastante alta. Você é uma pessoa PROATIVA e estimula este comportamento nos outros, através de seu exemplo pessoal e criando um ambiente favorável à iniciativa de sua equipe. Parabéns, pacceiro! \n Acesse o link para receber presença pela formação-->" );
+          alert ("SEU RESULTADO FOI: " + soma + " PONTOS \n Sua PROATIVIDADE é bastante alta. Você é uma pessoa PROATIVA e estimula este comportamento nos outros, através de seu exemplo pessoal e criando um ambiente favorável à iniciativa de sua equipe. Parabéns, pacceiro! \n Acesse o link para receber presença pela formação-->" );
       } else{
         alert ("Você não fez a formação toda. Tente novamente. " + soma);
       }
