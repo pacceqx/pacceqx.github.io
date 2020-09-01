@@ -27,19 +27,9 @@ menu: true
   display:flex;
   flex-flow: row wrap;
   justify-content:space-between; 
-  margin-left: -50px;
+  margin-left: 300px;
 }
-#celula{
-  height: 500px; 
-  width: 250px;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  font-family: 'Josefin Sans';
-}
-ul {
-list-style-type: none;
-}
+
 </style>
 <script>
     function calcular() {
@@ -56,21 +46,21 @@ list-style-type: none;
 
 <div class="container">  
 <form id="formulario">
-<fieldset>
-    <label for="pergunta">Pergunta 1</label>
+<fieldset><br>
+    <label for="pergunta">Pergunta 1</label><br>
         <input type="radio" id="pg1" name="pg1" value="5">
         <label for="pg1">Opção 1</label><br>
         <input type="radio" id="pg1" name="pg1" value="3">
         <label for="pg1">Opção 2</label><br>
         <input type="radio" id="other" name="pg1" value="2">
-        <label for="other">Opção 3</label>
-    <label for="pergunta">Pergunta 2</label>
+        <label for="other">Opção 3</label><br><br>
+    <label for="pergunta">Pergunta 2</label><br>
         <input type="radio" id="pg2" name="pg2" value="5">
         <label for="pg2">Opção 1</label><br>
         <input type="radio" id="pg2" name="pg2" value="3">
         <label for="pg2">Opção 2</label><br>
         <input type="radio" id="other" name="pg2" value="2">
-        <label for="other">Opção 3</label>
+        <label for="other">Opção 3</label><br><br>
 	<a href="#" onclick="calcular();">calcular</a>
 </fieldset>
 </form>
