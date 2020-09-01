@@ -124,12 +124,11 @@ li{
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
         <h3> Nome:</h3>
         <input type="hidden" name="_language" value="{{ site.language }}" />
-        <input type="text" name="nome" placeholder="Seu nome ou pseudônimo">
+        <input type="text" name="nome" placeholder="Seu nome ">
         <button type="submit">Enviar</button>
       </fieldset>
     </form>
   </div>
-
 </div>
 
 <script type="text/javascript">
