@@ -8,7 +8,7 @@ menu: true
 ---
 
 <img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px;">
-<h2 style="text-align: center;">PACCE a Mensagem</h2>
+<h2 style="text-align: center;">Presença da formação</h2>
 <style type="text/css" media="screen">
 @font-face {
   font-family: 'Josefin Sans';
@@ -117,7 +117,7 @@ li{
 
 <div class="container">  
 <div class="container2">
-  <div id="form3" class="contact-form">
+  <div id="form3" class="contact-form3">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}"  ref="contact">
       <fieldset>
         <input type="hidden" name="_subject" value="New contact!" />

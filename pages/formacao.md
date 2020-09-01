@@ -8,7 +8,7 @@ menu: true
 ---
 
 <img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px;">
-<h2 style="text-align: center;">FORMAÇÃO</h2>
+<h2 style="text-align: center;">Formação</h2>
 <style type="text/css" media="screen">
 @font-face {
   font-family: 'Josefin Sans';
@@ -83,10 +83,10 @@ menu: true
           alert ("SEU RESULTADO FOI: " + soma + " PONTOS \n Sua PROATIVIDADE é mediana. Você precisa desenvolvê-la um pouco mais, procurando melhorar naqueles aspectos em que sente mais dificuldade. Converse um pouco mais consigo mesmo, e esteja aberto a receber mais feedback das pessoas. Se precisar de ajuda, conta com a gente, pacceiro! \n Acesse o link para receber presença pela formação--> \n  www.pacceqx.com.br/enviar");
       }
       else if((soma > 60) && (soma <= 80)){
-          alert ("SEU RESULTADO FOI:" + soma + " PONTOS \n Sua PROATIVIDADE é desenvolvida , mas você precisa estimular este comportamento nas pessoas, através de exemplos pessoais e da criação de um ambiente de abertura e confiança para sua equipe. Se precisar de ajuda, conta com a gente, pacceiro! \n Acesse o link para receber presença pela formação--> \n  www.pacceqx.com.br/enviar );
+          alert ("SEU RESULTADO FOI:" + soma + " PONTOS \n Sua PROATIVIDADE é desenvolvida , mas você precisa estimular este comportamento nas pessoas, através de exemplos pessoais e da criação de um ambiente de abertura e confiança para sua equipe. Se precisar de ajuda, conta com a gente, pacceiro! \n Acesse o link para receber presença pela formação--> \n  www.pacceqx.com.br/enviar" );
       }
       else if(soma > 80){
-          alert ("SEU RESULTADO FOI: " + soma + " PONTOS \n Sua PROATIVIDADE é bastante alta. Você é uma pessoa PROATIVA e estimula este comportamento nos outros, através de seu exemplo pessoal e criando um ambiente favorável à iniciativa de sua equipe. Parabéns, pacceiro! \n Acesse o link para receber presença pela formação--> \n  www.pacceqx.com.br/enviar );
+          alert ("SEU RESULTADO FOI: " + soma + " PONTOS \n Sua PROATIVIDADE é bastante alta. Você é uma pessoa PROATIVA e estimula este comportamento nos outros, através de seu exemplo pessoal e criando um ambiente favorável à iniciativa de sua equipe. Parabéns, pacceiro! \n Acesse o link para receber presença pela formação--> \n  www.pacceqx.com.br/enviar" );
       } else{
         alert ("Você não fez a formação toda. Tente novamente. " + soma);
       }
@@ -319,8 +319,9 @@ menu: true
         <input type="radio" id="pg20" name="pg20" value="2">
         <label >Nem vale como interação, não tem pra que eu ir</label><br>
         <input type="radio" id="pg20" name="pg20" value="1">
-        <label >Acho que isso é trabalho dos organizadores</label><br>                      
-	<a href="#" onclick="calcular();">calcular</a>
+        <label >Acho que isso é trabalho dos organizadores</label><br><br><br>  
+        <button>                    
+	<a href="#" onclick="calcular();">calcular</a></button>
 </form>
     </div>
    
