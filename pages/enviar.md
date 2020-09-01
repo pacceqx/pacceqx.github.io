@@ -110,14 +110,14 @@ li{
 
 {% if site.email %}
 <style type="text/css" media="screen">
-  .container3 {
+  .container2 {
     width: 290px;
   }
 </style>
 
 <div class="container">  
-<div class="container3">
-  <div id="form3" class="contact-form3">
+<div class="container2">
+  <div id="form3" class="contact-form">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}"  ref="contact">
       <fieldset>
         <input type="hidden" name="_subject" value="New contact!" />
@@ -125,7 +125,6 @@ li{
         <h3> Nome:</h3>
         <input type="hidden" name="_language" value="{{ site.language }}" />
         <input type="text" name="nome" placeholder="Seu nome ou pseudônimo">
-        <span v-cloak>${ errors.first('nome') }</span>
         <button type="submit">Enviar</button>
       </fieldset>
     </form>
@@ -164,4 +163,4 @@ new Vue({
 
 {% endif %}
 
-   
+   </div>
