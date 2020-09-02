@@ -3,7 +3,6 @@ layout: page
 title: Presença da formação
 description: Some description.
 permalink: /enviar/
-ok: ok
 menu: true
 ---
 
