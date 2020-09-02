@@ -21,11 +21,7 @@ permalink: /enviar/
   src: local('Josefin Sans Bold'), local('JosefinSans-Bold'), url(https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ectllte10k.ttf) format('truetype');
 }
 .container{ 
-  overflow-Y: hidden;
-  display:flex;
-  flex-flow: row wrap;
-  justify-content:space-between;
-  margin: auto; 
+  margin: 0 auto;
 }
 #msg{
   height: 350px; 
