@@ -25,7 +25,7 @@ permalink: /enviar/
   display:flex;
   flex-flow: row wrap;
   justify-content:space-between;
-  margin-left: 460px; 
+  margin: auto; 
 }
 #msg{
   height: 350px; 

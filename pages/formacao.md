@@ -28,7 +28,7 @@ menu: true
   display:flex;
   flex-flow: row wrap;
   justify-content:space-between; 
-  margin-left: 100px;
+  margin: auto; 
 }
 
 </style>
