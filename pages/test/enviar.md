@@ -23,6 +23,9 @@ permalink: /enviar/
 .container{ 
   margin: 0 auto;
 }
+.container3{ 
+  margin: 0 auto;
+}
 #msg{
   height: 350px; 
   width: 290px;
@@ -104,11 +107,7 @@ li{
 </style>
 
 {% if site.email %}
-<style type="text/css" media="screen">
-  .container2 {
-    width: 290px;
-  }
-</style>
+
 
 <div class="container">  
         <div class="container2">
