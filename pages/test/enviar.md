@@ -3,7 +3,6 @@ layout: page
 title: Presença da formação
 description: Some description.
 permalink: /enviar/
-menu: true
 ---
 
 <img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px;">
