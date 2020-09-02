@@ -46,20 +46,20 @@ li{
   margin-left: -50px;
   margin-top: -20px;
 }
-.ccontact-form3 {
+.contact-form3 {
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
     font-weight: 700;
     font-style: normal;
     width: 310px;
     margin-left: -10px
 }
-.ccontact-form3 fieldset {
+.contact-form3 fieldset {
     border: none;
     font-weight: normal
 }
-.ccontact-form3 input[type="text"],
-.ccontact-form3 input[type="para"],
-.ccontact-form3 textarea {
+.contact-form3 input[type="text"],
+.contact-form3 input[type="para"],
+.contact-form3 textarea {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     outline: none;
@@ -72,15 +72,15 @@ li{
     font-size: 1.125rem;
     height: 50px;
 }
-.ccontact-form3 input[type="text"].has-error,
-.ccontact-form3 input[type="para"].has-error,
-.ccontact-form3 span {
+.contact-form3 input[type="text"].has-error,
+.contact-form3 input[type="para"].has-error,
+.contact-form3 span {
     display: block;
     font-size: .875rem;
     color: #00afefff;
     padding-bottom: .625rem
 }
-.ccontact-form3 button[type="submit"] {
+.contact-form3 button[type="submit"] {
     display: block;
     padding: .875rem 2.438rem .875rem 2.438rem;
     color: #fff;
@@ -95,15 +95,15 @@ li{
     outline: none;
     border-radius: 10px;
 }
-.ccontact-form3 button[type="submit"]:hover {
+.contact-form3 button[type="submit"]:hover {
     background: rgb(43, 190, 243)
 }
 @media only screen and (min-width:37.5rem) {
-    .ccontact-form3 button[type="submit"] {
+    .contact-form3 button[type="submit"] {
         padding: 1.188rem 2.438rem 1.125rem 2.438rem
     }
 }
-.ccontact-form3 [v-cloak] {
+.contact-form3 [v-cloak] {
     display: none
 }
 </style>
