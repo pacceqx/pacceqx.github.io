@@ -123,15 +123,15 @@ li{
                 <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
                 <h3>Formação </h3>
                 <input type="hidden" name="_language" value="{{ site.language }}" />
-        <label >Nome:</label>
+        <h5 >Nome:</h5>
                 <input type="text" name="nome" placeholder="Seu nome ">
-        <label >1. Escreva um pouco, com suas palavras, sobre o que você entende / aprendeu sobre proatividade.</label>
+        <h5 >1. Escreva um pouco, com suas palavras, sobre o que você entende / aprendeu sobre proatividade.</h5>
                  <textarea name="pergunta1" onkeyup="adjust_textarea(this)" placeholder="Sua mensagem" ></textarea>
-        <label >2. Sabemos que nem sempre o questionário será 100% fiel, há casos e casos. Mas, com base no que você respondeu, em que aspectos você avistou que pode melhorar? (Cite exemplos no projeto, na faculdade, no dia a dia, o que você julgar importante)</label>
+        <h5 >2. Sabemos que nem sempre o questionário será 100% fiel, há casos e casos. Mas, com base no que você respondeu, em que aspectos você avistou que pode melhorar? (Cite exemplos no projeto, na faculdade, no dia a dia, o que você julgar importante)</h5>
                  <textarea name="pergunta2" onkeyup="adjust_textarea(this)" placeholder="Sua mensagem" ></textarea>
-        <label >3. O pacce ajudou você de alguma maneira no aspecto proativo? Se sim, conta pra gente.</label>
+        <h5 >3. O pacce ajudou você de alguma maneira no aspecto proativo? Se sim, conta pra gente.</h5>
                    <textarea name="pergunta3" onkeyup="adjust_textarea(this)" placeholder="Sua mensagem" ></textarea>
-        <label >4. Há alguma história sobre proatividade que você gostaria de contar para contribuir com nosso diálogo? (Pode ser real ou que você viu em algum filme, por exemplo).</label>
+        <h5 >4. Há alguma história sobre proatividade que você gostaria de contar para contribuir com nosso diálogo? (Pode ser real ou que você viu em algum filme, por exemplo).</h5>
                   <textarea name="pergunta4" onkeyup="adjust_textarea(this)" placeholder="Sua mensagem" ></textarea>
                 <button type="submit">Enviar</button>
             </fieldset>
