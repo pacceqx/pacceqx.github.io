@@ -26,7 +26,8 @@ menu: true
   overflow-Y: hidden;
   display:flex;
   flex-flow: row wrap;
-  justify-content:space-between; 
+  justify-content:space-between;
+  margin-left: 450px; 
 }
 #msg{
   height: 350px; 
