@@ -104,7 +104,7 @@ menu: true
 <div class="container">  
 <form id="formulario">
 <br>
-<br><br><label for="pergunta">1 - Você percebeu que ainda não teve nenhuma interação marcada pra essa semana. O que você faz?</label><br>
+<br><br><b><label for="pergunta">1 - Você percebeu que ainda não teve nenhuma interação marcada pra essa semana. O que você faz?</label></b><br>
         <input type="radio" id="pg1" name="pg1" value="5">
         <label >Crio uma interação do zero</label><br>
         <input type="radio" id="pg1" name="pg1" value="4">
@@ -115,7 +115,7 @@ menu: true
         <label >Pergunto pra Gabi se ela vai marcar alguma.</label><br>
         <input type="radio" id="pg1" name="pg1" value="1">
         <label >Deixo pra lá, afinal, a responsabilidade não é minha.</label><br>
-<br><br><label for="pergunta">2 - Você vê um erro de digitação na arte que foi postada no instagram recentemente. O que faz?</label><br>
+<br><br><b><label for="pergunta">2 - Você vê um erro de digitação na arte que foi postada no instagram recentemente. O que faz?</label></b><br>
         <input type="radio" id="pg2" name="pg2" value="5">
         <label >Fala com quem fez a arte diretamente (se você souber)</label><br>
         <input type="radio" id="pg2" name="pg2" value="4">
@@ -126,7 +126,7 @@ menu: true
         <label >Manda mensagem no grupo geral com um print do erro</label><br>
         <input type="radio" id="pg2" name="pg2" value="1">
         <label >Deixa pra lá, isso já aconteceu antes.</label><br>
-<br><br><label for="pergunta">3 -Vocês estão assistindo um filme online em uma interação e a internet da pessoa que está transmitindo está ruim e travando muito. O que você faz?</label><br>
+<br><br><b><label for="pergunta">3 -Vocês estão assistindo um filme online em uma interação e a internet da pessoa que está transmitindo está ruim e travando muito. O que você faz?</label></b><br>
         <input type="radio" id="pg3" name="pg3" value="5">
         <label >Pergunta se pode tentar transmitir do seu pc para todos. </label><br>
         <input type="radio" id="pg3" name="pg3" value="4">
@@ -137,7 +137,7 @@ menu: true
         <label >Deixa travando mesmo, não foi você que marcou a interação.</label><br>
         <input type="radio" id="pg3" name="pg3" value="1">
         <label >Comenta com outras pessoas que a interação foi muito ruim, porque travou muito.</label><br>
-<br><br><label for="pergunta">4 - O pacce vai transmitir uma live, sobre um assunto “x”. O que você faz?</label><br>
+<br><br><b><label for="pergunta">4 - O pacce vai transmitir uma live, sobre um assunto “x”. O que você faz?</label></b><br>
         <input type="radio" id="pg4" name="pg4" value="5">
         <label >Você já compartilha com seu amigos, chamando pra assistir, comentando que vai ser legal.</label><br>
         <input type="radio" id="pg4" name="pg4" value="4">
@@ -148,7 +148,7 @@ menu: true
         <label >Não compartilha em lugar nenhum, porque você sabe que a Kassiane já compartilha em todos os lugares</label><br>
         <input type="radio" id="pg4" name="pg4" value="1">
         <label >Não preciso compartilhar, a comunicação serve pra isso</label><br>
-<br><br><label for="pergunta">5 - A atividade da formação foi muito complicada de ser feita. O que você faz?</label><br>
+<br><br><b><label for="pergunta">5 - A atividade da formação foi muito complicada de ser feita. O que você faz?</label></b><br>
         <input type="radio" id="pg5" name="pg5" value="5">
         <label >Fala com a Késsia para sugerir uma outra atividade</label><br>
         <input type="radio" id="pg5" name="pg5" value="4">
@@ -159,7 +159,7 @@ menu: true
         <label >Deixa pra lá, a reposição serve pra isso</label><br>
         <input type="radio" id="pg5" name="pg5" value="1">
         <label >Que formação? Tem formação?</label><br>
-<br><br><label for="pergunta">6 - Você está na reunião semanal e percebe que o microfone da Kassiane não está funcionando bem. O que você faz?</label><br>
+<br><br><b><label for="pergunta">6 - Você está na reunião semanal e percebe que o microfone da Kassiane não está funcionando bem. O que você faz?</label></b><br>
         <input type="radio" id="pg6" name="pg6" value="5">
         <label >Liga o microfone pra avisar pra ela.</label><br>
         <input type="radio" id="pg6" name="pg6" value="4">
@@ -170,7 +170,7 @@ menu: true
         <label >Não vou avisar, uma hora ela vai perceber</label><br>
         <input type="radio" id="pg6" name="pg6" value="1">
         <label >Só quero que a reunião acabe logo</label><br>
-<br><br><label for="pergunta">7 - Vou organizar um evento. O que eu faço?</label><br>
+<br><br><b><label for="pergunta">7 - Vou organizar um evento. O que eu faço?</label></b><br>
         <input type="radio" id="pg7" name="pg7" value="5">
         <label >Falo logo com a Comunicação e pergunto o que preciso para fazer acontecer</label><br>
         <input type="radio" id="pg7" name="pg7" value="4">
@@ -181,7 +181,7 @@ menu: true
         <label >Deixo a Comunicação fazer toda a divulgação, já que é trabalho deles</label><br>
         <input type="radio" id="pg7" name="pg7" value="1">
         <label >Só anuncio e espero que tudo dê certo no dia</label><br>
-<br><br><label for="pergunta">8 - Recebo mensagem dizendo ser hora da Reunião Individual. O que faço?</label><br>
+<br><br><b><label for="pergunta">8 - Recebo mensagem dizendo ser hora da Reunião Individual. O que faço?</label></b><br>
         <input type="radio" id="pg8" name="pg8" value="5">
         <label >Respondo na hora e explico detalhadamente tudo o que tá acontecendo</label><br>
         <input type="radio" id="pg8" name="pg8" value="4">
@@ -192,7 +192,7 @@ menu: true
         <label >Quando der, eu visualizo e respondo, mas de forma super sucinta</label><br>
         <input type="radio" id="pg8" name="pg8" value="1">
         <label >Deixo pra lá, todo mês tem reunião individual mesmo...</label><br>  
-<br><br><label for="pergunta">9 - Você vê que não vai conseguir cumprir as horas semanais</label><br>
+<br><br><b><label for="pergunta">9 - Você vê que não vai conseguir cumprir as horas semanais</label></b><br>
         <input type="radio" id="pg9" name="pg9" value="5">
         <label >Tento fazer algo a mais para cumprir as horas (crio uma interação, penso em algum campeonato, gravo algum vídeo de conteúdo pro canal, etc)</label><br>
         <input type="radio" id="pg9" name="pg9" value="4">
@@ -203,7 +203,7 @@ menu: true
         <label >Falo com a Kassi e justifica, e diz que irá compensar na semana seguinte</label><br>
         <input type="radio" id="pg9" name="pg9" value="1">
         <label >Deixo pra lá...</label><br>
-<br><br><label for="pergunta">10 - Você vai fazer um evento na célula. O que você faz?</label><br>
+<br><br><b><label for="pergunta">10 - Você vai fazer um evento na célula. O que você faz?</label></b><br>
         <input type="radio" id="pg10" name="pg10" value="5">
         <label >Planejo direitinho tudo que quero fazer e peço ajuda da Comunicação na parte da arte e divulgação</label><br>
         <input type="radio" id="pg10" name="pg10" value="4">
@@ -214,7 +214,7 @@ menu: true
         <label >Não vou me preocupar com divulgação, já que no último evento algumas pessoas participaram</label><br>
         <input type="radio" id="pg10" name="pg10" value="1">
         <label >Acho melhor não divulgar. Menos pessoas, menos problemas</label><br>  
-<br><br><label for="pergunta">11 - Kassiane avisa que as frequências da célula precisam ser entregues no final do mês. O que você faz?</label><br>
+<br><br><b><label for="pergunta">11 - Kassiane avisa que as frequências da célula precisam ser entregues no final do mês. O que você faz?</label></b><br>
         <input type="radio" id="pg11" name="pg11" value="5">
         <label >Criei meu documento no início da célula, sempre atualizo a cada semana</label><br>
         <input type="radio" id="pg11" name="pg11" value="4">
@@ -225,7 +225,7 @@ menu: true
         <label >No dia de entregar vou no grupo e peço o arquivo da planilha de frequência editável</label><br>
         <input type="radio" id="pg11" name="pg11" value="1">
         <label >Perco o prazo e espero a Kassiane cobrar de novo</label><br> 
-<br><br><label for="pergunta">12 - Esqueceu / perdeu a noção do tempo para fazer Planejamento e Feedback. O que você faz?</label><br>
+<br><br><b><label for="pergunta">12 - Esqueceu / perdeu a noção do tempo para fazer Planejamento e Feedback. O que você faz?</label></b><br>
         <input type="radio" id="pg12" name="pg12" value="5">
         <label >Aviso pra Kassi que não consegui fazer a tempo e envio ainda de madrugada.</label><br>
         <input type="radio" id="pg12" name="pg12" value="4">
@@ -236,7 +236,7 @@ menu: true
         <label >Eu sempre entrego, esquecer uma vez não faz mal</label><br>
         <input type="radio" id="pg12" name="pg12" value="1">
         <label >Não vou enviar, nem sei pra que serve</label><br>
-<br><br><label for="pergunta">13 - Surgiu um desentendimento entre você e outro bolsista e você se sentiu ofendido. O que faz?</label><br>
+<br><br><b><label for="pergunta">13 - Surgiu um desentendimento entre você e outro bolsista e você se sentiu ofendido. O que faz?</label></b><br>
         <input type="radio" id="pg13" name="pg13" value="5">
         <label >Falo com a pessoa em particular pra não virar uma bola de neve</label><br>
         <input type="radio" id="pg13" name="pg13" value="4">
@@ -247,7 +247,7 @@ menu: true
         <label >Espero a pessoa falar comigo, afinal, foi ela que me ofendeu</label><br>
         <input type="radio" id="pg13" name="pg13" value="1">
         <label >Falo na frente de todos na reunião geral</label><br>
-<br><br><label for="pergunta">14 - Alguém aparece pedindo informação sobre as coisas do PACCE. Como você age?</label><br>
+<br><br><b><label for="pergunta">14 - Alguém aparece pedindo informação sobre as coisas do PACCE. Como você age?</label></b><br>
         <input type="radio" id="pg14" name="pg14" value="5">
         <label >Me prontifico a responder, buscando informações</label><br>
         <input type="radio" id="pg14" name="pg14" value="4">
@@ -258,7 +258,7 @@ menu: true
         <label >Só respondo se for algo relacionado ao que eu faço</label><br>
         <input type="radio" id="pg14" name="pg14" value="1">
         <label >Falo que não conheço o projeto e pronto</label><br> 
-<br><br><label for="pergunta">15 - Vi que um bolsista está passando por um sério problema familiar. O que faço?</label><br>
+<br><br><b><label for="pergunta">15 - Vi que um bolsista está passando por um sério problema familiar. O que faço?</label></b><br>
         <input type="radio" id="pg15" name="pg15" value="5">
         <label >Pergunto se posso ajudar nas suas atividades da semana</label><br>
         <input type="radio" id="pg15" name="pg15" value="4">
@@ -269,7 +269,7 @@ menu: true
         <label >Já já isso passa, qualquer coisa ele recupera depois</label><br>
         <input type="radio" id="pg15" name="pg15" value="1">
         <label >Cada um com seus problemas...</label><br>  
-<br><br><label for="pergunta">16 - Estava nas redes sociais e vi um post falando mal do PACCE. Como devo agir?</label><br>
+<br><br><b><label for="pergunta">16 - Estava nas redes sociais e vi um post falando mal do PACCE. Como devo agir?</label></b><br>
         <input type="radio" id="pg16" name="pg16" value="5">
         <label >Chamo a pessoa no privado para conversar e tentar resolver o desentendimento</label><br>
         <input type="radio" id="pg16" name="pg16" value="4">
@@ -280,7 +280,7 @@ menu: true
         <label >Cada um fala o que quiser, deixa quieto</label><br>
         <input type="radio" id="pg16" name="pg16" value="1">
         <label >Finjo que nem vi</label><br>    
-<br><br><label for="pergunta">17 - Estou em equipe da formação com pessoas que não colaboram. O que eu faço?</label><br>
+<br><br><b><label for="pergunta">17 - Estou em equipe da formação com pessoas que não colaboram. O que eu faço?</label></b><br>
         <input type="radio" id="pg17" name="pg17" value="5">
         <label >Insisto em incluir o pessoal o máximo possível</label><br>
         <input type="radio" id="pg17" name="pg17" value="4">
@@ -291,7 +291,7 @@ menu: true
         <label >Nem tento, vou direto pra reposição</label><br>
         <input type="radio" id="pg17" name="pg17" value="1">
         <label >Não faço formações em equipe</label><br>       
-<br><br><label for="pergunta">18 - Você sabe que em uma semana não estará disponível para as atividades. O que você faz?</label><br>
+<br><br><b><label for="pergunta">18 - Você sabe que em uma semana não estará disponível para as atividades. O que você faz?</label></b><br>
         <input type="radio" id="pg18" name="pg18" value="5">
         <label >Falo com a Kassi, a Késsia e a Gabi explicando que estarei ausente</label><br>
         <input type="radio" id="pg18" name="pg18" value="4">
@@ -302,7 +302,7 @@ menu: true
         <label >Espero alguém falar comigo e eu explico a situação</label><br>
         <input type="radio" id="pg18" name="pg18" value="1">
         <label >É só uma semana, ninguém vai notar</label><br> 
-<br><br><label for="pergunta">19 - Você viu no site que está faltando uma notícia de um evento que já aconteceu. O que você faz?</label><br>
+<br><br><b><label for="pergunta">19 - Você viu no site que está faltando uma notícia de um evento que já aconteceu. O que você faz?</label></b><br>
         <input type="radio" id="pg19" name="pg19" value="5">
         <label >Falo com alguém da comunicação</label><br>
         <input type="radio" id="pg19" name="pg19" value="4">
@@ -313,7 +313,7 @@ menu: true
         <label >Mando uma indireta no grupo</label><br>
         <input type="radio" id="pg19" name="pg19" value="1">
         <label >Deixo pra lá, o trabalho não é meu mesmo</label><br>
-<br><br><label for="pergunta">20 - Alguém vai no grupo e pergunta quem está livre para um teste de live. Se você estiver livre, o que você faz?</label><br>
+<br><br><b><label for="pergunta">20 - Alguém vai no grupo e pergunta quem está livre para um teste de live. Se você estiver livre, o que você faz?</label></b><br>
         <input type="radio" id="pg20" name="pg20" value="5">
         <label >Vou para o teste na hora, é bom que ajudo a galera</label><br>
         <input type="radio" id="pg20" name="pg20" value="4">
