@@ -15,7 +15,6 @@ menu: true
   display:flex;
   flex-flow: row wrap;
   justify-content:space-between; 
-  font-size: 10px;
 }
 #msg{
   height: 350px; 
@@ -26,16 +25,13 @@ menu: true
   margin-bottom: 5px;
   font-size: 10px;
 }
-#titulo{
-  font-weight:bold;
-}
 ul {
 list-style-type: none;
 }
 li{
   margin-left: -50px;
-
-  font-size: 10px;
+  margin-top: -20px;
+  font-size: 15px;
   
 }
 .contact-form2 {
