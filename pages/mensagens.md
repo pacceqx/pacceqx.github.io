@@ -13,13 +13,13 @@ menu: true
 @font-face {
   font-family: 'Josefin Sans';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 100;
   src: local('Josefin Sans Regular'), local('JosefinSans-Regular'), url(https://fonts.gstatic.com/s/josefinsans/v14/Qw3aZQNVED7rKGKxtqIqX5EUDXx9.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Josefin Sans';
   font-style: normal;
-  font-weight: 700;
+  font-weight:   300;
   src: local('Josefin Sans Bold'), local('JosefinSans-Bold'), url(https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ectllte10k.ttf) format('truetype');
 }
 .container{ 
@@ -27,6 +27,7 @@ menu: true
   display:flex;
   flex-flow: row wrap;
   justify-content:space-between; 
+  font-size: 10px;
 }
 #msg{
   height: 350px; 
@@ -46,6 +47,8 @@ list-style-type: none;
 li{
   margin-left: -50px;
   margin-top: -20px;
+  font-size: 10px;
+  
 }
 .contact-form2 {
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
@@ -70,7 +73,7 @@ li{
     border: none;
     border-bottom: 1px solid #ddd;
     font-family: inherit;
-    font-size: 20px;
+    font-size: 15px;
     height: 50px;
 }
 .contact-form2 input[type="text"].has-error,
