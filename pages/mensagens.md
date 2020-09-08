@@ -22,14 +22,14 @@ menu: true
   text-align: justify;  
   background: #00afefff;
   font-size: 10px;
-  margin-buttom: 5px;
+  margin-bottom: 5px;
 }
 ul {
 list-style-type: none;
 }
 li{
   margin-left: -50px;
-  margin-top: 20px;
+  margin-top: -20px;
   font-size: 13px;
   
 }
