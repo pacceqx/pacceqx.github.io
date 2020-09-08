@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: Presença da formação
 description: Some description.
 permalink: /enviar/
