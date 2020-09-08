@@ -13,7 +13,6 @@ menu: true
 .container{ 
   overflow-Y: hidden;
   display:flex;
-  flex-flow: row wrap;
   justify-content:space-between; 
 }
 #msg{
@@ -22,6 +21,7 @@ menu: true
   text-align: justify;  
   background: #00afefff;
   font-size: 10px;
+  margin-buttom: 5px;
 }
 ul {
 list-style-type: none;
