@@ -13,6 +13,7 @@ menu: true
 .container{ 
   overflow-Y: hidden;
   display:flex;
+  flex-flow: row wrap;
   justify-content:space-between; 
 }
 #msg{
@@ -28,7 +29,7 @@ list-style-type: none;
 }
 li{
   margin-left: -50px;
-  margin-top: -20px;
+  margin-top: -60px;
   font-size: 13px;
   
 }
