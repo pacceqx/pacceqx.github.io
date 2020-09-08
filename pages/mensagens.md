@@ -29,7 +29,7 @@ menu: true
   justify-content:space-between; 
 }
 #msg{
-  height: 400px; 
+  height: 350px; 
   width: 290px;
   text-align: justify;  
   font-family: 'Josefin Sans';;
@@ -69,7 +69,7 @@ li{
     border: none;
     border-bottom: 1px solid #ddd;
     font-family: inherit;
-    font-size: 1.125rem;
+    font-size: 8px;
     height: 50px;
 }
 .contact-form2 input[type="text"].has-error,
