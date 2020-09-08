@@ -1,10 +1,8 @@
 ---
-layout: 
+layout: page 
 title: Formação
 description: Some description.
 permalink: /formacao/
-ok: ok
-menu: true
 ---
 
 <img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px;">
