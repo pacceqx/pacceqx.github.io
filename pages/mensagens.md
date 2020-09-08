@@ -20,9 +20,7 @@ menu: true
   height: 400px; 
   width: 290px;
   text-align: justify;  
-  font-family: 'Josefin Sans';;
   background: #00afefff;
-  margin-bottom: 5px;
   font-size: 10px;
 }
 ul {
