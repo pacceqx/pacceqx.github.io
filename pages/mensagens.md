@@ -31,7 +31,7 @@ list-style-type: none;
 li{
   margin-left: -50px;
   margin-top: -20px;
-  font-size: 15px;
+  font-size: 13px;
   
 }
 .contact-form2 {
