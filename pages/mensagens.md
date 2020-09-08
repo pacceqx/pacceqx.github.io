@@ -17,7 +17,7 @@ menu: true
   justify-content:space-between; 
 }
 #msg{
-  height: 350px; 
+  height: 400px; 
   width: 290px;
   text-align: justify;  
   font-family: 'Josefin Sans';;
@@ -30,7 +30,7 @@ list-style-type: none;
 }
 li{
   margin-left: -50px;
-  margin-top: 0px;
+  margin-top: -20px;
   font-size: 13px;
   
 }
@@ -100,6 +100,7 @@ li{
 <style type="text/css" media="screen">
   .container2 {
     width: 290px;
+    height: 400px;
   }
 </style>
 
