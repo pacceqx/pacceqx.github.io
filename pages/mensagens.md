@@ -35,6 +35,7 @@ menu: true
   font-family: 'Josefin Sans';;
   background: #00afefff;
   margin-bottom: 5px;
+  font-size: 10px;
 }
 #titulo{
   font-weight:bold;
@@ -69,7 +70,7 @@ li{
     border: none;
     border-bottom: 1px solid #ddd;
     font-family: inherit;
-    font-size: 8px;
+    font-size: 20px;
     height: 50px;
 }
 .contact-form2 input[type="text"].has-error,
