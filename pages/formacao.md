@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: Formação
 description: Some description.
 permalink: /formacao/
