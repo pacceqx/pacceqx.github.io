@@ -15,6 +15,7 @@ menu: true
   display:flex;
   flex-flow: row wrap;
   justify-content:space-between; 
+  line-height: 1px;
 }
 #msg{
   height: 400px; 
