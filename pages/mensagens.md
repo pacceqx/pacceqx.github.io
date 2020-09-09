@@ -31,8 +31,8 @@ list-style-type: none;
 li{
   margin-left: -50px;
   margin-top: -20px;
-  font-size: 13px;
-  line-height: 50px;
+  font-size: 15px;
+  line-height: 20px;
 }
 .contact-form2 {
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
