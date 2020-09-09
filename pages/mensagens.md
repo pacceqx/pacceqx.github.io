@@ -23,7 +23,7 @@ menu: true
   text-align: justify;  
   background: #00afefff;
   font-size: 10px;
-  margin-bottom: 5px;
+  margin-bottom: 20px;
 }
 ul {
 list-style-type: none;
