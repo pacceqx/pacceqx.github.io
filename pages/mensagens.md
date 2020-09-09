@@ -18,7 +18,7 @@ menu: true
 
 }
 #msg{
-  height: 400px; 
+  height: 350px; 
   width: 290px;
   text-align: justify;  
   background: #00afefff;
