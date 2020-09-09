@@ -15,7 +15,7 @@ menu: true
   display:flex;
   flex-flow: row wrap;
   justify-content:space-between; 
-  line-height: 1px;
+
 }
 #msg{
   height: 400px; 
@@ -32,7 +32,7 @@ li{
   margin-left: -50px;
   margin-top: -20px;
   font-size: 13px;
-  
+  line-height: 1px;
 }
 .contact-form2 {
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
