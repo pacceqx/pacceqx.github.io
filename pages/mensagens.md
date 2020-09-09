@@ -32,7 +32,7 @@ li{
   margin-left: -50px;
   margin-top: -20px;
   font-size: 13px;
-  line-height: 1px;
+  line-height: 5px;
 }
 .contact-form2 {
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
