@@ -2,7 +2,7 @@
 layout: page
 title: Pacce a Mensagem
 description: Some description.
-permalink: /mensagens/
+permalink: /pacceamsg/
 ok: ok
 menu: true
 ---
