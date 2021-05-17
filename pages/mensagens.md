@@ -99,8 +99,8 @@ li{
 {% if site.email %}
 <style type="text/css" media="screen">
   .container2 {
-    width: 290px;
-    height: 400px;
+    width: 350px;
+    height: 600px;
   }
 </style>
 
@@ -117,6 +117,8 @@ li{
         <span v-cloak>${ errors.first('de') }</span>
         <input type="text" name="para" placeholder="Para quem vai sua mensagem">
         <span  v-cloak>${ errors.first('para') }</span>
+        <input type="text" name="insta" placeholder="Instagram da pessoa que vai receber a mensagem">
+        <span  v-cloak>${ errors.first('insta') }</span>
         <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="Sua mensagem" ></textarea>
         <span  v-cloak>${ errors.first('message') }</span>
         <button type="submit">Enviar</button>
@@ -126,46 +128,4 @@ li{
 
 </div>
 
-<script type="text/javascript">
-function adjust_textarea(h) {
-    h.style.height = "100px";
-    h.style.height = (h.scrollHeight)+"px";
-}
-</script>
-
-<script src="https://unpkg.com/vue@2.4.2"></script>
-<script src="https://unpkg.com/vee-validate@2.0.0-rc.8"></script>
-<script type="text/javascript">
-Vue.use(VeeValidate);
-new Vue({
-  el: '#form2',
-  delimiters: ['${', '}'],
-  methods: {
-    validateBeforeSubmit: function () {
-      this.$validator.validateAll();
-      if (!this.errors.any()) {
-        this.$refs.contact.submit();
-      }
-    }
-  }
-});
-</script>
-
-{% else %}
-
-<script>window.location = "{% if site.url == '' and site.baseurl == '' %}/{% else %}{{ site.url }}{{ site.baseurl }}{% endif %}";</script>
-
-{% endif %}
-        {% for mensagens in site.mensagens %}
-      <div id="msg">
-        <ul>
-        <li style=" color: white;"><b>Data:</b> {{ mensagens.data  }}</li>
-          <li style=" color: white;"><b>De:</b> {{ mensagens.de  }}</li>
-          <li style=" color: white;"><b>Para:</b> {{ mensagens.para }}</li>
-          <li style=" color: white;"> <b> Mensagem: </b></li>
-          <li style=" color: white;"> {{ mensagens.msg }}</li>
-        </ul>    
-      </div>  
-      {% endfor %}
-    </div>
    
