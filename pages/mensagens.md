@@ -111,4 +111,34 @@ li{
 </div>
 
    
+<script type="text/javascript">
+function adjust_textarea(h) {
+    h.style.height = "200px";
+    h.style.height = (h.scrollHeight)+"px";
+}
+</script>
 
+<script src="https://unpkg.com/vue@2.4.2"></script>
+<script src="https://unpkg.com/vee-validate@2.0.0-rc.8"></script>
+<script type="text/javascript">
+Vue.use(VeeValidate);
+
+new Vue({
+  el: '#form',
+  delimiters: ['${', '}'],
+  methods: {
+    validateBeforeSubmit: function () {
+      this.$validator.validateAll();
+      if (!this.errors.any()) {
+        this.$refs.contact.submit();
+      }
+    }
+  }
+});
+</script>
+
+{% else %}
+
+<script>window.location = "{% if site.url == '' and site.baseurl == '' %}/{% else %}{{ site.url }}{{ site.baseurl }}{% endif %}";</script>
+
+{% endif %}
