@@ -12,7 +12,7 @@ menu: true
 <style type="text/css" media="screen">
 .container{ 
     margin: 0px auto;
-    max-width: 600px;
+    max-width: 1200px;
 }
 ul {
 list-style-type: none;
