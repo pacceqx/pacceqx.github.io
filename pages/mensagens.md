@@ -14,78 +14,7 @@ menu: true
     margin: 0px auto;
     max-width: 600px;
 }
-ul {
-list-style-type: none;
-}
-li{
-  margin-left: -50px;
-  margin-top: -20px;
-  font-size: 15px;
-  line-height: 20px;
-}
-.contact-form2 {
-    font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
-    font-weight: 700;
-    font-style: normal;
-    width: 400px;
-    margin-left: -10px
-}
-.contact-form2 fieldset {
-    border: none;
-    font-weight: normal
-}
-.contact-form2 input[type="text"],
-.contact-form2 input[type="para"],
-.contact-form2 textarea {
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    outline: none;
-    display: block;
-    color: #333;
-    width: 100%;
-    border: none;
-    border-bottom: 1px solid #ddd;
-    font-family: inherit;
-    font-size: 15px;
-    height: 50px;
-}
-.contact-form2 input[type="text"].has-error,
-.contact-form2 input[type="para"].has-error,
-.contact-form2 span {
-    display: block;
-    font-size: .875rem;
-    color: #00afefff;
-    padding-bottom: .625rem
-}
-.contact-form2 button[type="submit"] {
-    display: block;
-    padding: .875rem 2.438rem .875rem 2.438rem;
-    color: #fff;
-    background: #00afefff;
-    font-size: 1.125rem;
-    width: 100%;
-    border: 1px solid #00afefff;
-    border-width: 1px 1px 3px;
-    cursor: pointer;
-    -webkit-transition: all .3s;
-    transition: all .3s;
-    outline: none;
-    border-radius: 10px;
-}
-.contact-form2 button[type="submit"]:hover {
-    background: rgb(43, 190, 243)
-}
-@media only screen and (min-width:37.5rem) {
-    .contact-form2 button[type="submit"] {
-        padding: 1.188rem 2.438rem 1.125rem 2.438rem
-    }
-}
-.contact-form2 [v-cloak] {
-    display: none
-}
 </style>
-
-
 
 <div class="container">  
 
@@ -122,7 +51,6 @@ function adjust_textarea(h) {
 <script src="https://unpkg.com/vee-validate@2.0.0-rc.8"></script>
 <script type="text/javascript">
 Vue.use(VeeValidate);
-
 new Vue({
   el: '#form',
   delimiters: ['${', '}'],
