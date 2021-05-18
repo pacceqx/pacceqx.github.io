@@ -11,6 +11,7 @@ menu: true
 <h2 style="text-align: center;">PACCE a Mensagem</h2>
 <style type="text/css" media="screen">
 .container{ 
+    margin-left: auto;
   overflow-Y: hidden;
   display:flex;
   flex-flow: row wrap;
@@ -23,7 +24,8 @@ menu: true
   background: #00afefff;
   font-size: 10px;
   margin-bottom: 20px;
-  margin-left: auto;
+
+  
 }
 ul {
 list-style-type: none;
