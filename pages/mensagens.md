@@ -10,16 +10,15 @@ menu: true
 <img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px;">
 <h2 style="text-align: center;">PACCE a Mensagem</h2>
 <style type="text/css" media="screen">
-.container{ 
+.container2{ 
   overflow-Y: hidden;
   display:flex;
   flex-flow: row wrap;
   justify-content:space-between; 
-
 }
 #msg{
-  height: 350px; 
-  width: 290px;
+  height: 600px; 
+  width: 350px;
   text-align: justify;  
   background: #00afefff;
   font-size: 10px;
@@ -110,7 +109,7 @@ li{
       <fieldset>
         <input type="hidden" name="_subject" value="New contact!" />
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
-        <h3> Mensagem</h3>
+        <h3> Envie sua Mensagem</h3>
         <input type="hidden" name="_language" value="{{ site.language }}" />
         <input type="text" name="de" placeholder="Seu nome ou pseudônimo">
         <span v-cloak>${ errors.first('de') }</span>
