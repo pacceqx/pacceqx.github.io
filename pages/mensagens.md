@@ -44,7 +44,7 @@ li{
     border-bottom: 1px solid #ddd;
     font-family: inherit;
     font-size: 15px;
-    height: 50px;
+    height: 80px;
 }
 .contact-form2 input[type="text"].has-error,
 .contact-form2 input[type="para"].has-error,
