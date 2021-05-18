@@ -10,7 +10,7 @@ menu: true
 <img itemprop="image" class="img-rounded" src="http://pacceqx.github.io\assets\img\icons\read.svg" alt="Your Name" style="width: 160px;">
 <h2 style="text-align: center;">PACCE a Mensagem</h2>
 <style type="text/css" media="screen">
-.container2{ 
+.container{ 
   overflow-Y: hidden;
   display:flex;
   flex-flow: row wrap;
@@ -37,7 +37,7 @@ li{
     font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
     font-weight: 700;
     font-style: normal;
-    width: 310px;
+    width: 400px;
     margin-left: -10px
 }
 .contact-form2 fieldset {
@@ -95,15 +95,10 @@ li{
 }
 </style>
 
-<style type="text/css" media="screen">
-  .container2 {
-    width: 350px;
-    height: 600px;
-  }
-</style>
+
 
 <div class="container">  
-<div class="container2">
+
   <div id="form2" class="contact-form2">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}"  ref="contact">
       <fieldset>
@@ -122,7 +117,6 @@ li{
         <button type="submit">Enviar</button>
       </fieldset>
     </form>
-  </div>
 
 </div>
 
