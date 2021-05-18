@@ -23,6 +23,7 @@ menu: true
   background: #00afefff;
   font-size: 10px;
   margin-bottom: 20px;
+  margin-left: auto;
 }
 ul {
 list-style-type: none;
