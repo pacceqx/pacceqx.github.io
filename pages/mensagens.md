@@ -52,7 +52,6 @@ li{
     display: block;
     font-size: .875rem;
     color: #00afefff;
-    padding-bottom: .625rem
 }
 .contact-form2 button[type="submit"] {
     display: block;
