@@ -18,8 +18,6 @@ ul {
 list-style-type: none;
 }
 li{
-  margin-left: -50px;
-  margin-top: -20px;
   font-size: 15px;
   line-height: 20px;
 }
@@ -28,7 +26,6 @@ li{
     font-weight: 700;
     font-style: normal;
     width: 400px;
-    margin-left: -10px
 }
 .contact-form2 fieldset {
     border: none;
