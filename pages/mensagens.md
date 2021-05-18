@@ -96,7 +96,6 @@ li{
 }
 </style>
 
-{% if site.email %}
 <style type="text/css" media="screen">
   .container2 {
     width: 350px;
