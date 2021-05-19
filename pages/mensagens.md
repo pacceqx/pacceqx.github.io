@@ -89,7 +89,7 @@ li{
       <fieldset>
         <input type="hidden" name="_subject" value="New contact!" />
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
-        <h3> Envie sua Mensagem</h3>
+        <h3 style="text-align: center;"> Envie sua Mensagem</h3>
         <input type="hidden" name="_language" value="{{ site.language }}" />
         <input type="text" name="de" placeholder="Seu nome ou pseudônimo">
         <span v-cloak>${ errors.first('de') }</span>
