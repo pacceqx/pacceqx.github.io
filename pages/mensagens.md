@@ -15,7 +15,7 @@ menu: true
     max-width: 600px;
 }
 ul {
-list-style-type: none;
+  list-style-type: none;
 }
 li{
   font-size: 15px;
@@ -43,7 +43,7 @@ li{
     border-bottom: 1px solid #ddd;
     font-family: inherit;
     font-size: 15px;
-    height: 80px;
+    height: 50px;
 }
 .contact-form2 input[type="text"].has-error,
 .contact-form2 input[type="para"].has-error,
