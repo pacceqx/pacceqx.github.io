@@ -5,7 +5,7 @@ title: Campeonato de Valorant
 subtitle: 
 description: 
 category: noticia
-image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/capa/valorant.png
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/capas/valorant.png
 tags:
 - Notícia
 - Informação

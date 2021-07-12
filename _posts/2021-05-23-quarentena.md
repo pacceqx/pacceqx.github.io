@@ -5,7 +5,7 @@ title: Quarentena
 subtitle: 
 description: 
 category: noticia
-image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/capa/quarentena.png
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/capas/quarentena.png
 tags:
 - Notícia
 - Informação

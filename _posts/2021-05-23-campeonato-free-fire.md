@@ -5,7 +5,7 @@ title: Campeonato de Free Fire
 subtitle: 
 description: 
 category: noticia
-image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/2020-02-29/capa.png
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/capas/freefire.png
 tags:
 - Notícia
 - Informação

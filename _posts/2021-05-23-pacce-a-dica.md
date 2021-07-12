@@ -5,7 +5,7 @@ title: Pacce a Dica
 subtitle: 
 description: 
 category: noticia
-image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/capa/pacceadica.png
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/capas/pacceadica.png
 tags:
 - Notícia
 - Informação

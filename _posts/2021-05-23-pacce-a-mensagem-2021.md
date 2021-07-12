@@ -5,7 +5,7 @@ title: Pacce a mensagem
 subtitle: 
 description: 
 category: noticia
-image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/capa/pacceamsg.png
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/capas/pacceamsg.png
 tags:
 - Notícia
 - Informação

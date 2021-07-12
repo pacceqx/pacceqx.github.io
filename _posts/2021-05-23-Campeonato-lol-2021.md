@@ -5,7 +5,7 @@ title: Campeonato de Lague Of Legends
 subtitle: 
 description: 
 category: noticia
-image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/capa/lol.png
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/capas/lol.png
 tags:
 - Notícia
 - Informação

@@ -5,7 +5,7 @@ title: Recepção dos Calouros
 subtitle: 
 description: 
 category: noticia
-image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/capa/recepcao.png
+image: https://raw.githubusercontent.com/pacceqx/pacceqx.github.io/master/assets/pic/capas/recepcao.png
 tags:
 - Notícia
 - Informação
