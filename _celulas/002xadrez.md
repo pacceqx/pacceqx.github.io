@@ -6,6 +6,6 @@ situacion: ativo
 name: Xadrez
 hora: Quarta-feira 10h
 local: Sala de Desenho
-photo: http://pacceqx.github.io\assets\pic\celulas\rpg20.png
+photo: http://pacceqx.github.io\assets\pic\celulas\Xadrez.png
 ---
 
