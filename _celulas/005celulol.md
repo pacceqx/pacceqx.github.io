@@ -6,7 +6,7 @@ situacion: ativo
 name: Celulol
 hora: Terça-feira 20h
 local: Link do Discord
-photo: http://pacceqx.github.io\assets\pic\celulas\lol20.png
+photo: http://pacceqx.github.io\assets\pic\celulas\lol.png
 link: https://discord.gg/6ZKmFFTfx5
 ---
 
