@@ -6,7 +6,7 @@ situacion: ativo
 name: Valorant
 hora: Quinta-feira 19h
 local: Link do Discord
-photo: http://pacceqx.github.io\assets\pic\celulas\pacce_o_filme20.png
+photo: http://pacceqx.github.io\assets\pic\celulas\vava.png
 link: https://discord.gg/6ZKmFFTfx5
 ---
 
