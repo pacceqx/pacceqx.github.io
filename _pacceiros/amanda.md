@@ -1,5 +1,5 @@
 ---
-layout: staff
+layout: pacceiro
 ano: 2023
 funcion: staff
 situacion: ativo
