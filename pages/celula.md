@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Células
 description: Some description.
 permalink: /celula/
