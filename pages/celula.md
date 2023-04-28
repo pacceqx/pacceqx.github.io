@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: page
 title: Células
 description: Some description.
 permalink: /celula/
 ok: ok
+paginate: true
 menu: true
 ---
 
